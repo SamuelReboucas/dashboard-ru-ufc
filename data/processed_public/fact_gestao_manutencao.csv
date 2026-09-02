@@ -1,0 +1,167 @@
+﻿data,ru_texto,resolvido,data_resolucao,tipo,sheet_origem,ru,resolvido_flag,mes
+2025-01-06,Benfica,Sim,2026-06-25,Infraestrutura,UFC-INFRA,B,True,2025-01
+2025-01-07,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2025-01
+2026-01-08,Benfica,Sim,2026-06-22,Infraestrutura,UFC-INFRA,B,True,2026-01
+2026-01-13,Benfica,Sim,2026-02-10,Infraestrutura,UFC-INFRA,B,True,2026-01
+2026-01-14,Benfica,Sim,2026-06-25,Infraestrutura,UFC-INFRA,B,True,2026-01
+2026-01-15,Benfica,Sim,,Infraestrutura,UFC-INFRA,B,True,2026-01
+2025-01-19,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2025-01
+2025-01-19,Pici 1,Sim,2026-02-09,Infraestrutura,UFC-INFRA,P1,True,2025-01
+2025-01-22,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2025-01
+2026-01-26,Benfica,Sim,2026-02-09,Infraestrutura,UFC-INFRA,B,True,2026-01
+2025-01-27,Pici 1,Sim,2026-02-03,Infraestrutura,UFC-INFRA,P1,True,2025-01
+2026-02-02,Pici 1,Sim,,Infraestrutura,UFC-INFRA,P1,True,2026-02
+2026-02-02,Benfica,Sim,2026-04-06,Infraestrutura,UFC-INFRA,B,True,2026-02
+2026-02-03,Pici 1,Sim,2026-02-06,Infraestrutura,UFC-INFRA,P1,True,2026-02
+2026-02-04,Benfica,Sim,2026-06-22,Infraestrutura,UFC-INFRA,B,True,2026-02
+2026-02-09,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-02
+2025-02-09,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2025-02
+2025-02-11,Pici 1,Sim,2026-02-27,Infraestrutura,UFC-INFRA,P1,True,2025-02
+2026-02-11,Pici 1,Sim,2026-02-27,Infraestrutura,UFC-INFRA,P1,True,2026-02
+2026-02-12,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-02
+2026-02-13,Benfica,Sim,2026-03-24,Infraestrutura,UFC-INFRA,B,True,2026-02
+2026-02-13,Pici 1,Sim,2026-02-24,Infraestrutura,UFC-INFRA,P1,True,2026-02
+2026-02-19,Pici 1,Sim,2026-02-20,Infraestrutura,UFC-INFRA,P1,True,2026-02
+2026-02-11,Porangabussu,Sim,2026-02-11,Infraestrutura,UFC-INFRA,PO,True,2026-02
+2026-02-24,Pici 1,Sim,2026-02-25,Infraestrutura,UFC-INFRA,P1,True,2026-02
+2026-02-25,Pici 1,Sim,2026-02-25,Infraestrutura,UFC-INFRA,P1,True,2026-02
+2025-02-26,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2025-02
+2026-02-26,Porangabussu,Sim,,Infraestrutura,UFC-INFRA,PO,True,2026-02
+2026-03-02,Pici 1,Sim,2026-03-06,Infraestrutura,UFC-INFRA,P1,True,2026-03
+2026-03-02,Benfica,Sim,2026-03-18,Infraestrutura,UFC-INFRA,B,True,2026-03
+2026-03-03,Pici 1,Sim,2026-03-06,Infraestrutura,UFC-INFRA,P1,True,2026-03
+2026-03-04,Benfica,Sim,2026-05-04,Infraestrutura,UFC-INFRA,B,True,2026-03
+2026-03-04,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-03
+2026-03-06,Pici 1,Sim,2026-03-06,Infraestrutura,UFC-INFRA,P1,True,2026-03
+2026-03-06,Benfica,Sim,2026-03-06,Infraestrutura,UFC-INFRA,B,True,2026-03
+2026-03-06,Pici 2,Sim,2026-03-05,Infraestrutura,UFC-INFRA,P2,True,2026-03
+2026-03-09,Pici 1,Sim,,Infraestrutura,UFC-INFRA,P1,True,2026-03
+2026-03-10,Pici 1,Sim,,Infraestrutura,UFC-INFRA,P1,True,2026-03
+2026-03-13,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-03
+2026-03-16,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-03
+2026-03-16,Benfica,Sim,2026-05-28,Infraestrutura,UFC-INFRA,B,True,2026-03
+2026-03-17,Pici 2,Sim,2026-03-18,Infraestrutura,UFC-INFRA,P2,True,2026-03
+2026-03-17,Pici 1,Sim,2026-03-23,Infraestrutura,UFC-INFRA,P1,True,2026-03
+2026-03-18,Benfica,Sim,2026-03-18,Infraestrutura,UFC-INFRA,B,True,2026-03
+2026-03-18,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-03
+2026-03-24,Pici 2,Sim,2026-03-26,Infraestrutura,UFC-INFRA,P2,True,2026-03
+2026-03-26,Benfica,Sim,2026-05-18,Infraestrutura,UFC-INFRA,B,True,2026-03
+2026-03-26,Pici 1,Sim,2026-03-27,Infraestrutura,UFC-INFRA,P1,True,2026-03
+2026-03-27,Pici 2,Sim,2026-03-31,Infraestrutura,UFC-INFRA,P2,True,2026-03
+2026-03-30,Benfica,Sim,2026-04-06,Infraestrutura,UFC-INFRA,B,True,2026-03
+2026-03-31,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-03
+2026-04-01,Pici 1,Sim,2026-04-06,Infraestrutura,UFC-INFRA,P1,True,2026-04
+2026-04-07,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-04
+2026-04-07,Pici 2,Sim,2026-05-22,Infraestrutura,UFC-INFRA,P2,True,2026-04
+2026-04-08,Pici 1,Sim,,Infraestrutura,UFC-INFRA,P1,True,2026-04
+2026-04-09,Pici 1,Sim,2026-04-14,Infraestrutura,UFC-INFRA,P1,True,2026-04
+2026-04-14,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-04
+2026-04-14,Pici 1,Sim,2026-04-14,Infraestrutura,UFC-INFRA,P1,True,2026-04
+2026-04-17,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-04
+2026-04-22,Pici 2,Sim,2026-04-23,Infraestrutura,UFC-INFRA,P2,True,2026-04
+2025-04-22,SENUT,Não,,Infraestrutura,UFC-INFRA,,False,2025-04
+2026-04-23,SENUT,Não,,Infraestrutura,UFC-INFRA,,False,2026-04
+2026-04-23,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-04
+2026-04-24,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-04
+2026-04-27,Pici 2,Sim,2026-05-12,Infraestrutura,UFC-INFRA,P2,True,2026-04
+2026-04-27,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-04
+2026-04-27,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-04
+2026-04-28,Pici 1,Sim,2026-04-29,Infraestrutura,UFC-INFRA,P1,True,2026-04
+2026-04-28,SENUT,Sim,2026-05-29,Infraestrutura,UFC-INFRA,,True,2026-04
+2026-04-29,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-04
+2026-04-29,Pici 1,Sim,2026-04-29,Infraestrutura,UFC-INFRA,P1,True,2026-04
+2026-05-04,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-05
+2026-05-05,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-05
+2026-05-06,Pici 1,Sim,2026-05-07,Infraestrutura,UFC-INFRA,P1,True,2026-05
+2026-05-07,Pici 2,Sim,2026-05-08,Infraestrutura,UFC-INFRA,P2,True,2026-05
+2026-05-07,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-05
+2026-05-11,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-05
+2026-05-11,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-05
+2026-05-12,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-05
+2026-05-12,Pici 1,Sim,2026-05-12,Infraestrutura,UFC-INFRA,P1,True,2026-05
+2026-05-12,Porangabussu,Não,,Infraestrutura,UFC-INFRA,PO,False,2026-05
+2026-05-13,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-05
+2026-05-14,Pici 1,Sim,2026-05-19,Infraestrutura,UFC-INFRA,P1,True,2026-05
+2025-05-14,Pici 1,Sim,2026-05-18,Infraestrutura,UFC-INFRA,P1,True,2025-05
+2026-05-14,Benfica,Sim,2026-06-26,Infraestrutura,UFC-INFRA,B,True,2026-05
+2026-01-15,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-01
+2026-05-18,Pici 2,Sim,2026-05-22,Infraestrutura,UFC-INFRA,P2,True,2026-05
+2026-05-18,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-05
+2026-05-18,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-05
+2026-05-19,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-05
+2026-05-20,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-05
+2026-05-22,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-05
+2026-05-22,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-05
+2026-05-25,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-05
+2026-05-26,Pici 2,Sim,2026-06-01,Infraestrutura,UFC-INFRA,P2,True,2026-05
+2026-05-27,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-05
+2026-05-28,Benfica,Sim,2026-05-28,Infraestrutura,UFC-INFRA,B,True,2026-05
+2026-06-01,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-06
+2026-06-09,Pici 2,Sim,2026-06-10,Infraestrutura,UFC-INFRA,P2,True,2026-06
+2026-06-15,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-06
+2026-06-16,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-06
+2026-06-16,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-06
+2026-06-18,Benfica,Sim,2026-06-19,Infraestrutura,UFC-INFRA,B,True,2026-06
+2026-06-19,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-06
+2026-06-23,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-06
+2026-06-23,Benfica,Sim,2026-06-24,Infraestrutura,UFC-INFRA,B,True,2026-06
+2026-06-25,Pici 2,Sim,2026-08-26,Infraestrutura,UFC-INFRA,P2,True,2026-06
+2026-06-26,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-06
+2026-06-30,Benfica,Sim,2026-08-04,Infraestrutura,UFC-INFRA,B,True,2026-06
+2026-07-02,Pici 2,Sim,2026-07-02,Infraestrutura,UFC-INFRA,P2,True,2026-07
+2026-07-06,Pici 2,Sim,,Infraestrutura,UFC-INFRA,P2,True,2026-07
+2026-07-09,Pici 1,Sim,,Infraestrutura,UFC-INFRA,P1,True,2026-07
+2026-07-10,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-07
+2026-07-13,Benfica,Sim,2026-07-30,Infraestrutura,UFC-INFRA,B,True,2026-07
+2026-07-14,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-07
+2026-07-22,Pici 1,Sim,2026-07-27,Infraestrutura,UFC-INFRA,P1,True,2026-07
+2026-07-23,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-07
+2026-07-23,Pici 1,Sim,2026-07-27,Infraestrutura,UFC-INFRA,P1,True,2026-07
+2026-07-27,Pici 1,Sim,2026-08-05,Infraestrutura,UFC-INFRA,P1,True,2026-07
+2026-08-10,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-08
+2026-08-11,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-08
+2026-08-20,Pici 1,Sim,,Infraestrutura,UFC-INFRA,P1,True,2026-08
+2026-08-20,Benfica,Não,,Infraestrutura,UFC-INFRA,B,False,2026-08
+2026-08-14,Pici 1,Sim,2026-08-20,Infraestrutura,UFC-INFRA,P1,True,2026-08
+2026-08-25,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-08
+2026-08-26,Pici 1,Sim,,Infraestrutura,UFC-INFRA,P1,True,2026-08
+2026-08-28,Pici 2,Sim,2026-09-02,Infraestrutura,UFC-INFRA,P2,True,2026-08
+2026-08-31,Pici 2,Não,,Infraestrutura,UFC-INFRA,P2,False,2026-08
+2026-08-31,Pici 1,Não,,Infraestrutura,UFC-INFRA,P1,False,2026-08
+2025-01-08,Benfica,Sim,,TI,OS - STI,B,True,2025-01
+2026-01-08,Pici 2,Sim,2026-01-08,TI,OS - STI,P2,True,2026-01
+2026-01-13,Benfica,Sim,2026-01-15,TI,OS - STI,B,True,2026-01
+2026-01-19,Benfica,Sim,2026-01-19,TI,OS - STI,B,True,2026-01
+2026-01-26,Pici 1,Sim,2026-01-26,TI,OS - STI,P1,True,2026-01
+2026-02-13,Benfica,Sim,2026-02-20,TI,OS - STI,B,True,2026-02
+2026-02-19,Benfica,Sim,2026-02-20,TI,OS - STI,B,True,2026-02
+2026-03-02,Pici 1,Sim,2026-03-03,TI,OS - STI,P1,True,2026-03
+2026-03-03,Benfica,Sim,2026-03-03,TI,OS - STI,B,True,2026-03
+2026-03-03,Pici 1,Sim,2026-03-04,TI,OS - STI,P1,True,2026-03
+2026-03-04,Pici 1,Sim,2026-03-06,TI,OS - STI,P1,True,2026-03
+2026-03-04,Benfica,Sim,2026-03-06,TI,OS - STI,B,True,2026-03
+2026-03-09,Pici 1,Sim,2026-03-10,TI,OS - STI,P1,True,2026-03
+2026-03-10,Benfica,Sim,2026-03-10,TI,OS - STI,B,True,2026-03
+2026-03-12,Benfica,Sim,2026-03-12,TI,OS - STI,B,True,2026-03
+2026-03-26,Pici 1,Sim,2026-03-26,TI,OS - STI,P1,True,2026-03
+2026-03-30,Pici 1,Sim,2026-04-01,TI,OS - STI,P1,True,2026-03
+2026-04-07,Pici 1,Sim,2026-04-08,TI,OS - STI,P1,True,2026-04
+2026-04-08,Pici 1,Sim,2026-04-08,TI,OS - STI,P1,True,2026-04
+2026-04-10,Pici 1,Sim,2026-04-10,TI,OS - STI,P1,True,2026-04
+2026-04-16,Pici 1,Sim,2026-04-17,TI,OS - STI,P1,True,2026-04
+2026-04-30,Pici 1,Sim,2026-05-05,TI,OS - STI,P1,True,2026-04
+2026-05-19,Pici 2,Sim,2026-05-19,TI,OS - STI,P2,True,2026-05
+2026-05-21,Pici 1,Sim,2026-05-21,TI,OS - STI,P1,True,2026-05
+2026-05-27,Pici 1,Sim,2026-05-27,TI,OS - STI,P1,True,2026-05
+2026-05-28,Pici 1,Sim,2026-05-28,TI,OS - STI,P1,True,2026-05
+2026-06-17,Benfica,Sim,2026-05-17,TI,OS - STI,B,True,2026-06
+2026-06-18,Pici 1,Sim,2026-06-19,TI,OS - STI,P1,True,2026-06
+2026-06-23,Pici 2,Sim,2026-06-19,TI,OS - STI,P2,True,2026-06
+2026-06-23,Pici 1,Não,,TI,OS - STI,P1,False,2026-06
+2026-07-14,Pici 2,Sim,2026-07-15,TI,OS - STI,P2,True,2026-07
+2026-07-15,Pici 2,Sim,2026-07-15,TI,OS - STI,P2,True,2026-07
+2026-07-20,SENUT,Não,,TI,OS - STI,,False,2026-07
+2026-07-24,Pici 1,Sim,2026-07-24,TI,OS - STI,P1,True,2026-07
+2026-07-24,Pici 2,Sim,2026-07-24,TI,OS - STI,P2,True,2026-07
+2026-08-17,Pici 1,Sim,2026-08-18,TI,OS - STI,P1,True,2026-08
+2026-09-02,Pici 1,Não,,TI,OS - STI,P1,False,2026-09

@@ -1,0 +1,13 @@
+{
+  "gerado_em": "2026-09-02T19:14:06",
+  "dados_atualizados_ate": "2026-09-07",
+  "n_alertas_qualidade": 2430,
+  "linhas": {
+    "detalhe": 15786,
+    "isc": 1604,
+    "sensorial": 5493,
+    "atendimentos": 29,
+    "manutencao": 166
+  },
+  "tempo_execucao_segundos": 160.5
+}
