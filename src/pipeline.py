@@ -1,0 +1,119 @@
+"""
+Pipeline principal. Execução:
+
+    python -m src.pipeline
+
+Fluxo: Excel (data/raw/) -> extração -> validação de qualidade ->
+transformação -> dados processados (data/processed/) + relatório de
+qualidade (outputs/relatorio_qualidade.csv) + metadata.json (usado pelo
+dashboard para exibir "Dados atualizados até: DD/MM/AAAA").
+"""
+from __future__ import annotations
+
+import json
+import sys
+import time
+from datetime import datetime
+
+import pandas as pd
+
+from src.config import (
+    ensure_dirs,
+    excel_path,
+    FACT_PATHS,
+    METADATA_PATH,
+    METADATA_PUBLIC_PATH,
+    QUALIDADE_REPORT_PATH,
+    POWERBI_PATHS,
+    PREPARACOES_SEM_CLASSIFICACAO_PATH,
+)
+from src.extract import extract_all
+from src.transform import transform_all, build_public_layer, PII_COLUMNS_BY_FACT, max_data_realizada
+from src.validators import build_quality_report
+from src.powerbi_export import build_all_powerbi_tables
+
+
+def run(verbose: bool = True) -> dict:
+    ensure_dirs()
+    t0 = time.time()
+
+    xlsx = excel_path()
+    if verbose:
+        print(f"[1/6] Lendo Excel: {xlsx}")
+    raw = extract_all(xlsx)
+    if verbose:
+        for k, df in raw.items():
+            print(f"      - {k}: {len(df)} linhas brutas extraídas")
+
+    if verbose:
+        print("[2/6] Rodando validações de qualidade...")
+    quality_df = build_quality_report(raw)
+    quality_df.to_csv(QUALIDADE_REPORT_PATH, index=False, encoding="utf-8-sig")
+    n_alertas = int(quality_df.loc[quality_df["severidade"].isin(["alta", "media"]), "quantidade"].sum())
+    if verbose:
+        print(f"      -> {QUALIDADE_REPORT_PATH} ({len(quality_df)} regras, {n_alertas} ocorrências alta/média)")
+
+    if verbose:
+        print("[3/6] Transformando (limpeza, normalização, tabelas fato)...")
+    fact = transform_all(raw)
+    for k, df in fact.items():
+        if verbose:
+            print(f"      - fact_{k}: {len(df)} linhas após limpeza")
+
+    if verbose:
+        print("[4/6] Salvando dados processados (camada privada + camada pública)...")
+    for key, (private_path, public_path) in FACT_PATHS.items():
+        fact[key].to_csv(private_path, index=False, encoding="utf-8-sig")
+
+    public = build_public_layer(fact)
+    for key, (private_path, public_path) in FACT_PATHS.items():
+        public[key].to_csv(public_path, index=False, encoding="utf-8-sig")
+    if verbose:
+        print(f"      -> camada pública salva em data/processed_public/ "
+              f"(colunas de PII removidas: {PII_COLUMNS_BY_FACT})")
+
+    if verbose:
+        print("[5/6] Gerando modelo estrela para Power BI (data/powerbi/)...")
+    powerbi_tables = build_all_powerbi_tables(fact)
+    for key, path in POWERBI_PATHS.items():
+        powerbi_tables[key].to_csv(path, index=False, encoding="utf-8-sig")
+        if verbose:
+            print(f"      - {key}: {len(powerbi_tables[key])} linhas")
+
+    relatorio_sem_classe = powerbi_tables["relatorio_sem_classificacao_termica"]
+    relatorio_sem_classe.to_csv(PREPARACOES_SEM_CLASSIFICACAO_PATH, index=False, encoding="utf-8-sig")
+    if verbose:
+        n_tipos_sem_classe = relatorio_sem_classe["tipo_preparacao"].nunique() if len(relatorio_sem_classe) else 0
+        print(f"      -> {PREPARACOES_SEM_CLASSIFICACAO_PATH} "
+              f"({n_tipos_sem_classe} tipos de preparação sem classe térmica)")
+
+    data_max_realizada = max_data_realizada(fact)
+    data_atualizacao = data_max_realizada.strftime("%Y-%m-%d") if data_max_realizada is not None else None
+
+    metadata = {
+        "gerado_em": datetime.now().isoformat(timespec="seconds"),
+        "dados_atualizados_ate": data_atualizacao,
+        "n_alertas_qualidade": n_alertas,
+        "linhas": {k: int(len(df)) for k, df in fact.items()},
+        "linhas_powerbi": {k: int(len(df)) for k, df in powerbi_tables.items()},
+        "tempo_execucao_segundos": round(time.time() - t0, 1),
+    }
+    # metadata.json não contém nenhum dado individual (só datas/contagens),
+    # então é salvo igual nas duas camadas.
+    with open(METADATA_PATH, "w", encoding="utf-8") as f:
+        json.dump(metadata, f, ensure_ascii=False, indent=2)
+    with open(METADATA_PUBLIC_PATH, "w", encoding="utf-8") as f:
+        json.dump(metadata, f, ensure_ascii=False, indent=2)
+
+    if verbose:
+        print(f"[6/6] Concluído em {metadata['tempo_execucao_segundos']}s. "
+              f"Dados atualizados até {data_atualizacao}.")
+    return metadata
+
+
+if __name__ == "__main__":
+    try:
+        run()
+    except Exception as exc:  # noqa: BLE001
+        print(f"ERRO no pipeline: {exc}", file=sys.stderr)
+        raise

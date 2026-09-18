@@ -1,0 +1,213 @@
+# Mapeamentos centralizados do pipeline RU
+# Qualquer alias/nome novo encontrado nas planilhas deve ser adicionado AQUI,
+# nunca hardcoded em src/*.py.
+
+excel_file: "sistema_ru.xlsx"
+
+# ---------------------------------------------------------------------------
+# Unidades de Restaurante Universitário (RU)
+# Chave = código canônico usado em todo o pipeline / dashboard.
+# ---------------------------------------------------------------------------
+ru_canonico:
+  P1: "Pici 1"
+  P2: "Pici 2"
+  B: "Benfica"
+  L: "Labomar"
+  PO: "Porangabussu"
+
+# Aliases encontrados nas planilhas -> código canônico acima.
+# Normalização aplicada antes do match: strip + upper + remoção de espaços duplicados.
+ru_aliases:
+  "PICI 1": P1
+  "PICI1": P1
+  "P1": P1
+  "PICI 2": P2
+  "PICI2": P2
+  "P2": P2
+  "BENFICA": B
+  "B": B
+  "LABOMAR": L
+  "LAB": L
+  "L": L
+  "PORANGABUSSU": PO
+  "PORANGA": PO
+  "PORANG": PO
+  "PO": PO
+
+# ---------------------------------------------------------------------------
+# Tipos de refeição
+# ---------------------------------------------------------------------------
+refeicao_aliases:
+  "CAFÉ": Café
+  "CAFE": Café
+  "ALMOÇO": Almoço
+  "ALMOCO": Almoço
+  "JANTAR": Jantar
+
+# ---------------------------------------------------------------------------
+# Abas "detalhe" (fonte primária de Panorama e Desperdício) — uma por RU.
+# header_row / data_start_row em índice 1-based da planilha Excel.
+# ---------------------------------------------------------------------------
+sheets_detalhe:
+  P1: {sheet: "P1D", header_row: 2, data_start_row: 3}
+  P2: {sheet: "P2D", header_row: 2, data_start_row: 3}
+  B:  {sheet: "BD",  header_row: 2, data_start_row: 3}
+  L:  {sheet: "LD",  header_row: 2, data_start_row: 3}
+  PO: {sheet: "PO2", header_row: 2, data_start_row: 3}
+
+# Aliases de coluna -> nome canônico, usados nas 5 abas de detalhe acima.
+# A ordem/posição das colunas varia entre abas; o match é sempre por nome de
+# cabeçalho normalizado (strip + lower + espaços colapsados).
+colunas_detalhe:
+  refeicao: ["pici 1", "refeição", "ref"]          # nome da coluna varia por RU
+  mes: ["mês"]
+  data: ["data"]
+  prep: ["prep"]
+  cardapio: ["cardápio"]
+  temp_c: ["temp (°c)"]
+  peso_bruto: ["peso bruto"]
+  repos: ["repos"]
+  qtd1: ["qtd1", "qtd 1"]
+  tam1: ["tam1", "tam 1"]
+  qtd2: ["qtd2"]
+  tam2: ["tam2", "tam 2"]
+  peso_liq: ["peso líq"]
+  pce: ["pce"]
+  pc_pct: ["pc %"]
+  previsao: ["previsão"]
+  peso_previsto: ["peso previsto"]
+  controle_cubas: ["controle de cubas"]
+  comensais: ["comensais"]
+  ajustes: ["ajustes"]
+  sobra_limpa: ["s.l"]
+  sobra_suja: ["s.s"]
+  consumo_real: ["c. real", "cons. real", "consumo real"]
+  pc_pres: ["pc pres", "pc pres pelo ajuste"]
+  comensais_real: ["com. real", "comensais real"]
+  bom: ["bom"]
+  regular: ["reg"]
+  ruim: ["ruim"]
+
+# ---------------------------------------------------------------------------
+# Abas de ISC (satisfação) — layout "largo": blocos de 7 colunas por RU
+# (qtd_otimo, pct_otimo, qtd_regular, pct_regular, qtd_ruim, pct_ruim, isc)
+# localizados dinamicamente por nome de RU na linha de cabeçalho.
+# ---------------------------------------------------------------------------
+sheets_isc:
+  - {sheet: "ISC alm", refeicao: "Almoço", header_row: 1, subheader_row: 2, data_start_row: 3}
+  - {sheet: "ISC jan", refeicao: "Jantar", header_row: 1, subheader_row: 2, data_start_row: 3}
+  - {sheet: "ISC Café", refeicao: "Café",  header_row: 1, subheader_row: 2, data_start_row: 3}
+
+isc_bloco_largura: 7
+isc_data_col_labels: ["data"]
+isc_prep_col_labels: ["preparação", "prep"]
+
+# ---------------------------------------------------------------------------
+# Avaliação sensorial
+# ---------------------------------------------------------------------------
+sheet_sensorial:
+  sheet: "Av. Sensorial"
+  header_row: 1
+  data_start_row: 2
+
+colunas_sensorial:
+  refeitorio: ["refeitório"]
+  avaliador: ["avaliador"]
+  data: ["data"]
+  refeicao: ["refeição"]
+  preparacao: ["preparação"]
+  cardapio: ["cardápio"]
+  aparencia: ["aparência"]
+  textura: ["textura"]
+  sabor: ["sabor"]
+  odor: ["odor"]
+  global: ["global"]
+  nota: ["nota"]
+
+# ---------------------------------------------------------------------------
+# Gestão — atendimentos e manutenção. Colunas com PII/texto livre NUNCA são
+# lidas para além da extração (ver src/extract.py) e nunca chegam a data/processed.
+# ---------------------------------------------------------------------------
+## Observação sobre "colunas_uteis": mapeamento canônico -> lista de aliases
+## possíveis no cabeçalho (casado por nome normalizado). O cabeçalho de
+## "Data" em Atendimentos Especializado está, na planilha original, rotulado
+## "Coluna 1" (erro de digitação da própria planilha-fonte) — por isso o
+## alias explícito abaixo, em vez de assumir que o nome da coluna é "data".
+sheet_atendimentos:
+  sheet: "Atendimentos Especializado"
+  header_row: 1
+  data_start_row: 2
+  colunas_uteis:                                   # únicas colunas lidas (sem PII)
+    data: ["coluna 1"]
+    ru: ["ru"]
+    resolvido: ["resolvido"]
+  colunas_pii_excluidas: ["nome ou cpf do atendido", "motivo", "responsável", "observações"]
+
+sheet_ufc_infra:
+  sheet: "UFC-INFRA"
+  header_row: 1
+  data_start_row: 2
+  colunas_uteis:
+    data: ["data"]
+    ru_texto: ["local"]
+    resolvido: ["resolvido"]
+    data_resolucao: ["data de resolução"]
+  colunas_pii_excluidas: ["responsável", "motivo", "observação"]
+
+sheet_os_sti:
+  sheet: "OS - STI"
+  header_row: 1
+  data_start_row: 2
+  colunas_uteis:
+    data: ["data da solicitação"]
+    ru_texto: ["ru"]
+    resolvido: ["resolvido"]
+    data_resolucao: ["data de resolução"]
+  colunas_pii_excluidas: ["responsável", "motivo", "observações"]
+
+# Local (texto livre) do UFC-INFRA -> RU canônico
+local_ru_aliases:
+  "BENFICA": B
+  "PICI 1": P1
+  "PICI 2": P2
+  "PORANGABUSSU": PO
+  "LABOMAR": L
+
+# ---------------------------------------------------------------------------
+# Valores considerados "erro de fórmula" na origem — sempre convertidos p/ NaN
+# ---------------------------------------------------------------------------
+valores_erro: ["#REF!", "#DIV/0!", "#N/A", "#VALUE!", "#NAME?", "#NULL!", "#NUM!"]
+
+# Faixa de datas plausível para os dados de 2026 (usada nas validações)
+data_min_valida: "2025-01-01"
+data_max_valida: "2026-12-31"
+
+# ---------------------------------------------------------------------------
+# Conformidade de temperatura — regra oficial confirmada pela Nutrição.
+# Preservar exatamente os operadores (note a assimetria proposital: quente
+# usa > / <=, fria usa < / >= — confirmado, não é erro de digitação):
+#   Quente: > 60°C = CONFORME · <= 60°C = NÃO CONFORME
+#   Fria:   < 10°C = CONFORME · >= 10°C = NÃO CONFORME
+# ---------------------------------------------------------------------------
+limite_conformidade_quente_c: 60
+limite_conformidade_fria_c: 10
+
+# Classificação de cada tipo_preparacao (coluna "Prep" da fonte) em
+# quente/fria — SÓ para categorias inequivocamente classificáveis pela
+# própria nomenclatura do RU. Qualquer tipo_preparacao não listado aqui
+# recebe SEM_CLASSIFICACAO (nunca inferido a partir da temperatura
+# observada). Ver docs/aderencia_orientacoes_gestao.md para a justificativa
+# de cada escolha e para a lista dos tipos deixados propositalmente de fora
+# (VEG, Guarnição, Sobremesa, Café, Café SA, Leite, Leite Veg, Pão Francês,
+# Pão Opção, Especial — todos ambíguos sem confirmação da Nutrição).
+classe_termica_por_tipo_preparacao:
+  "PB": quente
+  "PV": quente
+  "Arroz/Baião": quente
+  "Arroz Integral": quente
+  "Feijão": quente
+  "Salada": fria
+  "Suco": fria
+  "Suco SA": fria
+  "Fruta 1": fria
+  "Fruta 2": fria

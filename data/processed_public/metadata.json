@@ -1,0 +1,25 @@
+{
+  "gerado_em": "2026-09-03T16:17:19",
+  "dados_atualizados_ate": "2026-09-02",
+  "n_alertas_qualidade": 2434,
+  "linhas": {
+    "detalhe": 15786,
+    "isc": 1604,
+    "sensorial": 5493,
+    "atendimentos": 29,
+    "manutencao": 166
+  },
+  "linhas_powerbi": {
+    "dim_data": 162,
+    "dim_ru": 5,
+    "dim_refeicao": 3,
+    "dim_preparacao": 213,
+    "dim_tipo_preparacao": 22,
+    "fact_refeicoes": 1380,
+    "fact_producao": 15786,
+    "fact_satisfacao": 1604,
+    "fact_temperatura": 15786,
+    "relatorio_sem_classificacao_termica": 86
+  },
+  "tempo_execucao_segundos": 122.7
+}

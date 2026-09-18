@@ -1,0 +1,51 @@
+# Excel bruto e qualquer planilha — nunca versionar (contém dados pessoais)
+data/raw/*
+!data/raw/.gitkeep
+*.xlsx
+*.xls
+*.xlsm
+
+# Dados processados PRIVADOS: dados completos, uso local apenas — bloqueados
+# do Git porque `fact_sensorial.csv` (nesta camada) contém nome de avaliador.
+# A versão segura para publicação é gerada automaticamente pelo pipeline em
+# data/processed_public/ (ver abaixo) e NÃO é bloqueada.
+data/processed/*
+!data/processed/.gitkeep
+
+# Camada pública (data/processed_public/) — PERMITIDA EXPLICITAMENTE.
+# É a única camada de dados que vai para o GitHub / Streamlit Community
+# Cloud. Gerada por `python -m src.pipeline` a partir da camada privada,
+# com todas as colunas de PII removidas (ver src/transform.build_public_layer
+# e docs/implementacao_mvp.md). NUNCA adicionar aqui uma regra que bloqueie
+# data/processed_public/ — se um padrão futuro de data/* for necessário,
+# lembrar de reabrir exceção para esta pasta.
+!data/processed_public/
+!data/processed_public/**
+
+# Camada Power BI (data/powerbi/) — PERMITIDA EXPLICITAMENTE, pelo mesmo
+# motivo acima: é o modelo estrela (dimensões + fatos) que o Power BI lê
+# via GitHub raw, auditado e sem PII (ver src/powerbi_export.py e
+# docs/modelo_dados_powerbi.md).
+!data/powerbi/
+!data/powerbi/**
+
+# Segredos e credenciais
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Sistema operacional / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Saídas pontuais (regeneráveis)
+outputs/*.csv
+!outputs/.gitkeep
