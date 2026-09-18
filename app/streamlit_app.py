@@ -22,8 +22,9 @@ import pandas as pd
 import streamlit as st
 
 from src import metrics
+from src import metrics_powerbi
 from src.config import load_mappings
-from app.components.data_loader import load_all, load_metadata, load_quality_report
+from app.components.data_loader import load_all, load_all_powerbi, load_metadata, load_quality_report
 from app.components.filters import render_sidebar_filters
 from app.components.kpi_cards import kpi_row
 from app.components.charts import line_chart, bar_chart, ranking_chart
@@ -41,6 +42,7 @@ def main() -> None:
     st.title("🍽️ Painel do Restaurante Universitário — MVP v1")
 
     data = load_all()
+    data_pbi = load_all_powerbi()
     meta = load_metadata()
     quality = load_quality_report()
 
@@ -74,7 +76,10 @@ def main() -> None:
     # ---- Filtros ---------------------------------------------------------
     filtros = render_sidebar_filters(data["detalhe"])
 
-    tabs = st.tabs(["Visão Geral", "Panorama", "Desperdício e Eficiência", "Qualidade / Satisfação", "Gestão"])
+    tabs = st.tabs([
+        "Visão Geral", "Panorama", "Desperdício e Eficiência", "Qualidade / Satisfação",
+        "Gestão", "Indicadores Oficiais (Nutrição)",
+    ])
 
     # ================= VISÃO GERAL ========================================
     with tabs[0]:
@@ -216,6 +221,90 @@ def main() -> None:
             "nomes, CPF e texto livre de relatos nunca são carregados nesta camada "
             "(ver docs/auditoria_dados.md, seção Privacidade)."
         )
+
+    # ============ INDICADORES OFICIAIS (NUTRIÇÃO / POWER BI) ==============
+    with tabs[5]:
+        st.subheader("Indicadores oficiais — definidos com a Nutrição")
+        st.caption(
+            "⚠ Estes indicadores são **diferentes** dos das abas anteriores: "
+            "foram implementados e validados junto com a Nutrição para o "
+            "Painel Estratégico (mesmo modelo usado no Power BI, "
+            "`data/powerbi/`). Não confundir `Resto-Ingesta (oficial)` com "
+            "o `Rejeito total` da aba Desperdício — são conceitos diferentes "
+            "(ver docs/aderencia_orientacoes_gestao.md)."
+        )
+
+        producao_vazia = data_pbi["producao"].empty
+        satisfacao_vazia = data_pbi["satisfacao"].empty
+        temperatura_vazia = data_pbi["temperatura"].empty
+
+        if producao_vazia and satisfacao_vazia and temperatura_vazia:
+            st.info(
+                "Camada `data/powerbi/` não encontrada. Rode `python -m src.pipeline` "
+                "(gera automaticamente essas tabelas) e garanta que "
+                "`data/powerbi/*.csv` esteja no repositório publicado."
+            )
+        else:
+            filtros_pbi = {k: v for k, v in filtros.items() if k in ("ru", "refeicao", "data_ini", "data_fim")}
+
+            # ---- KPIs principais ----
+            if not producao_vazia:
+                resto = metrics_powerbi.resto_ingesta(data_pbi["producao"], **filtros_pbi)
+            if not satisfacao_vazia:
+                isc = metrics_powerbi.isc_agregado(data_pbi["satisfacao"], **filtros_pbi)
+            if not temperatura_vazia:
+                conf = metrics_powerbi.conformidade_termica(data_pbi["temperatura"], **filtros_pbi)
+
+            kpi_row([
+                ("Resto-Ingesta (kg)", resto["resto_ingesta_kg"].iloc[0] if not producao_vazia else None, "int"),
+                ("% Resto-Ingesta", resto["pct_resto_ingesta"].iloc[0] / 100 if not producao_vazia else None, "pct"),
+                ("ISC Agregado (0-10)", isc["isc_agregado"].iloc[0] if not satisfacao_vazia else None, "float2"),
+            ])
+            kpi_row([
+                ("% Conformidade Temperatura", conf["pct_conformidade"].iloc[0] if not temperatura_vazia else None, "pct"),
+                ("% Cobertura da Classificação", conf["pct_cobertura"].iloc[0] if not temperatura_vazia else None, "pct"),
+                ("Medições Fora do Padrão", conf["medicoes_fora_padrao"].iloc[0] if not temperatura_vazia else None, "int"),
+            ])
+            if not temperatura_vazia:
+                st.caption(
+                    "% Conformidade considera só medições avaliadas (com classe térmica "
+                    "conhecida); % Cobertura mostra quanto das medições válidas isso representa "
+                    "— ler os dois números juntos, nunca isoladamente."
+                )
+
+            c1, c2 = st.columns(2)
+            with c1:
+                if not satisfacao_vazia:
+                    dist_isc = pd.DataFrame({
+                        "Nível": ["Ótimo", "Regular", "Ruim"],
+                        "Percentual": [isc["pct_otimo"].iloc[0], isc["pct_regular"].iloc[0], isc["pct_ruim"].iloc[0]],
+                    })
+                    st.plotly_chart(
+                        bar_chart(dist_isc, "Nível", "Percentual", "Distribuição de satisfação (Ótimo/Regular/Ruim)", "% das respostas"),
+                        use_container_width=True,
+                    )
+            with c2:
+                if not temperatura_vazia:
+                    dist_status = metrics_powerbi.distribuicao_status_temperatura(data_pbi["temperatura"], **filtros_pbi)
+                    st.plotly_chart(
+                        bar_chart(dist_status, "status", "quantidade", "Distribuição por status de temperatura", "Medições"),
+                        use_container_width=True,
+                    )
+
+            if not producao_vazia:
+                per_capita_tipo = metrics_powerbi.per_capita_por_tipo(data_pbi["producao"], **filtros_pbi)
+                per_capita_tipo = per_capita_tipo.sort_values("per_capita_g_comensal", ascending=False).head(10)
+                st.plotly_chart(
+                    ranking_chart(per_capita_tipo, "per_capita_g_comensal", "tipo_preparacao", "Per Capita por tipo de preparação (g/comensal)"),
+                    use_container_width=True,
+                )
+
+                resto_ru = metrics_powerbi.resto_ingesta(data_pbi["producao"], group_by=["ru"], **filtros_pbi)
+                resto_ru["RU"] = resto_ru["ru"].map(_ru_label)
+                st.plotly_chart(
+                    bar_chart(resto_ru, "RU", "pct_resto_ingesta", "% Resto-Ingesta por RU", "%"),
+                    use_container_width=True,
+                )
 
 
 if __name__ == "__main__":
