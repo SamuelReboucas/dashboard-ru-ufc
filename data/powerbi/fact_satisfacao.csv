@@ -1,0 +1,1605 @@
+﻿ru,data,refeicao,id_preparacao,tipo_preparacao,preparacao,preparacao_bruta,otimo,regular,ruim,total_respostas,isc_linha
+P1,2026-01-05,Jantar,85.0,PB,Sobrecoxa Desossada ao M.,Sobrecoxa Desossada ao M.,22.0,6.0,7.0,35.0,7.342857143
+B,2026-01-05,Jantar,85.0,PB,Sobrecoxa Desossada ao M.,Sobrecoxa Desossada ao M.,30.0,8.0,11.0,49.0,7.163265306
+P1,2026-01-05,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,28.0,2.0,1.0,31.0,9.387096774193548
+B,2026-01-05,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,28.0,2.0,2.0,32.0,9.125
+P1,2026-01-05,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,7.0,1.0,0.0,8.0,9.375
+B,2026-01-05,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,3.0,1.0,1.0,5.0,7.2
+P1,2026-01-06,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,31.0,12.0,6.0,49.0,7.673469387755102
+B,2026-01-06,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,23.0,11.0,0.0,34.0,8.382352941176471
+P1,2026-01-06,Jantar,10.0,Especial,Carne Moída ao Molho,Carne Moída ao Molho,46.0,6.0,4.0,56.0,8.821428571428571
+B,2026-01-06,Jantar,10.0,Especial,Carne Moída ao Molho,Carne Moída ao Molho,33.0,7.0,6.0,46.0,8.065217391304348
+P1,2026-01-06,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,12.0,3.0,10.0,25.0,5.8
+B,2026-01-06,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,4.0,3.0,0.0,7.0,7.857142857142857
+P1,2026-01-07,Jantar,82.0,PB,Sobrecoxa Assada/ ao Forno,Sobrecoxa Assada/ ao Forno,33.0,3.0,2.0,38.0,9.131578947368421
+B,2026-01-07,Jantar,82.0,PB,Sobrecoxa Assada/ ao Forno,Sobrecoxa Assada/ ao Forno,20.0,5.0,6.0,31.0,7.451612903225806
+P1,2026-01-07,Jantar,94.0,PV,Assado de Panela,Assado de Panela,51.0,5.0,3.0,59.0,9.11864406779661
+B,2026-01-07,Jantar,94.0,PV,Assado de Panela,Assado de Panela,50.0,10.0,1.0,61.0,9.032786885245901
+P1,2026-01-07,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,6.0,5.0,2.0,13.0,6.6923076923076925
+B,2026-01-07,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,10.0,15.0,20.0,45.0,4.333333333333333
+P1,2026-01-08,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,67.0,7.0,3.0,77.0,9.194805194805195
+B,2026-01-08,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,60.0,6.0,0.0,66.0,9.545454545454545
+P1,2026-01-08,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,42.0,5.0,2.0,49.0,9.122448979591837
+B,2026-01-08,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,20.0,1.0,0.0,21.0,9.761904761904763
+P1,2026-01-08,Jantar,176.0,VEG,Assado de Lentilha,Assado de Lentilha,8.0,2.0,11.0,21.0,4.809523809523809
+B,2026-01-08,Jantar,176.0,VEG,Assado de Lentilha,Assado de Lentilha,6.0,2.0,1.0,9.0,7.888888888888889
+P1,2026-01-09,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,15.0,5.0,3.0,23.0,7.739130434782608
+B,2026-01-09,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,16.0,0.0,7.0,23.0,7.260869565217392
+P1,2026-01-09,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,79.0,1.0,9.0,89.0,9.03370786516854
+B,2026-01-09,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,63.0,6.0,8.0,77.0,8.675324675324676
+P1,2026-01-09,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,3.0,2.0,3.0,8.0,5.375
+B,2026-01-09,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,1.0,1.0,0.0,2.0,7.5
+P1,2026-01-12,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,15.0,2.0,3.0,20.0,8.15
+B,2026-01-12,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,18.0,5.0,0.0,23.0,8.91304347826087
+P1,2026-01-12,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,92.0,41.0,24.0,157.0,7.318471337579618
+B,2026-01-12,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,48.0,7.0,3.0,58.0,8.931034482758621
+P1,2026-01-12,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,12.0,4.0,10.0,26.0,5.769230769230769
+B,2026-01-12,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,3.0,3.0,0.0,6.0,7.5
+P1,2026-01-13,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,30.0,12.0,2.0,44.0,8.227272727272727
+B,2026-01-13,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,45.0,4.0,1.0,50.0,9.42
+P1,2026-01-13,Jantar,100.0,PV,Carne Moída à Bolonhesa,Carne Moída à Bolonhesa,90.0,16.0,11.0,117.0,8.47008547008547
+B,2026-01-13,Jantar,100.0,PV,Carne Moída à Bolonhesa,Carne Moída à Bolonhesa,36.0,4.0,1.0,41.0,9.292682926829269
+P1,2026-01-13,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,6.0,1.0,7.0,14.0,5.142857142857143
+B,2026-01-13,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,11.0,1.0,1.0,13.0,8.923076923076923
+P1,2026-01-14,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,29.0,15.0,2.0,46.0,7.978260869565218
+B,2026-01-14,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,23.0,2.0,1.0,26.0,9.26923076923077
+P1,2026-01-14,Jantar,133.0,PV,Suíno ao M. Escuro,Suíno ao M. Escuro,43.0,3.0,5.0,51.0,8.823529411764707
+B,2026-01-14,Jantar,133.0,PV,Suíno ao M. Escuro,Suíno ao M. Escuro,32.0,2.0,1.0,35.0,9.457142857142857
+P1,2026-01-14,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,12.0,5.0,6.0,23.0,6.565217391304348
+B,2026-01-14,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,17.0,4.0,0.0,21.0,9.047619047619047
+P1,2026-01-15,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,42.0,2.0,3.0,47.0,9.212765957446809
+B,2026-01-15,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,45.0,5.0,2.0,52.0,9.173076923076923
+P1,2026-01-15,Jantar,109.0,PV,Cubos Carne ao M. Madeira,Cubos Carne ao M. Madeira,53.0,16.0,23.0,92.0,6.880434782608695
+B,2026-01-15,Jantar,109.0,PV,Cubos Carne ao M. Madeira,Cubos Carne ao M. Madeira,21.0,10.0,9.0,40.0,6.725
+P1,2026-01-15,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,4.0,2.0,6.0,12.0,4.666666666666667
+B,2026-01-15,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,5.0,0.0,8.0,13.0,4.461538461538462
+P1,2026-01-16,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,30.0,15.0,7.0,52.0,7.346153846153846
+B,2026-01-16,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,22.0,5.0,2.0,29.0,8.517241379310345
+P1,2026-01-16,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,46.0,19.0,8.0,73.0,7.712328767123288
+B,2026-01-16,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,45.0,9.0,5.0,59.0,8.474576271186441
+P1,2026-01-16,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,7.0,10.0,10.0,27.0,4.814814814814815
+B,2026-01-16,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,2.0,2.0,1.0,5.0,6.2
+P1,2026-01-19,Jantar,88.0,PB,Sobrecoxa ao M. de Ervas,Sobrecoxa ao M. de Ervas,20.0,6.0,0.0,26.0,8.846153846153847
+B,2026-01-19,Jantar,88.0,PB,Sobrecoxa ao M. de Ervas,Sobrecoxa ao M. de Ervas,15.0,4.0,4.0,23.0,7.565217391304348
+P1,2026-01-19,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,45.0,5.0,6.0,56.0,8.589285714285714
+B,2026-01-19,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,34.0,2.0,4.0,40.0,8.85
+P1,2026-01-19,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,26.0,2.0,6.0,34.0,8.117647058823529
+B,2026-01-19,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,5.0,1.0,3.0,9.0,6.444444444444445
+P1,2026-01-20,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,23.0,3.0,2.0,28.0,8.821428571428571
+B,2026-01-20,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,18.0,3.0,0.0,21.0,9.285714285714286
+P1,2026-01-20,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,39.0,8.0,6.0,53.0,8.226415094339623
+B,2026-01-20,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,25.0,2.0,0.0,27.0,9.62962962962963
+P1,2026-01-20,Jantar,207.0,VEG,Soja Tropical,Soja Tropical,11.0,3.0,2.0,16.0,7.9375
+B,2026-01-20,Jantar,207.0,VEG,Soja Tropical,Soja Tropical,2.0,1.0,0.0,3.0,8.333333333333334
+P1,2026-01-21,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,36.0,4.0,5.0,45.0,8.555555555555555
+B,2026-01-21,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,19.0,2.0,2.0,23.0,8.782608695652174
+P1,2026-01-21,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,31.0,3.0,2.0,36.0,9.083333333333334
+B,2026-01-21,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,20.0,5.0,0.0,25.0,9.0
+P1,2026-01-21,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,5.0,3.0,2.0,10.0,6.7
+B,2026-01-21,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,2.0,1.0,0.0,3.0,8.333333333333334
+P1,2026-01-22,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,21.0,5.0,4.0,30.0,7.966666666666667
+B,2026-01-22,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,14.0,2.0,2.0,18.0,8.444444444444445
+P1,2026-01-22,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,36.0,5.0,5.0,46.0,8.478260869565217
+B,2026-01-22,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,20.0,3.0,1.0,24.0,9.0
+P1,2026-01-22,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,2.0,4.0,3.0,9.0,4.777777777777778
+B,2026-01-22,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,4.0,1.0,0.0,5.0,9.0
+P1,2026-01-23,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,11.0,4.0,0.0,15.0,8.666666666666666
+B,2026-01-23,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,8.0,2.0,2.0,12.0,7.666666666666667
+P1,2026-01-23,Jantar,127.0,PV,Lasanha de Calabresa,Lasanha de Calabresa,76.0,9.0,1.0,86.0,9.372093023255815
+B,2026-01-23,Jantar,127.0,PV,Lasanha de Calabresa,Lasanha de Calabresa,23.0,2.0,0.0,25.0,9.6
+P1,2026-01-23,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,8.0,1.0,0.0,9.0,9.444444444444445
+B,2026-01-23,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,2.0,0.0,0.0,2.0,10.0
+P1,2026-01-26,Jantar,56.0,PB,Cubos de Frango ao M. de Ervas,Cubos de Frango ao M. de Ervas,15.0,5.0,2.0,22.0,8.045454545454545
+B,2026-01-26,Jantar,56.0,PB,Cubos de Frango ao M. de Ervas,Cubos de Frango ao M. de Ervas,15.0,3.0,2.0,20.0,8.35
+P1,2026-01-26,Jantar,135.0,PV,Suíno à Carioca,Suíno à Carioca,38.0,1.0,3.0,42.0,9.238095238095237
+B,2026-01-26,Jantar,135.0,PV,Suíno à Carioca,Suíno à Carioca,10.0,2.0,0.0,12.0,9.166666666666666
+P1,2026-01-26,Jantar,187.0,VEG,Estrogonofe de Legumes,Estrogonofe de Legumes,6.0,0.0,2.0,8.0,7.75
+B,2026-01-26,Jantar,187.0,VEG,Estrogonofe de Legumes,Estrogonofe de Legumes,2.0,1.0,0.0,3.0,8.333333333333334
+P1,2026-01-27,Jantar,87.0,PB,Sobrecoxa Desosssada Crocante,Sobrecoxa Desosssada Crocante,18.0,4.0,5.0,27.0,7.592592592592593
+B,2026-01-27,Jantar,87.0,PB,Sobrecoxa Desosssada Crocante,Sobrecoxa Desosssada Crocante,8.0,0.0,0.0,8.0,10.0
+P1,2026-01-27,Jantar,98.0,PV,Carne Moída ao M. Tomate,Carne Moída ao M. Tomate,29.0,2.0,0.0,31.0,9.67741935483871
+B,2026-01-27,Jantar,98.0,PV,Carne Moída ao M. Tomate,Carne Moída ao M. Tomate,12.0,1.0,2.0,15.0,8.466666666666667
+P1,2026-01-27,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,4.0,2.0,0.0,6.0,8.333333333333334
+B,2026-01-27,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,1.0,1.0,24.0,26.0,1.5
+P1,2026-01-28,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,12.0,3.0,0.0,15.0,9.0
+B,2026-01-28,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,7.0,1.0,1.0,9.0,8.444444444444445
+P1,2026-01-28,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,35.0,10.0,4.0,49.0,8.244897959183673
+B,2026-01-28,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,6.0,1.0,0.0,7.0,9.285714285714286
+P1,2026-01-28,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,4.0,1.0,0.0,5.0,9.0
+B,2026-01-28,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,0.0,1.0,1.0,2.0,3.0
+P1,2026-01-29,Jantar,77.0,PB,Peixe ao M. Branco,Peixe ao M. Branco,18.0,2.0,3.0,23.0,8.391304347826088
+B,2026-01-29,Jantar,77.0,PB,Peixe ao M. Branco,Peixe ao M. Branco,33.0,1.0,1.0,35.0,9.6
+P1,2026-01-29,Jantar,122.0,PV,Isca de Carne Chinesa,Isca de Carne Chinesa,27.0,3.0,2.0,32.0,8.96875
+B,2026-01-29,Jantar,122.0,PV,Isca de Carne Chinesa,Isca de Carne Chinesa,14.0,1.0,1.0,16.0,9.125
+P1,2026-01-29,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,9.0,0.0,0.0,9.0,10.0
+B,2026-01-29,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,1.0,1.0,0.0,2.0,7.5
+P1,2026-01-30,Jantar,51.0,PB,Creme de Frango,Creme de Frango,11.0,6.0,0.0,17.0,8.235294117647058
+B,2026-01-30,Jantar,51.0,PB,Creme de Frango,Creme de Frango,15.0,3.0,2.0,20.0,8.35
+P1,2026-01-30,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,9.0,1.0,0.0,10.0,9.5
+B,2026-01-30,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,10.0,2.0,0.0,12.0,9.166666666666666
+P1,2026-01-30,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,0.0,0.0,2.0,2.0,1.0
+B,2026-01-30,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,2.0,1.0,0.0,3.0,8.333333333333334
+P1,2026-02-02,Jantar,88.0,PB,Sobrecoxa ao M. de Ervas,Sobrecoxa ao M. de Ervas,9.0,2.0,0.0,11.0,9.090909090909092
+B,2026-02-02,Jantar,88.0,PB,Sobrecoxa ao M. de Ervas,Sobrecoxa ao M. de Ervas,7.0,0.0,0.0,7.0,10.0
+P1,2026-02-02,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,11.0,1.0,0.0,12.0,9.583333333333334
+B,2026-02-02,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,10.0,1.0,0.0,11.0,9.545454545454545
+P1,2026-02-02,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,0.0,1.0,0.0,1.0,5.0
+B,2026-02-02,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,1.0,0.0,0.0,1.0,10.0
+P1,2026-02-03,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,14.0,1.0,0.0,15.0,9.666666666666666
+B,2026-02-03,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,12.0,1.0,1.0,14.0,9.0
+P1,2026-02-03,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,13.0,1.0,0.0,14.0,9.642857142857142
+B,2026-02-03,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,17.0,0.0,1.0,18.0,9.5
+P1,2026-02-03,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,2.0,0.0,0.0,2.0,10.0
+B,2026-02-03,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,5.0,0.0,10.0,15.0,4.0
+P1,2026-02-04,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,2.0,0.0,0.0,2.0,10.0
+B,2026-02-04,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,1.0,1.0,1.0,3.0,5.333333333333333
+P1,2026-02-04,Jantar,94.0,PV,Assado de Panela,Assado de Panela,14.0,2.0,0.0,16.0,9.375
+B,2026-02-04,Jantar,94.0,PV,Assado de Panela,Assado de Panela,8.0,1.0,0.0,9.0,9.444444444444445
+P1,2026-02-04,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,3.0,0.0,0.0,3.0,10.0
+B,2026-02-04,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,3.0,0.0,1.0,4.0,7.75
+P1,2026-02-05,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,3.0,0.0,0.0,3.0,10.0
+B,2026-02-05,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,9.0,1.0,0.0,10.0,9.5
+P1,2026-02-05,Jantar,110.0,PV,Cubos Suíno Acebolado,Cubos Suíno Acebolado,2.0,0.0,0.0,2.0,10.0
+B,2026-02-05,Jantar,110.0,PV,Cubos Suíno Acebolado,Cubos Suíno Acebolado,7.0,0.0,0.0,7.0,10.0
+P1,2026-02-05,Jantar,176.0,VEG,Assado de Lentilha,Assado de Lentilha,0.0,0.0,0.0,0.0,
+B,2026-02-05,Jantar,176.0,VEG,Assado de Lentilha,Assado de Lentilha,0.0,0.0,0.0,0.0,
+P1,2026-02-06,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,6.0,1.0,0.0,7.0,9.285714285714286
+B,2026-02-06,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,2.0,0.0,0.0,2.0,10.0
+P1,2026-02-06,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,21.0,2.0,1.0,24.0,9.208333333333334
+B,2026-02-06,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,12.0,1.0,0.0,13.0,9.615384615384615
+P1,2026-02-06,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,0.0,0.0,0.0,0.0,
+B,2026-02-06,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,0.0,0.0,0.0,0.0,
+P1,2026-02-09,Jantar,74.0,PB,Isca de Frango com Ervas,Isca de Frango com Ervas,9.0,1.0,0.0,10.0,9.5
+B,2026-02-09,Jantar,74.0,PB,Isca de Frango com Ervas,Isca de Frango com Ervas,6.0,1.0,2.0,9.0,7.444444444444445
+P1,2026-02-09,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,15.0,2.0,0.0,17.0,9.411764705882353
+B,2026-02-09,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,6.0,0.0,0.0,6.0,10.0
+P1,2026-02-09,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,0.0,0.0,0.0,0.0,
+B,2026-02-09,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,0.0,0.0,0.0,0.0,
+P1,2026-02-10,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,5.0,0.0,0.0,5.0,10.0
+B,2026-02-10,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,2.0,0.0,2.0,4.0,5.5
+P1,2026-02-10,Jantar,120.0,PV,Isca Carne ao M. Tomate,Isca Carne ao M. Tomate,25.0,0.0,0.0,25.0,10.0
+B,2026-02-10,Jantar,120.0,PV,Isca Carne ao M. Tomate,Isca Carne ao M. Tomate,7.0,2.0,0.0,9.0,8.88888888888889
+P1,2026-02-10,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,0.0,0.0,0.0,0.0,
+B,2026-02-10,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,0.0,0.0,0.0,0.0,
+P1,2026-02-11,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,6.0,1.0,0.0,7.0,9.285714285714286
+B,2026-02-11,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,15.0,0.0,0.0,15.0,10.0
+P1,2026-02-11,Jantar,105.0,PV,Cubo Suíno ao M. Escuro,Cubo Suíno ao M. Escuro,11.0,1.0,0.0,12.0,9.583333333333334
+B,2026-02-11,Jantar,105.0,PV,Cubo Suíno ao M. Escuro,Cubo Suíno ao M. Escuro,11.0,0.0,0.0,11.0,10.0
+P1,2026-02-11,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,2.0,0.0,0.0,2.0,10.0
+B,2026-02-11,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,2.0,0.0,0.0,2.0,10.0
+P1,2026-02-12,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,1.0,0.0,0.0,1.0,10.0
+B,2026-02-12,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,11.0,2.0,1.0,14.0,8.642857142857142
+P1,2026-02-12,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,12.0,2.0,1.0,15.0,8.733333333333333
+B,2026-02-12,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,6.0,0.0,1.0,7.0,8.714285714285714
+P1,2026-02-12,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,0.0,0.0,0.0,0.0,
+B,2026-02-12,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,1.0,0.0,0.0,1.0,10.0
+P1,2026-02-13,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,3.0,1.0,0.0,4.0,8.75
+B,2026-02-13,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,7.0,1.0,0.0,8.0,9.375
+P1,2026-02-13,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,9.0,1.0,4.0,14.0,7.071428571428571
+B,2026-02-13,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,4.0,0.0,0.0,4.0,10.0
+P1,2026-02-13,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,0.0,0.0,0.0,0.0,
+B,2026-02-13,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,0.0,0.0,0.0,0.0,
+P1,2026-02-19,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,7.0,0.0,0.0,7.0,10.0
+B,2026-02-19,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,2.0,0.0,6.0,8.0,3.25
+P1,2026-02-19,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,15.0,0.0,0.0,15.0,10.0
+B,2026-02-19,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,8.0,2.0,0.0,10.0,9.0
+P1,2026-02-19,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,0.0,0.0,0.0,0.0,
+B,2026-02-19,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,0.0,0.0,0.0,0.0,
+P1,2026-02-20,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,2.0,0.0,0.0,2.0,10.0
+B,2026-02-20,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,1.0,0.0,0.0,1.0,10.0
+P1,2026-02-20,Jantar,127.0,PV,Lasanha de Calabresa,Lasanha de Calabresa,14.0,0.0,0.0,14.0,10.0
+B,2026-02-20,Jantar,127.0,PV,Lasanha de Calabresa,Lasanha de Calabresa,14.0,0.0,0.0,14.0,10.0
+P1,2026-02-20,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,1.0,0.0,1.0,2.0,5.5
+B,2026-02-20,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,2.0,1.0,0.0,3.0,8.333333333333334
+P1,2026-02-23,Jantar,66.0,PB,Frango ao Molho de Ervas,Frango ao Molho de Ervas,6.0,3.0,1.0,10.0,7.6
+B,2026-02-23,Jantar,66.0,PB,Frango ao Molho de Ervas,Frango ao Molho de Ervas,5.0,1.0,0.0,6.0,9.166666666666666
+P1,2026-02-23,Jantar,135.0,PV,Suíno à Carioca,Suíno à Carioca,13.0,2.0,0.0,15.0,9.333333333333334
+B,2026-02-23,Jantar,135.0,PV,Suíno à Carioca,Suíno à Carioca,4.0,0.0,0.0,4.0,10.0
+P1,2026-02-23,Jantar,187.0,VEG,Estrogonofe de Legumes,Estrogonofe de Legumes,0.0,0.0,0.0,0.0,
+B,2026-02-23,Jantar,187.0,VEG,Estrogonofe de Legumes,Estrogonofe de Legumes,0.0,0.0,0.0,0.0,
+P1,2026-02-24,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,5.0,3.0,0.0,8.0,8.125
+B,2026-02-24,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,1.0,0.0,0.0,1.0,10.0
+P1,2026-02-24,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,13.0,0.0,0.0,13.0,10.0
+B,2026-02-24,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,16.0,1.0,0.0,17.0,9.705882352941176
+P1,2026-02-24,Jantar,209.0,VEG,Soja á Bolonhesa,Soja á Bolonhesa,0.0,1.0,0.0,1.0,5.0
+B,2026-02-24,Jantar,209.0,VEG,Soja á Bolonhesa,Soja á Bolonhesa,0.0,0.0,1.0,1.0,1.0
+P1,2026-02-25,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,8.0,5.0,0.0,13.0,8.076923076923077
+B,2026-02-25,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,3.0,0.0,0.0,3.0,10.0
+P1,2026-02-25,Jantar,105.0,PV,Cubo Suíno ao M. Escuro,Cubo Suíno ao M. Escuro,12.0,2.0,1.0,15.0,8.733333333333333
+B,2026-02-25,Jantar,105.0,PV,Cubo Suíno ao M. Escuro,Cubo Suíno ao M. Escuro,0.0,2.0,0.0,2.0,5.0
+P1,2026-02-25,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,2.0,1.0,2.0,5.0,5.4
+B,2026-02-25,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,0.0,0.0,0.0,0.0,
+P1,2026-02-26,Jantar,77.0,PB,Peixe ao M. Branco,Peixe ao M. Branco,14.0,2.0,0.0,16.0,9.375
+B,2026-02-26,Jantar,77.0,PB,Peixe ao M. Branco,Peixe ao M. Branco,5.0,1.0,0.0,6.0,9.166666666666666
+P1,2026-02-26,Jantar,122.0,PV,Isca de Carne Chinesa,Isca de Carne Chinesa,23.0,0.0,0.0,23.0,10.0
+B,2026-02-26,Jantar,122.0,PV,Isca de Carne Chinesa,Isca de Carne Chinesa,10.0,0.0,0.0,10.0,10.0
+P1,2026-02-26,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,2.0,0.0,0.0,2.0,10.0
+B,2026-02-26,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,2.0,0.0,0.0,2.0,10.0
+P1,2026-02-27,Jantar,51.0,PB,Creme de Frango,Creme de Frango,13.0,1.0,0.0,14.0,9.642857142857142
+B,2026-02-27,Jantar,51.0,PB,Creme de Frango,Creme de Frango,12.0,2.0,1.0,15.0,8.733333333333333
+P1,2026-02-27,Jantar,110.0,PV,Cubos Suíno Acebolado,Cubos Suíno Acebolado,3.0,2.0,0.0,5.0,8.0
+B,2026-02-27,Jantar,110.0,PV,Cubos Suíno Acebolado,Cubos Suíno Acebolado,10.0,5.0,0.0,15.0,8.333333333333334
+P1,2026-02-27,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,1.0,0.0,1.0,2.0,5.5
+B,2026-02-27,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,1.0,2.0,3.0,6.0,3.8333333333333335
+P1,2026-03-02,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,20.0,7.0,22.0,49.0,5.244897959183674
+B,2026-03-02,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,27.0,8.0,0.0,35.0,8.857142857142858
+P1,2026-03-02,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,42.0,5.0,2.0,49.0,9.122448979591837
+B,2026-03-02,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,55.0,2.0,1.0,58.0,9.672413793103448
+P1,2026-03-02,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,4.0,2.0,8.0,14.0,4.142857142857143
+B,2026-03-02,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,9.0,2.0,5.0,16.0,6.5625
+P1,2026-03-03,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,30.0,9.0,4.0,43.0,8.116279069767442
+B,2026-03-03,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,26.0,4.0,0.0,30.0,9.333333333333334
+P1,2026-03-03,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,36.0,8.0,1.0,45.0,8.911111111111111
+B,2026-03-03,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,12.0,0.0,3.0,15.0,8.2
+P1,2026-03-03,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,11.0,1.0,4.0,16.0,7.4375
+B,2026-03-03,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,4.0,0.0,0.0,4.0,10.0
+P1,2026-03-04,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,17.0,7.0,2.0,26.0,7.961538461538462
+B,2026-03-04,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,105.0,15.0,3.0,123.0,9.170731707317072
+P1,2026-03-04,Jantar,94.0,PV,Assado de Panela,Assado de Panela,99.0,11.0,2.0,112.0,9.348214285714286
+B,2026-03-04,Jantar,94.0,PV,Assado de Panela,Assado de Panela,98.0,20.0,13.0,131.0,8.34351145038168
+P1,2026-03-04,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,19.0,12.0,5.0,36.0,7.083333333333333
+B,2026-03-04,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,88.0,18.0,1.0,107.0,9.074766355140186
+P1,2026-03-05,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,91.0,5.0,0.0,96.0,9.739583333333334
+B,2026-03-05,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,88.0,15.0,5.0,108.0,8.88888888888889
+P1,2026-03-05,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,62.0,5.0,0.0,67.0,9.626865671641792
+B,2026-03-05,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,57.0,12.0,10.0,79.0,8.10126582278481
+P1,2026-03-05,Jantar,176.0,VEG,Assado de Lentilha,Assado de Lentilha,5.0,3.0,6.0,14.0,5.071428571428571
+B,2026-03-05,Jantar,176.0,VEG,Assado de Lentilha,Assado de Lentilha,15.0,18.0,17.0,50.0,5.14
+P1,2026-03-06,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,20.0,4.0,0.0,24.0,9.166666666666666
+B,2026-03-06,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,18.0,5.0,1.0,24.0,8.583333333333334
+P1,2026-03-06,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,66.0,12.0,6.0,84.0,8.642857142857142
+B,2026-03-06,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,79.0,10.0,10.0,99.0,8.585858585858587
+P1,2026-03-06,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,4.0,1.0,3.0,8.0,6.0
+B,2026-03-06,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,14.0,2.0,1.0,17.0,8.882352941176471
+P1,2026-03-09,Jantar,69.0,PB,Isca de Frango ao M. Ervas,Isca de Frango ao M. Ervas,56.0,13.0,47.0,116.0,5.793103448275862
+B,2026-03-09,Jantar,69.0,PB,Isca de Frango ao M. Ervas,Isca de Frango ao M. Ervas,45.0,23.0,25.0,93.0,6.344086021505376
+P1,2026-03-09,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,66.0,10.0,5.0,81.0,8.82716049382716
+B,2026-03-09,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,38.0,16.0,33.0,87.0,5.666666666666667
+P1,2026-03-09,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,6.0,7.0,12.0,25.0,4.28
+B,2026-03-09,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,15.0,21.0,10.0,46.0,5.760869565217392
+P1,2026-03-10,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,42.0,12.0,20.0,74.0,6.756756756756757
+B,2026-03-10,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,32.0,8.0,8.0,48.0,7.666666666666667
+P1,2026-03-10,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,126.0,8.0,3.0,137.0,9.510948905109489
+B,2026-03-10,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,86.0,7.0,2.0,95.0,9.442105263157895
+P1,2026-03-10,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,7.0,5.0,13.0,25.0,4.32
+B,2026-03-10,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,16.0,3.0,16.0,35.0,5.457142857142857
+P1,2026-03-11,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,40.0,10.0,1.0,51.0,8.843137254901961
+B,2026-03-11,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,32.0,13.0,2.0,47.0,8.23404255319149
+P1,2026-03-11,Jantar,105.0,PV,Cubo Suíno ao M. Escuro,Cubo Suíno ao M. Escuro,71.0,8.0,3.0,82.0,9.182926829268293
+B,2026-03-11,Jantar,105.0,PV,Cubo Suíno ao M. Escuro,Cubo Suíno ao M. Escuro,59.0,7.0,3.0,69.0,9.101449275362318
+P1,2026-03-11,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,35.0,7.0,2.0,44.0,8.795454545454545
+B,2026-03-11,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,25.0,2.0,6.0,33.0,8.06060606060606
+P1,2026-03-12,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,100.0,9.0,1.0,110.0,9.50909090909091
+B,2026-03-12,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,38.0,6.0,3.0,47.0,8.787234042553191
+P1,2026-03-12,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,62.0,12.0,18.0,92.0,7.586956521739131
+B,2026-03-12,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,50.0,16.0,4.0,70.0,8.342857142857143
+P1,2026-03-12,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,21.0,2.0,13.0,36.0,6.472222222222222
+B,2026-03-12,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,9.0,4.0,0.0,13.0,8.461538461538462
+P1,2026-03-13,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,35.0,5.0,3.0,43.0,8.790697674418604
+B,2026-03-13,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,98.0,24.0,5.0,127.0,8.700787401574804
+P1,2026-03-13,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,46.0,16.0,113.0,175.0,3.7314285714285713
+B,2026-03-13,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,102.0,38.0,24.0,164.0,7.524390243902439
+P1,2026-03-13,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,13.0,2.0,3.0,18.0,7.944444444444445
+B,2026-03-13,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,22.0,4.0,34.0,60.0,4.566666666666666
+P1,2026-03-16,Jantar,88.0,PB,Sobrecoxa ao M. de Ervas,Sobrecoxa ao M. de Ervas,52.0,13.0,9.0,74.0,8.027027027027026
+B,2026-03-16,Jantar,88.0,PB,Sobrecoxa ao M. de Ervas,Sobrecoxa ao M. de Ervas,28.0,15.0,7.0,50.0,7.24
+P1,2026-03-16,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,53.0,14.0,7.0,74.0,8.202702702702704
+B,2026-03-16,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,57.0,19.0,14.0,90.0,7.544444444444444
+P1,2026-03-16,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,16.0,4.0,8.0,28.0,6.714285714285714
+B,2026-03-16,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,17.0,6.0,3.0,26.0,7.8076923076923075
+P1,2026-03-17,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,29.0,16.0,6.0,51.0,7.372549019607843
+B,2026-03-17,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,37.0,11.0,3.0,51.0,8.392156862745098
+P1,2026-03-17,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,126.0,21.0,7.0,154.0,8.909090909090908
+B,2026-03-17,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,63.0,9.0,5.0,77.0,8.831168831168831
+P1,2026-03-17,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,12.0,3.0,3.0,18.0,7.666666666666667
+B,2026-03-17,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,27.0,3.0,29.0,59.0,5.322033898305085
+P1,2026-03-18,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,53.0,8.0,4.0,65.0,8.830769230769231
+B,2026-03-18,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,38.0,4.0,1.0,43.0,9.325581395348838
+P1,2026-03-18,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,61.0,18.0,7.0,86.0,8.220930232558139
+B,2026-03-18,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,45.0,7.0,2.0,54.0,9.018518518518519
+P1,2026-03-18,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,8.0,1.0,14.0,23.0,4.304347826086956
+B,2026-03-18,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,11.0,0.0,2.0,13.0,8.615384615384615
+P1,2026-03-23,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,62.0,7.0,3.0,72.0,9.13888888888889
+B,2026-03-23,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,45.0,16.0,5.0,66.0,8.106060606060606
+P1,2026-03-23,Jantar,135.0,PV,Suíno à Carioca,Suíno à Carioca,56.0,13.0,4.0,73.0,8.616438356164384
+B,2026-03-23,Jantar,135.0,PV,Suíno à Carioca,Suíno à Carioca,47.0,10.0,5.0,62.0,8.46774193548387
+P1,2026-03-23,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,35.0,4.0,0.0,39.0,9.487179487179487
+B,2026-03-23,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,38.0,7.0,0.0,45.0,9.222222222222221
+P1,2026-03-24,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,67.0,11.0,7.0,85.0,8.611764705882353
+B,2026-03-24,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,67.0,9.0,3.0,79.0,9.08860759493671
+P1,2026-03-24,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,102.0,22.0,8.0,132.0,8.621212121212121
+B,2026-03-24,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,83.0,26.0,3.0,112.0,8.598214285714286
+P1,2026-03-24,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,15.0,0.0,6.0,21.0,7.428571428571429
+B,2026-03-24,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,20.0,14.0,5.0,39.0,7.051282051282051
+P1,2026-03-26,Jantar,51.0,PB,Creme de Frango,Creme de Frango,78.0,6.0,12.0,96.0,8.5625
+B,2026-03-26,Jantar,51.0,PB,Creme de Frango,Creme de Frango,86.0,15.0,2.0,103.0,9.097087378640778
+P1,2026-03-26,Jantar,122.0,PV,Isca de Carne Chinesa,Isca de Carne Chinesa,106.0,13.0,5.0,124.0,9.112903225806452
+B,2026-03-26,Jantar,122.0,PV,Isca de Carne Chinesa,Isca de Carne Chinesa,96.0,8.0,2.0,106.0,9.452830188679245
+P1,2026-03-26,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,16.0,11.0,3.0,30.0,7.266666666666667
+B,2026-03-26,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,16.0,8.0,26.0,50.0,4.52
+P1,2026-03-27,Jantar,77.0,PB,Peixe ao M. Branco,Peixe ao M. Branco,57.0,13.0,19.0,89.0,7.348314606741573
+B,2026-03-27,Jantar,77.0,PB,Peixe ao M. Branco,Peixe ao M. Branco,41.0,15.0,11.0,67.0,7.402985074626866
+P1,2026-03-27,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,39.0,12.0,1.0,52.0,8.673076923076923
+B,2026-03-27,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,50.0,10.0,2.0,62.0,8.903225806451612
+P1,2026-03-27,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,20.0,0.0,4.0,24.0,8.5
+B,2026-03-27,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,20.0,2.0,22.0,44.0,5.2727272727272725
+P1,2026-03-30,Jantar,80.0,PB,Sobrecoxa  ao M.Ervas,Sobrecoxa  ao M.Ervas,29.0,17.0,78.0,124.0,3.653225806451613
+B,2026-03-30,Jantar,80.0,PB,Sobrecoxa  ao M.Ervas,Sobrecoxa  ao M.Ervas,30.0,18.0,15.0,63.0,6.428571428571429
+P1,2026-03-30,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,69.0,80.0,7.0,156.0,7.032051282051282
+B,2026-03-30,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,73.0,10.0,3.0,86.0,9.104651162790697
+P1,2026-03-30,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,16.0,0.0,10.0,26.0,6.538461538461538
+B,2026-03-30,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,18.0,5.0,4.0,27.0,7.7407407407407405
+P1,2026-03-31,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,41.0,26.0,23.0,90.0,6.2555555555555555
+B,2026-03-31,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,33.0,13.0,5.0,51.0,7.8431372549019605
+P1,2026-03-31,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,82.0,15.0,3.0,100.0,8.98
+B,2026-03-31,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,61.0,5.0,2.0,68.0,9.367647058823529
+P1,2026-03-31,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,10.0,0.0,32.0,42.0,3.142857142857143
+B,2026-03-31,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,11.0,2.0,3.0,16.0,7.6875
+P1,2026-04-01,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,25.0,7.0,0.0,32.0,8.90625
+B,2026-04-01,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,30.0,6.0,1.0,37.0,8.945945945945946
+P1,2026-04-01,Jantar,94.0,PV,Assado de Panela,Assado de Panela,61.0,10.0,1.0,72.0,9.180555555555555
+B,2026-04-01,Jantar,94.0,PV,Assado de Panela,Assado de Panela,60.0,11.0,5.0,76.0,8.68421052631579
+P1,2026-04-01,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,19.0,13.0,7.0,39.0,6.717948717948718
+B,2026-04-01,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,33.0,22.0,2.0,57.0,7.754385964912281
+P1,2026-04-06,Jantar,69.0,PB,Isca de Frango ao M. Ervas,Isca de Frango ao M. Ervas,93.0,66.0,7.0,166.0,7.632530120481928
+B,2026-04-06,Jantar,69.0,PB,Isca de Frango ao M. Ervas,Isca de Frango ao M. Ervas,55.0,9.0,0.0,64.0,9.296875
+P1,2026-04-06,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,89.0,21.0,4.0,114.0,8.763157894736842
+B,2026-04-06,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,35.0,7.0,4.0,46.0,8.456521739130435
+P1,2026-04-06,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,10.0,8.0,11.0,29.0,5.206896551724138
+B,2026-04-06,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,7.0,2.0,11.0,20.0,4.55
+P1,2026-04-07,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,50.0,11.0,12.0,73.0,7.767123287671233
+B,2026-04-07,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,32.0,7.0,2.0,41.0,8.707317073170731
+P1,2026-04-07,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,75.0,18.0,6.0,99.0,8.545454545454545
+B,2026-04-07,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,76.0,18.0,4.0,98.0,8.714285714285714
+P1,2026-04-07,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,13.0,9.0,3.0,25.0,7.12
+B,2026-04-07,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,25.0,4.0,1.0,30.0,9.033333333333333
+P1,2026-04-08,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,53.0,16.0,7.0,76.0,8.118421052631579
+B,2026-04-08,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,10.0,3.0,0.0,13.0,8.846153846153847
+P1,2026-04-08,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,57.0,10.0,3.0,70.0,8.9
+B,2026-04-08,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,13.0,5.0,0.0,18.0,8.61111111111111
+P1,2026-04-08,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,117.0,15.0,6.0,138.0,9.065217391304348
+B,2026-04-08,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,6.0,1.0,0.0,7.0,9.285714285714286
+P1,2026-04-09,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,73.0,8.0,4.0,85.0,9.105882352941176
+B,2026-04-09,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,65.0,10.0,4.0,79.0,8.91139240506329
+P1,2026-04-09,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,69.0,24.0,17.0,110.0,7.5181818181818185
+B,2026-04-09,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,53.0,17.0,17.0,87.0,7.264367816091954
+P1,2026-04-09,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,18.0,2.0,2.0,22.0,8.727272727272727
+B,2026-04-09,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,10.0,3.0,1.0,14.0,8.285714285714286
+P1,2026-04-10,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,35.0,12.0,3.0,50.0,8.26
+B,2026-04-10,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,40.0,8.0,4.0,52.0,8.538461538461538
+P1,2026-04-10,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,65.0,20.0,6.0,91.0,8.307692307692308
+B,2026-04-10,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,51.0,13.0,5.0,69.0,8.405797101449275
+P1,2026-04-10,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,15.0,1.0,2.0,18.0,8.722222222222221
+B,2026-04-10,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,10.0,0.0,3.0,13.0,7.923076923076923
+P1,2026-04-14,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,39.0,16.0,3.0,58.0,8.155172413793103
+B,2026-04-14,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,38.0,5.0,4.0,47.0,8.702127659574469
+P1,2026-04-14,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,57.0,19.0,7.0,83.0,8.096385542168674
+B,2026-04-14,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,44.0,7.0,3.0,54.0,8.851851851851851
+P1,2026-04-14,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,28.0,3.0,4.0,35.0,8.542857142857143
+B,2026-04-14,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,10.0,2.0,1.0,13.0,8.538461538461538
+P1,2026-04-15,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,35.0,8.0,3.0,46.0,8.543478260869565
+B,2026-04-15,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,70.0,14.0,1.0,85.0,9.070588235294117
+P1,2026-04-15,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,44.0,13.0,11.0,68.0,7.588235294117647
+B,2026-04-15,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,74.0,15.0,12.0,101.0,8.188118811881187
+P1,2026-04-15,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,5.0,5.0,7.0,17.0,4.823529411764706
+B,2026-04-15,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,12.0,6.0,4.0,22.0,7.0
+P1,2026-04-16,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,52.0,13.0,2.0,67.0,8.761194029850746
+B,2026-04-16,Jantar,61.0,PB,Cubos de Frango com Ervas,Cubos de Frango com Ervas,55.0,11.0,5.0,71.0,8.591549295774648
+P1,2026-04-16,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,65.0,11.0,1.0,77.0,9.168831168831169
+B,2026-04-16,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,37.0,5.0,0.0,42.0,9.404761904761905
+P1,2026-04-16,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,17.0,2.0,14.0,33.0,5.878787878787879
+B,2026-04-16,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,18.0,2.0,1.0,21.0,9.095238095238095
+P1,2026-04-17,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,19.0,2.0,0.0,21.0,9.523809523809524
+B,2026-04-17,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,47.0,6.0,1.0,54.0,9.277777777777779
+P1,2026-04-17,Jantar,127.0,PV,Lasanha de Calabresa,Lasanha de Calabresa,147.0,10.0,5.0,162.0,9.41358024691358
+B,2026-04-17,Jantar,127.0,PV,Lasanha de Calabresa,Lasanha de Calabresa,81.0,4.0,0.0,85.0,9.764705882352942
+P1,2026-04-17,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,10.0,0.0,,,10.0
+B,2026-04-17,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,11.0,8.0,1.0,20.0,7.55
+P1,2026-04-22,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,35.0,18.0,20.0,73.0,6.301369863013699
+B,2026-04-22,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,44.0,15.0,5.0,64.0,8.125
+P1,2026-04-22,Jantar,133.0,PV,Suíno ao M. Escuro,Suíno ao M. Escuro,57.0,12.0,6.0,75.0,8.48
+B,2026-04-22,Jantar,133.0,PV,Suíno ao M. Escuro,Suíno ao M. Escuro,40.0,10.0,2.0,52.0,8.692307692307692
+P1,2026-04-22,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,11.0,3.0,18.0,32.0,4.46875
+B,2026-04-22,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,9.0,1.0,5.0,15.0,6.666666666666667
+P1,2026-04-23,Jantar,77.0,PB,Peixe ao M. Branco,Peixe ao M. Branco,103.0,94.0,9.0,206.0,7.325242718446602
+B,2026-04-23,Jantar,77.0,PB,Peixe ao M. Branco,Peixe ao M. Branco,40.0,3.0,0.0,43.0,9.651162790697674
+P1,2026-04-23,Jantar,122.0,PV,Isca de Carne Chinesa,Isca de Carne Chinesa,107.0,10.0,4.0,121.0,9.289256198347108
+B,2026-04-23,Jantar,122.0,PV,Isca de Carne Chinesa,Isca de Carne Chinesa,81.0,16.0,3.0,100.0,8.93
+P1,2026-04-23,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,31.0,4.0,8.0,43.0,7.8604651162790695
+B,2026-04-23,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,16.0,5.0,9.0,30.0,6.466666666666667
+P1,2026-04-24,Jantar,51.0,PB,Creme de Frango,Creme de Frango,72.0,4.0,2.0,78.0,9.512820512820513
+B,2026-04-24,Jantar,51.0,PB,Creme de Frango,Creme de Frango,50.0,6.0,2.0,58.0,9.172413793103448
+P1,2026-04-24,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,31.0,8.0,4.0,43.0,8.232558139534884
+B,2026-04-24,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,22.0,1.0,1.0,24.0,9.416666666666666
+P1,2026-04-24,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,7.0,1.0,5.0,13.0,6.153846153846154
+B,2026-04-24,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,19.0,4.0,1.0,24.0,8.791666666666666
+P1,2026-04-27,Jantar,80.0,PB,Sobrecoxa  ao M.Ervas,Sobrecoxa  ao M.Ervas,36.0,16.0,27.0,79.0,5.9113924050632916
+B,2026-04-27,Jantar,80.0,PB,Sobrecoxa  ao M.Ervas,Sobrecoxa  ao M.Ervas,33.0,14.0,14.0,61.0,6.786885245901639
+P1,2026-04-27,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,83.0,17.0,3.0,103.0,8.912621359223301
+B,2026-04-27,Jantar,111.0,PV,Cubos Suíno ao molho barbecue,Cubos Suíno ao molho barbecue,60.0,5.0,5.0,70.0,9.0
+P1,2026-04-27,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,8.0,10.0,15.0,33.0,4.393939393939394
+B,2026-04-27,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,11.0,5.0,5.0,21.0,6.666666666666667
+P1,2026-04-28,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,63.0,25.0,12.0,100.0,7.67
+B,2026-04-28,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,41.0,13.0,2.0,56.0,8.517857142857142
+P1,2026-04-28,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,83.0,5.0,1.0,89.0,9.617977528089888
+B,2026-04-28,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,55.0,5.0,1.0,61.0,9.442622950819672
+P1,2026-04-28,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,16.0,7.0,1.0,24.0,8.166666666666666
+B,2026-04-28,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,6.0,2.0,1.0,9.0,7.888888888888889
+P1,2026-04-29,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,32.0,9.0,1.0,42.0,8.714285714285714
+B,2026-04-29,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,32.0,15.0,0.0,47.0,8.404255319148936
+P1,2026-04-29,Jantar,124.0,PV,Isca de Carne ao Molho Escuro,Isca de Carne ao Molho Escuro,67.0,14.0,4.0,85.0,8.75294117647059
+B,2026-04-29,Jantar,124.0,PV,Isca de Carne ao Molho Escuro,Isca de Carne ao Molho Escuro,62.0,10.0,3.0,75.0,8.973333333333333
+P1,2026-04-29,Jantar,193.0,VEG,Lasanha Vegetaraiana,Lasanha Vegetaraiana,26.0,6.0,6.0,38.0,7.7894736842105265
+B,2026-04-29,Jantar,193.0,VEG,Lasanha Vegetaraiana,Lasanha Vegetaraiana,48.0,6.0,2.0,56.0,9.142857142857142
+P1,2026-04-30,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,17.0,10.0,0.0,27.0,8.148148148148149
+B,2026-04-30,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,65.0,10.0,3.0,78.0,9.012820512820513
+P1,2026-04-30,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,49.0,4.0,8.0,61.0,8.491803278688524
+B,2026-04-30,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,55.0,2.0,1.0,58.0,9.672413793103448
+P1,2026-04-30,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,17.0,3.0,2.0,22.0,8.5
+B,2026-04-30,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,19.0,9.0,1.0,29.0,8.137931034482758
+P1,2026-05-04,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,105.0,24.0,7.0,136.0,8.654411764705882
+B,2026-05-04,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,24.0,3.0,0.0,27.0,9.444444444444445
+P1,2026-05-04,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,36.0,6.0,3.0,45.0,8.733333333333333
+B,2026-05-04,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,50.0,7.0,0.0,57.0,9.385964912280702
+P1,2026-05-04,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,9.0,5.0,6.0,20.0,6.05
+B,2026-05-04,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,21.0,6.0,1.0,28.0,8.607142857142858
+P1,2026-05-05,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,42.0,5.0,4.0,51.0,8.803921568627452
+B,2026-05-05,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,63.0,13.0,4.0,80.0,8.7375
+P1,2026-05-05,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,48.0,8.0,3.0,59.0,8.864406779661017
+B,2026-05-05,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,66.0,4.0,2.0,72.0,9.472222222222221
+P1,2026-05-05,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,13.0,4.0,5.0,22.0,7.045454545454546
+B,2026-05-05,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,14.0,6.0,6.0,26.0,6.769230769230769
+P1,2026-05-06,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,34.0,12.0,5.0,51.0,7.9411764705882355
+B,2026-05-06,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,61.0,19.0,4.0,84.0,8.44047619047619
+P1,2026-05-06,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,72.0,7.0,0.0,79.0,9.556962025316455
+B,2026-05-06,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,53.0,15.0,21.0,89.0,7.033707865168539
+P1,2026-05-06,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,27.0,5.0,2.0,34.0,8.735294117647058
+B,2026-05-06,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,24.0,5.0,8.0,37.0,7.378378378378378
+P1,2026-05-07,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,65.0,6.0,14.0,85.0,8.16470588235294
+B,2026-05-07,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,72.0,14.0,1.0,87.0,9.091954022988507
+P1,2026-05-07,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,46.0,10.0,13.0,69.0,7.579710144927536
+B,2026-05-07,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,57.0,15.0,15.0,87.0,7.586206896551724
+P1,2026-05-07,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,43.0,3.0,,,9.673913043478262
+B,2026-05-07,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,12.0,7.0,3.0,22.0,7.181818181818182
+P1,2026-05-08,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,35.0,2.0,1.0,38.0,9.5
+B,2026-05-08,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,30.0,6.0,1.0,37.0,8.945945945945946
+P1,2026-05-08,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,27.0,24.0,41.0,92.0,4.684782608695652
+B,2026-05-08,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,46.0,8.0,13.0,67.0,7.656716417910448
+P1,2026-05-08,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,4.0,4.0,1.0,9.0,6.777777777777778
+B,2026-05-08,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,12.0,4.0,1.0,17.0,8.294117647058824
+P1,2026-05-11,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,41.0,10.0,15.0,66.0,7.196969696969697
+B,2026-05-11,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,25.0,8.0,2.0,35.0,8.342857142857143
+P1,2026-05-11,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,69.0,9.0,8.0,86.0,8.63953488372093
+B,2026-05-11,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,74.0,11.0,3.0,88.0,9.068181818181818
+P1,2026-05-11,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,12.0,5.0,27.0,44.0,3.909090909090909
+B,2026-05-11,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,11.0,5.0,4.0,20.0,6.95
+P1,2026-05-12,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,96.0,12.0,5.0,113.0,9.070796460176991
+B,2026-05-12,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,49.0,5.0,2.0,56.0,9.232142857142858
+P1,2026-05-12,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,101.0,4.0,8.0,113.0,9.185840707964601
+B,2026-05-12,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,54.0,6.0,3.0,63.0,9.095238095238095
+P1,2026-05-12,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,15.0,3.0,2.0,20.0,8.35
+B,2026-05-12,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,13.0,2.0,1.0,16.0,8.8125
+P1,2026-05-13,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,87.0,6.0,2.0,95.0,9.494736842105263
+B,2026-05-13,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,114.0,8.0,2.0,124.0,9.53225806451613
+P1,2026-05-13,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,38.0,8.0,3.0,49.0,8.63265306122449
+B,2026-05-13,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,63.0,12.0,10.0,85.0,8.235294117647058
+P1,2026-05-13,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,9.0,0.0,7.0,16.0,6.0625
+B,2026-05-13,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,8.0,5.0,0.0,13.0,8.076923076923077
+P1,2026-05-14,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,42.0,8.0,3.0,53.0,8.735849056603774
+B,2026-05-14,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,36.0,14.0,2.0,52.0,8.307692307692308
+P1,2026-05-14,Jantar,96.0,PV,Calabresa à Carioca,Calabresa à Carioca,70.0,12.0,6.0,88.0,8.704545454545455
+B,2026-05-14,Jantar,96.0,PV,Calabresa à Carioca,Calabresa à Carioca,63.0,4.0,2.0,69.0,9.44927536231884
+P1,2026-05-14,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,33.0,6.0,4.0,43.0,8.465116279069768
+B,2026-05-14,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,26.0,2.0,1.0,29.0,9.344827586206897
+P1,2026-05-15,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,15.0,2.0,0.0,17.0,9.411764705882353
+B,2026-05-15,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,22.0,1.0,2.0,25.0,9.08
+P1,2026-05-15,Jantar,128.0,PV,Lasanha de Carne Moída,Lasanha de Carne Moída,120.0,12.0,1.0,133.0,9.481203007518797
+B,2026-05-15,Jantar,128.0,PV,Lasanha de Carne Moída,Lasanha de Carne Moída,117.0,14.0,5.0,136.0,9.154411764705882
+P1,2026-05-15,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,13.0,7.0,1.0,21.0,7.904761904761905
+B,2026-05-15,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,17.0,3.0,1.0,21.0,8.857142857142858
+P1,2026-05-18,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,31.0,7.0,3.0,41.0,8.487804878048781
+B,2026-05-18,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,27.0,4.0,1.0,32.0,9.09375
+P1,2026-05-18,Jantar,129.0,PV,Paçoca de Carne,Paçoca de Carne,73.0,13.0,7.0,93.0,8.623655913978494
+B,2026-05-18,Jantar,129.0,PV,Paçoca de Carne,Paçoca de Carne,47.0,8.0,1.0,56.0,9.125
+P1,2026-05-18,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,21.0,5.0,12.0,38.0,6.5
+B,2026-05-18,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,13.0,8.0,2.0,23.0,7.478260869565218
+P1,2026-05-19,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,37.0,17.0,4.0,58.0,7.913793103448276
+B,2026-05-19,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,45.0,15.0,9.0,69.0,7.739130434782608
+P1,2026-05-19,Jantar,126.0,PV,Jardineira de Carne Moída,Jardineira de Carne Moída,62.0,8.0,2.0,72.0,9.194444444444445
+B,2026-05-19,Jantar,126.0,PV,Jardineira de Carne Moída,Jardineira de Carne Moída,66.0,14.0,3.0,83.0,8.831325301204819
+P1,2026-05-19,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,28.0,7.0,3.0,38.0,8.368421052631579
+B,2026-05-19,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,19.0,1.0,3.0,23.0,8.608695652173912
+P1,2026-05-20,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,32.0,10.0,20.0,62.0,6.290322580645161
+B,2026-05-20,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,37.0,12.0,6.0,55.0,7.927272727272728
+P1,2026-05-20,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,75.0,7.0,1.0,83.0,9.46987951807229
+B,2026-05-20,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,91.0,9.0,4.0,104.0,9.221153846153847
+P1,2026-05-20,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,7.0,5.0,4.0,16.0,6.1875
+B,2026-05-20,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,2.0,5.0,0.0,7.0,6.428571428571429
+P1,2026-05-21,Jantar,76.0,PB,Peixe Assado,Peixe Assado,58.0,3.0,0.0,61.0,9.754098360655737
+B,2026-05-21,Jantar,76.0,PB,Peixe Assado,Peixe Assado,66.0,9.0,7.0,82.0,8.682926829268293
+P1,2026-05-21,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,48.0,8.0,0.0,56.0,9.285714285714286
+B,2026-05-21,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,70.0,5.0,0.0,75.0,9.666666666666666
+P1,2026-05-21,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,23.0,6.0,7.0,36.0,7.416666666666667
+B,2026-05-21,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,12.0,7.0,3.0,22.0,7.181818181818182
+P1,2026-05-22,Jantar,63.0,PB,Escondidinho de Frango,Escondidinho de Frango,85.0,15.0,5.0,105.0,8.857142857142858
+B,2026-05-22,Jantar,63.0,PB,Escondidinho de Frango,Escondidinho de Frango,66.0,6.0,0.0,72.0,9.583333333333334
+P1,2026-05-22,Jantar,96.0,PV,Calabresa à Carioca,Calabresa à Carioca,67.0,3.0,1.0,71.0,9.661971830985916
+B,2026-05-22,Jantar,96.0,PV,Calabresa à Carioca,Calabresa à Carioca,40.0,4.0,16.0,60.0,7.266666666666667
+P1,2026-05-22,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,6.0,1.0,2.0,9.0,7.444444444444445
+B,2026-05-22,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,6.0,2.0,7.0,15.0,5.133333333333334
+P1,2026-05-25,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,48.0,18.0,11.0,77.0,7.545454545454546
+B,2026-05-25,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,56.0,8.0,1.0,65.0,9.246153846153845
+P1,2026-05-25,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,39.0,14.0,5.0,58.0,8.017241379310345
+B,2026-05-25,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,42.0,10.0,9.0,61.0,7.852459016393443
+P1,2026-05-25,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,6.0,4.0,5.0,15.0,5.666666666666667
+B,2026-05-25,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,13.0,3.0,4.0,20.0,7.45
+P1,2026-05-26,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,83.0,7.0,2.0,92.0,9.423913043478262
+B,2026-05-26,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,63.0,15.0,0.0,78.0,9.038461538461538
+P1,2026-05-26,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,73.0,10.0,6.0,89.0,8.831460674157304
+B,2026-05-26,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,48.0,7.0,2.0,57.0,9.070175438596491
+P1,2026-05-26,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,6.0,2.0,4.0,12.0,6.166666666666667
+B,2026-05-26,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,7.0,6.0,0.0,13.0,7.6923076923076925
+P1,2026-05-27,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,40.0,9.0,2.0,51.0,8.764705882352942
+B,2026-05-27,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,50.0,7.0,2.0,59.0,9.101694915254237
+P1,2026-05-27,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,50.0,4.0,5.0,59.0,8.898305084745763
+B,2026-05-27,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,87.0,4.0,4.0,95.0,9.410526315789474
+P1,2026-05-27,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,42.0,16.0,5.0,63.0,8.015873015873016
+B,2026-05-27,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,42.0,6.0,9.0,57.0,8.052631578947368
+P1,2026-05-28,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,36.0,8.0,0.0,44.0,9.090909090909092
+B,2026-05-28,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,65.0,5.0,0.0,70.0,9.642857142857142
+P1,2026-05-28,Jantar,106.0,PV,Cubo Suíno ao Molho Barbecue,Cubo Suíno ao Molho Barbecue,84.0,6.0,1.0,91.0,9.571428571428571
+B,2026-05-28,Jantar,106.0,PV,Cubo Suíno ao Molho Barbecue,Cubo Suíno ao Molho Barbecue,57.0,1.0,1.0,59.0,9.76271186440678
+P1,2026-05-28,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,15.0,4.0,0.0,19.0,8.947368421052632
+B,2026-05-28,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,11.0,4.0,1.0,16.0,8.1875
+P1,2026-05-29,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,13.0,6.0,0.0,19.0,8.421052631578947
+B,2026-05-29,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,17.0,7.0,1.0,25.0,8.24
+P1,2026-05-29,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,70.0,8.0,13.0,91.0,8.274725274725276
+B,2026-05-29,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,98.0,26.0,4.0,128.0,8.703125
+P1,2026-05-29,Jantar,181.0,VEG,Bolinho de grão de bico,Bolinho de grão de bico,3.0,7.0,5.0,15.0,4.666666666666667
+B,2026-05-29,Jantar,181.0,VEG,Bolinho de grão de bico,Bolinho de grão de bico,2.0,5.0,1.0,8.0,5.75
+P1,2026-06-01,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,103.0,13.0,10.0,126.0,8.76984126984127
+B,2026-06-01,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,91.0,7.0,3.0,101.0,9.386138613861386
+P1,2026-06-01,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,25.0,7.0,3.0,35.0,8.228571428571428
+B,2026-06-01,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,26.0,1.0,0.0,27.0,9.814814814814815
+P1,2026-06-01,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,2.0,6.0,3.0,11.0,4.818181818181818
+B,2026-06-01,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,5.0,1.0,9.0,15.0,4.266666666666667
+P1,2026-06-02,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,53.0,12.0,2.0,67.0,8.835820895522389
+B,2026-06-02,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,51.0,7.0,8.0,66.0,8.378787878787879
+P1,2026-06-02,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,48.0,7.0,2.0,57.0,9.070175438596491
+B,2026-06-02,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,52.0,9.0,3.0,64.0,8.875
+P1,2026-06-02,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,11.0,2.0,6.0,19.0,6.631578947368421
+B,2026-06-02,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,17.0,4.0,2.0,23.0,8.347826086956522
+P1,2026-06-03,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,17.0,9.0,3.0,29.0,7.517241379310345
+B,2026-06-03,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,17.0,7.0,3.0,27.0,7.703703703703703
+P1,2026-06-03,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,56.0,7.0,1.0,64.0,9.3125
+B,2026-06-03,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,66.0,3.0,0.0,69.0,9.782608695652174
+P1,2026-06-03,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,15.0,2.0,1.0,18.0,8.944444444444445
+B,2026-06-03,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,20.0,3.0,3.0,26.0,8.384615384615385
+P1,2026-06-08,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,62.0,15.0,1.0,78.0,8.923076923076923
+B,2026-06-08,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,56.0,11.0,4.0,71.0,8.71830985915493
+P1,2026-06-08,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,32.0,12.0,2.0,46.0,8.304347826086957
+B,2026-06-08,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,45.0,7.0,1.0,53.0,9.169811320754716
+P1,2026-06-08,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,13.0,4.0,5.0,22.0,7.045454545454546
+B,2026-06-08,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,11.0,5.0,1.0,17.0,8.0
+P1,2026-06-09,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,39.0,6.0,8.0,53.0,8.075471698113208
+B,2026-06-09,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,37.0,12.0,9.0,58.0,7.568965517241379
+P1,2026-06-09,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,79.0,15.0,2.0,96.0,9.03125
+B,2026-06-09,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,32.0,8.0,7.0,47.0,7.808510638297872
+P1,2026-06-09,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,12.0,5.0,2.0,19.0,7.7368421052631575
+B,2026-06-09,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,15.0,1.0,2.0,18.0,8.722222222222221
+P1,2026-06-10,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,101.0,10.0,2.0,113.0,9.398230088495575
+B,2026-06-10,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,114.0,8.0,0.0,122.0,9.672131147540984
+P1,2026-06-10,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,38.0,9.0,5.0,52.0,8.26923076923077
+B,2026-06-10,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,43.0,13.0,1.0,57.0,8.701754385964913
+P1,2026-06-10,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,10.0,2.0,3.0,15.0,7.533333333333333
+B,2026-06-10,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,11.0,0.0,4.0,15.0,7.6
+P1,2026-06-11,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,39.0,8.0,8.0,55.0,7.963636363636364
+B,2026-06-11,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,36.0,3.0,3.0,42.0,9.0
+P1,2026-06-11,Jantar,96.0,PV,Calabresa à Carioca,Calabresa à Carioca,95.0,12.0,6.0,113.0,8.991150442477876
+B,2026-06-11,Jantar,96.0,PV,Calabresa à Carioca,Calabresa à Carioca,75.0,8.0,9.0,92.0,8.684782608695652
+P1,2026-06-11,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,18.0,6.0,4.0,28.0,7.642857142857143
+B,2026-06-11,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,21.0,3.0,1.0,25.0,9.04
+P1,2026-06-12,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,15.0,3.0,6.0,24.0,7.125
+B,2026-06-12,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,31.0,10.0,3.0,44.0,8.25
+P1,2026-06-12,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,33.0,9.0,10.0,52.0,7.403846153846154
+B,2026-06-12,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,47.0,14.0,6.0,67.0,8.149253731343284
+P1,2026-06-12,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,16.0,2.0,5.0,23.0,7.608695652173913
+B,2026-06-12,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,34.0,3.0,0.0,37.0,9.594594594594595
+P1,2026-06-15,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,10.0,10.0,3.0,23.0,6.6521739130434785
+B,2026-06-15,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,31.0,3.0,3.0,37.0,8.864864864864865
+P1,2026-06-15,Jantar,129.0,PV,Paçoca de Carne,Paçoca de Carne,56.0,11.0,0.0,67.0,9.17910447761194
+B,2026-06-15,Jantar,129.0,PV,Paçoca de Carne,Paçoca de Carne,57.0,5.0,4.0,66.0,9.075757575757576
+P1,2026-06-15,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,33.0,6.0,0.0,39.0,9.23076923076923
+B,2026-06-15,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,11.0,3.0,0.0,14.0,8.928571428571429
+P1,2026-06-16,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,57.0,15.0,11.0,83.0,7.903614457831325
+B,2026-06-16,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,43.0,8.0,4.0,55.0,8.618181818181819
+P1,2026-06-16,Jantar,126.0,PV,Jardineira de Carne Moída,Jardineira de Carne Moída,61.0,10.0,7.0,78.0,8.551282051282051
+B,2026-06-16,Jantar,126.0,PV,Jardineira de Carne Moída,Jardineira de Carne Moída,56.0,5.0,0.0,61.0,9.59016393442623
+P1,2026-06-16,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,20.0,7.0,25.0,52.0,5.0
+B,2026-06-16,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,10.0,2.0,1.0,13.0,8.538461538461538
+P1,2026-06-17,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,19.0,9.0,10.0,38.0,6.447368421052632
+B,2026-06-17,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,39.0,8.0,4.0,51.0,8.509803921568627
+P1,2026-06-17,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,96.0,19.0,3.0,118.0,8.966101694915254
+B,2026-06-17,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,79.0,4.0,0.0,83.0,9.759036144578314
+P1,2026-06-17,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,2.0,3.0,4.0,9.0,4.333333333333333
+B,2026-06-17,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,8.0,0.0,3.0,11.0,7.545454545454546
+P1,2026-06-18,Jantar,76.0,PB,Peixe Assado,Peixe Assado,58.0,7.0,4.0,69.0,8.971014492753623
+B,2026-06-18,Jantar,76.0,PB,Peixe Assado,Peixe Assado,50.0,5.0,1.0,56.0,9.392857142857142
+P1,2026-06-18,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,51.0,10.0,2.0,63.0,8.920634920634921
+B,2026-06-18,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,62.0,7.0,14.0,83.0,8.060240963855422
+P1,2026-06-18,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,15.0,2.0,5.0,22.0,7.5
+B,2026-06-18,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,15.0,6.0,4.0,25.0,7.36
+P1,2026-06-19,Jantar,63.0,PB,Escondidinho de Frango,Escondidinho de Frango,41.0,5.0,8.0,54.0,8.203703703703704
+B,2026-06-19,Jantar,63.0,PB,Escondidinho de Frango,Escondidinho de Frango,55.0,3.0,5.0,63.0,9.047619047619047
+P1,2026-06-19,Jantar,96.0,PV,Calabresa à Carioca,Calabresa à Carioca,24.0,3.0,1.0,28.0,9.142857142857142
+B,2026-06-19,Jantar,96.0,PV,Calabresa à Carioca,Calabresa à Carioca,9.0,1.0,3.0,13.0,7.538461538461538
+P1,2026-06-19,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,3.0,8.0,4.0,15.0,4.933333333333334
+B,2026-06-19,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,1.0,2.0,1.0,4.0,5.25
+P1,2026-06-22,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,43.0,18.0,7.0,68.0,7.75
+B,2026-06-22,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,29.0,10.0,8.0,47.0,7.404255319148936
+P1,2026-06-22,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,53.0,6.0,9.0,68.0,8.367647058823529
+B,2026-06-22,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,37.0,8.0,10.0,55.0,7.636363636363637
+P1,2026-06-22,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,7.0,3.0,4.0,14.0,6.357142857142857
+B,2026-06-22,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,7.0,1.0,4.0,12.0,6.583333333333333
+P1,2026-06-23,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,52.0,11.0,3.0,66.0,8.757575757575758
+B,2026-06-23,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,66.0,6.0,2.0,74.0,9.35135135135135
+P1,2026-06-23,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,46.0,12.0,1.0,59.0,8.830508474576272
+B,2026-06-23,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,26.0,6.0,4.0,36.0,8.166666666666666
+P1,2026-06-23,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,12.0,1.0,2.0,15.0,8.466666666666667
+B,2026-06-23,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,8.0,2.0,0.0,10.0,9.0
+P1,2026-06-25,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,23.0,8.0,3.0,34.0,8.029411764705882
+B,2026-06-25,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,42.0,9.0,1.0,52.0,8.961538461538462
+P1,2026-06-25,Jantar,106.0,PV,Cubo Suíno ao Molho Barbecue,Cubo Suíno ao Molho Barbecue,40.0,1.0,1.0,42.0,9.666666666666666
+B,2026-06-25,Jantar,106.0,PV,Cubo Suíno ao Molho Barbecue,Cubo Suíno ao Molho Barbecue,39.0,4.0,2.0,45.0,9.155555555555555
+P1,2026-06-25,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,19.0,2.0,1.0,22.0,9.136363636363637
+B,2026-06-25,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,5.0,3.0,0.0,8.0,8.125
+P1,2026-06-26,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,18.0,5.0,0.0,23.0,8.91304347826087
+B,2026-06-26,Jantar,60.0,PB,Cubos de Frango com Batata Rústica,Cubos de Frango com Batata Rústica,18.0,5.0,3.0,26.0,8.0
+P1,2026-06-26,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,116.0,16.0,4.0,136.0,9.147058823529411
+B,2026-06-26,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,48.0,4.0,1.0,53.0,9.452830188679245
+P1,2026-06-26,Jantar,181.0,VEG,Bolinho de grão de bico,Bolinho de grão de bico,2.0,1.0,2.0,5.0,5.4
+B,2026-06-26,Jantar,181.0,VEG,Bolinho de grão de bico,Bolinho de grão de bico,7.0,4.0,4.0,15.0,6.266666666666667
+P1,2026-06-29,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,,,,,
+B,2026-06-29,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,,,,,
+P1,2026-06-29,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,,,,,
+B,2026-06-29,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,,,,,
+P1,2026-06-29,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,,,,,
+B,2026-06-29,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,,,,,
+P1,2026-06-30,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,23.0,11.0,3.0,37.0,7.783783783783784
+B,2026-06-30,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,37.0,8.0,4.0,49.0,8.448979591836734
+P1,2026-06-30,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,40.0,12.0,3.0,55.0,8.418181818181818
+B,2026-06-30,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,43.0,4.0,2.0,49.0,9.224489795918368
+P1,2026-06-30,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,17.0,1.0,1.0,19.0,9.263157894736842
+B,2026-06-30,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,18.0,0.0,3.0,21.0,8.714285714285714
+P1,2026-07-01,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,12.0,9.0,1.0,22.0,7.545454545454546
+B,2026-07-01,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,29.0,3.0,0.0,32.0,9.53125
+P1,2026-07-01,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,43.0,6.0,1.0,50.0,9.22
+B,2026-07-01,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,48.0,3.0,2.0,53.0,9.377358490566039
+P1,2026-07-01,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,10.0,0.0,7.0,17.0,6.294117647058823
+B,2026-07-01,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,18.0,3.0,0.0,21.0,9.285714285714286
+P1,2026-07-02,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,53.0,4.0,1.0,58.0,9.5
+B,2026-07-02,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,38.0,5.0,0.0,43.0,9.418604651162791
+P1,2026-07-02,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,50.0,5.0,16.0,71.0,7.619718309859155
+B,2026-07-02,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,47.0,8.0,5.0,60.0,8.583333333333334
+P1,2026-07-02,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,16.0,1.0,3.0,20.0,8.4
+B,2026-07-02,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,8.0,2.0,0.0,10.0,9.0
+P1,2026-07-03,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,11.0,1.0,1.0,13.0,8.923076923076923
+B,2026-07-03,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,18.0,4.0,2.0,24.0,8.416666666666666
+P1,2026-07-03,Jantar,116.0,PV,Escondidinho de Calabresa,Escondidinho de Calabresa,38.0,26.0,0.0,64.0,7.96875
+B,2026-07-03,Jantar,116.0,PV,Escondidinho de Calabresa,Escondidinho de Calabresa,41.0,3.0,2.0,46.0,9.282608695652174
+P1,2026-07-03,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,3.0,0.0,0.0,3.0,10.0
+B,2026-07-03,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,8.0,0.0,1.0,9.0,9.0
+P1,2026-07-06,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,24.0,4.0,4.0,32.0,8.25
+B,2026-07-06,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,29.0,5.0,2.0,36.0,8.805555555555555
+P1,2026-07-06,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,27.0,3.0,2.0,32.0,8.96875
+B,2026-07-06,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,38.0,10.0,4.0,52.0,8.346153846153847
+P1,2026-07-06,Jantar,204.0,VEG,Rocombole Grão de Bico,Rocombole Grão de Bico,8.0,1.0,3.0,12.0,7.333333333333333
+B,2026-07-06,Jantar,204.0,VEG,Rocombole Grão de Bico,Rocombole Grão de Bico,12.0,3.0,3.0,18.0,7.666666666666667
+P1,2026-07-07,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,10.0,2.0,3.0,15.0,7.533333333333333
+B,2026-07-07,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,19.0,8.0,5.0,32.0,7.34375
+P1,2026-07-07,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,22.0,4.0,5.0,31.0,7.903225806451613
+B,2026-07-07,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,28.0,4.0,1.0,33.0,9.121212121212121
+P1,2026-07-07,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,2.0,3.0,5.0,10.0,4.0
+B,2026-07-07,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,8.0,2.0,0.0,10.0,9.0
+P1,2026-07-08,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,40.0,0.0,1.0,41.0,9.78048780487805
+B,2026-07-08,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,30.0,1.0,1.0,32.0,9.5625
+P1,2026-07-08,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,15.0,3.0,0.0,18.0,9.166666666666666
+B,2026-07-08,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,17.0,3.0,1.0,21.0,8.857142857142858
+P1,2026-07-08,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,1.0,0.0,1.0,2.0,5.5
+B,2026-07-08,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,2.0,0.0,2.0,4.0,5.5
+P1,2026-07-09,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,11.0,0.0,5.0,16.0,7.1875
+B,2026-07-09,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,14.0,1.0,0.0,15.0,9.666666666666666
+P1,2026-07-09,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,,,,,
+B,2026-07-09,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,4.0,0.0,0.0,4.0,10.0
+P1,2026-07-09,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,9.0,1.0,0.0,10.0,9.5
+B,2026-07-09,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,8.0,0.0,0.0,8.0,10.0
+P1,2026-07-10,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,14.0,7.0,0.0,21.0,8.333333333333334
+B,2026-07-10,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,9.0,0.0,2.0,11.0,8.363636363636363
+P1,2026-07-10,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,15.0,2.0,2.0,19.0,8.526315789473685
+B,2026-07-10,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,9.0,4.0,24.0,37.0,3.6216216216216215
+P1,2026-07-10,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,4.0,0.0,2.0,6.0,7.0
+B,2026-07-10,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,1.0,0.0,1.0,2.0,5.5
+P1,2026-07-13,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,8.0,2.0,0.0,10.0,9.0
+B,2026-07-13,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,6.0,0.0,0.0,6.0,10.0
+P1,2026-07-13,Jantar,129.0,PV,Paçoca de Carne,Paçoca de Carne,21.0,2.0,0.0,23.0,9.565217391304348
+B,2026-07-13,Jantar,129.0,PV,Paçoca de Carne,Paçoca de Carne,15.0,2.0,0.0,17.0,9.411764705882353
+P1,2026-07-13,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,1.0,0.0,0.0,1.0,10.0
+B,2026-07-13,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,1.0,0.0,0.0,1.0,10.0
+P1,2026-07-14,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,20.0,4.0,0.0,24.0,9.166666666666666
+B,2026-07-14,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,10.0,0.0,1.0,11.0,9.181818181818182
+P1,2026-07-14,Jantar,126.0,PV,Jardineira de Carne Moída,Jardineira de Carne Moída,26.0,2.0,0.0,28.0,9.642857142857142
+B,2026-07-14,Jantar,126.0,PV,Jardineira de Carne Moída,Jardineira de Carne Moída,18.0,3.0,1.0,22.0,8.909090909090908
+P1,2026-07-14,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,1.0,0.0,4.0,5.0,2.8
+B,2026-07-14,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,2.0,0.0,0.0,2.0,10.0
+P1,2026-07-15,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,4.0,2.0,0.0,6.0,8.333333333333334
+B,2026-07-15,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,7.0,3.0,0.0,10.0,8.5
+P1,2026-07-15,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,10.0,1.0,2.0,13.0,8.23076923076923
+B,2026-07-15,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,6.0,2.0,3.0,11.0,6.636363636363637
+P1,2026-07-15,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,2.0,0.0,0.0,2.0,10.0
+B,2026-07-15,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,0.0,0.0,0.0,0.0,
+P1,2026-07-16,Jantar,76.0,PB,Peixe Assado,Peixe Assado,13.0,0.0,1.0,14.0,9.357142857142858
+B,2026-07-16,Jantar,76.0,PB,Peixe Assado,Peixe Assado,7.0,2.0,1.0,10.0,8.1
+P1,2026-07-16,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,8.0,3.0,1.0,12.0,8.0
+B,2026-07-16,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,6.0,1.0,1.0,8.0,8.25
+P1,2026-07-16,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,4.0,0.0,0.0,4.0,10.0
+B,2026-07-16,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,2.0,0.0,1.0,3.0,7.0
+P1,2026-07-17,Jantar,63.0,PB,Escondidinho de Frango,Escondidinho de Frango,2.0,1.0,0.0,3.0,8.333333333333334
+B,2026-07-17,Jantar,63.0,PB,Escondidinho de Frango,Escondidinho de Frango,23.0,0.0,0.0,23.0,10.0
+P1,2026-07-17,Jantar,134.0,PV,Suíno ao Molho Barbecue,Suíno ao Molho Barbecue,1.0,0.0,0.0,1.0,10.0
+B,2026-07-17,Jantar,134.0,PV,Suíno ao Molho Barbecue,Suíno ao Molho Barbecue,12.0,3.0,1.0,16.0,8.5
+P1,2026-07-17,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,0.0,0.0,0.0,0.0,
+B,2026-07-17,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,4.0,0.0,1.0,5.0,8.2
+P1,2026-07-20,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,5.0,1.0,1.0,7.0,8.0
+B,2026-07-20,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,0.0,0.0,4.0,4.0,1.0
+P1,2026-07-20,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,6.0,1.0,0.0,7.0,9.285714285714286
+B,2026-07-20,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,4.0,0.0,0.0,4.0,10.0
+P1,2026-07-20,Jantar,178.0,VEG,Bolinha de Ervilha c/ Aveia,Bolinha de Ervilha c/ Aveia,0.0,0.0,0.0,0.0,
+B,2026-07-20,Jantar,178.0,VEG,Bolinha de Ervilha c/ Aveia,Bolinha de Ervilha c/ Aveia,0.0,0.0,2.0,2.0,1.0
+P1,2026-07-21,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,8.0,1.0,1.0,10.0,8.6
+B,2026-07-21,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,9.0,0.0,0.0,9.0,10.0
+P1,2026-07-21,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,6.0,2.0,0.0,8.0,8.75
+B,2026-07-21,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,5.0,1.0,1.0,7.0,8.0
+P1,2026-07-21,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,0.0,0.0,1.0,1.0,1.0
+B,2026-07-21,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,0.0,1.0,0.0,1.0,5.0
+P1,2026-07-22,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,8.0,2.0,1.0,11.0,8.272727272727273
+B,2026-07-22,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,1.0,0.0,0.0,1.0,10.0
+P1,2026-07-22,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,10.0,1.0,0.0,11.0,9.545454545454545
+B,2026-07-22,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,6.0,1.0,0.0,7.0,9.285714285714286
+P1,2026-07-22,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,0.0,0.0,1.0,1.0,1.0
+B,2026-07-22,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,4.0,0.0,0.0,4.0,10.0
+P1,2026-07-23,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,3.0,0.0,0.0,3.0,10.0
+B,2026-07-23,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,3.0,0.0,0.0,3.0,10.0
+P1,2026-07-23,Jantar,106.0,PV,Cubo Suíno ao Molho Barbecue,Cubo Suíno ao Molho Barbecue,7.0,3.0,0.0,10.0,8.5
+B,2026-07-23,Jantar,106.0,PV,Cubo Suíno ao Molho Barbecue,Cubo Suíno ao Molho Barbecue,4.0,3.0,0.0,7.0,7.857142857142857
+P1,2026-07-23,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,0.0,0.0,0.0,0.0,
+B,2026-07-23,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,0.0,0.0,1.0,1.0,1.0
+P1,2026-07-24,Jantar,58.0,PB,Cubos de Frango ao M. de Tomate,Cubos de Frango ao M. de Tomate,7.0,1.0,0.0,8.0,9.375
+B,2026-07-24,Jantar,58.0,PB,Cubos de Frango ao M. de Tomate,Cubos de Frango ao M. de Tomate,8.0,0.0,0.0,8.0,10.0
+P1,2026-07-24,Jantar,95.0,PV,Calabresa Acebolada,Calabresa Acebolada,8.0,1.0,1.0,10.0,8.6
+B,2026-07-24,Jantar,95.0,PV,Calabresa Acebolada,Calabresa Acebolada,4.0,1.0,0.0,5.0,9.0
+P1,2026-07-24,Jantar,181.0,VEG,Bolinho de grão de bico,Bolinho de grão de bico,0.0,2.0,0.0,2.0,5.0
+B,2026-07-24,Jantar,181.0,VEG,Bolinho de grão de bico,Bolinho de grão de bico,0.0,0.0,0.0,0.0,
+P1,2026-07-27,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,7.0,0.0,0.0,7.0,10.0
+B,2026-07-27,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,5.0,1.0,2.0,8.0,7.125
+P1,2026-07-27,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,11.0,0.0,0.0,11.0,10.0
+B,2026-07-27,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,8.0,0.0,2.0,10.0,8.2
+P1,2026-07-27,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,0.0,1.0,0.0,1.0,5.0
+B,2026-07-27,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,2.0,0.0,0.0,2.0,10.0
+P1,2026-07-28,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,9.0,2.0,0.0,11.0,9.090909090909092
+B,2026-07-28,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,8.0,0.0,0.0,8.0,10.0
+P1,2026-07-28,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,8.0,0.0,0.0,8.0,10.0
+B,2026-07-28,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,9.0,1.0,0.0,10.0,9.5
+P1,2026-07-28,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,1.0,1.0,4.0,6.0,3.1666666666666665
+B,2026-07-28,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,2.0,0.0,1.0,3.0,7.0
+P1,2026-07-29,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,7.0,2.0,0.0,9.0,8.88888888888889
+B,2026-07-29,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,16.0,0.0,0.0,16.0,10.0
+P1,2026-07-29,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,9.0,3.0,0.0,12.0,8.75
+B,2026-07-29,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,8.0,4.0,0.0,12.0,8.333333333333334
+P1,2026-07-29,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,6.0,0.0,0.0,6.0,10.0
+B,2026-07-29,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,0.0,1.0,3.0,4.0,2.0
+P1,2026-07-30,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,12.0,2.0,0.0,14.0,9.285714285714286
+B,2026-07-30,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,8.0,0.0,0.0,8.0,10.0
+P1,2026-07-30,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,12.0,1.0,0.0,13.0,9.615384615384615
+B,2026-07-30,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,11.0,1.0,0.0,12.0,9.583333333333334
+P1,2026-07-30,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,2.0,0.0,0.0,2.0,10.0
+B,2026-07-30,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,0.0,0.0,0.0,0.0,
+P1,2026-07-31,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,3.0,1.0,0.0,4.0,8.75
+B,2026-07-31,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,7.0,2.0,1.0,10.0,8.1
+P1,2026-07-31,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,10.0,1.0,0.0,11.0,9.545454545454545
+B,2026-07-31,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,18.0,1.0,0.0,19.0,9.736842105263158
+P1,2026-07-31,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,1.0,0.0,0.0,1.0,10.0
+B,2026-07-31,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,2.0,0.0,0.0,2.0,10.0
+P1,2026-08-03,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,11.0,1.0,0.0,12.0,9.583333333333334
+B,2026-08-03,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,4.0,2.0,0.0,6.0,8.333333333333334
+P1,2026-08-03,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,11.0,1.0,0.0,12.0,9.583333333333334
+B,2026-08-03,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,4.0,1.0,0.0,5.0,9.0
+P1,2026-08-03,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,0.0,1.0,0.0,1.0,5.0
+B,2026-08-03,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,0.0,0.0,0.0,0.0,
+P1,2026-08-04,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,2.0,2.0,2.0,6.0,5.333333333333333
+B,2026-08-04,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,12.0,1.0,0.0,13.0,9.615384615384615
+P1,2026-08-04,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,5.0,1.0,1.0,7.0,8.0
+B,2026-08-04,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,13.0,2.0,2.0,17.0,8.352941176470589
+P1,2026-08-04,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,1.0,1.0,0.0,2.0,7.5
+B,2026-08-04,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,2.0,0.0,0.0,2.0,10.0
+P1,2026-08-05,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,14.0,1.0,0.0,15.0,9.666666666666666
+B,2026-08-05,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,8.0,1.0,0.0,9.0,9.444444444444445
+P1,2026-08-05,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,17.0,2.0,0.0,19.0,9.473684210526315
+B,2026-08-05,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,9.0,0.0,0.0,9.0,10.0
+P1,2026-08-05,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,0.0,1.0,0.0,1.0,5.0
+B,2026-08-05,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,0.0,1.0,0.0,1.0,5.0
+P1,2026-08-06,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,10.0,0.0,0.0,10.0,10.0
+B,2026-08-06,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,23.0,0.0,1.0,24.0,9.625
+P1,2026-08-06,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,5.0,1.0,0.0,6.0,9.166666666666666
+B,2026-08-06,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,8.0,2.0,1.0,11.0,8.272727272727273
+P1,2026-08-06,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,2.0,0.0,0.0,2.0,10.0
+B,2026-08-06,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,9.0,0.0,0.0,9.0,10.0
+P1,2026-08-07,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,4.0,0.0,0.0,4.0,10.0
+B,2026-08-07,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,9.0,2.0,2.0,13.0,7.846153846153846
+P1,2026-08-07,Jantar,127.0,PV,Lasanha de Calabresa,Lasanha de Calabresa,4.0,3.0,2.0,9.0,6.333333333333333
+B,2026-08-07,Jantar,127.0,PV,Lasanha de Calabresa,Lasanha de Calabresa,21.0,0.0,1.0,22.0,9.590909090909092
+P1,2026-08-07,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,2.0,1.0,0.0,3.0,8.333333333333334
+B,2026-08-07,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,5.0,0.0,0.0,5.0,10.0
+P1,2026-08-10,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,26.0,12.0,6.0,44.0,7.409090909090909
+B,2026-08-10,Jantar,68.0,PB,Isca de Frango Acebolado,Isca de Frango Acebolado,28.0,5.0,0.0,33.0,9.242424242424242
+P1,2026-08-10,Jantar,129.0,PV,Paçoca de Carne,Paçoca de Carne,45.0,8.0,0.0,53.0,9.245283018867925
+B,2026-08-10,Jantar,129.0,PV,Paçoca de Carne,Paçoca de Carne,45.0,9.0,3.0,57.0,8.736842105263158
+P1,2026-08-10,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,8.0,2.0,3.0,13.0,7.153846153846154
+B,2026-08-10,Jantar,213.0,VEG,Yakissoba Vegetariano,Yakissoba Vegetariano,6.0,5.0,0.0,11.0,7.7272727272727275
+P1,2026-08-11,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,18.0,14.0,10.0,42.0,6.190476190476191
+B,2026-08-11,Jantar,83.0,PB,Sobrecoxa Crocante,Sobrecoxa Crocante,31.0,2.0,0.0,33.0,9.696969696969697
+P1,2026-08-11,Jantar,126.0,PV,Jardineira de Carne Moída,Jardineira de Carne Moída,44.0,16.0,18.0,78.0,6.897435897435898
+B,2026-08-11,Jantar,126.0,PV,Jardineira de Carne Moída,Jardineira de Carne Moída,52.0,11.0,2.0,65.0,8.876923076923077
+P1,2026-08-11,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,13.0,3.0,2.0,18.0,8.166666666666666
+B,2026-08-11,Jantar,208.0,VEG,Soja à Bolonhesa,Soja à Bolonhesa,8.0,1.0,1.0,10.0,8.6
+P1,2026-08-12,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,36.0,5.0,0.0,41.0,9.390243902439025
+B,2026-08-12,Jantar,57.0,PB,Cubos de Frango ao M. de Legumes,Cubos de Frango ao M. de Legumes,37.0,8.0,3.0,48.0,8.604166666666666
+P1,2026-08-12,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,48.0,2.0,1.0,51.0,9.627450980392156
+B,2026-08-12,Jantar,118.0,PV,Estrogonofe de Carne,Estrogonofe de Carne,68.0,12.0,4.0,84.0,8.857142857142858
+P1,2026-08-12,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,2.0,2.0,3.0,7.0,4.714285714285714
+B,2026-08-12,Jantar,172.0,VEG,Almôndegas de Lentilha,Almôndegas de Lentilha,9.0,3.0,2.0,14.0,7.642857142857143
+P1,2026-08-13,Jantar,76.0,PB,Peixe Assado,Peixe Assado,52.0,6.0,3.0,61.0,9.065573770491802
+B,2026-08-13,Jantar,76.0,PB,Peixe Assado,Peixe Assado,62.0,8.0,7.0,77.0,8.662337662337663
+P1,2026-08-13,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,32.0,5.0,0.0,37.0,9.324324324324325
+B,2026-08-13,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,57.0,7.0,7.0,71.0,8.619718309859154
+P1,2026-08-13,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,17.0,4.0,0.0,21.0,9.047619047619047
+B,2026-08-13,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,34.0,2.0,0.0,36.0,9.722222222222221
+P1,2026-08-14,Jantar,63.0,PB,Escondidinho de Frango,Escondidinho de Frango,51.0,8.0,0.0,59.0,9.322033898305085
+B,2026-08-14,Jantar,63.0,PB,Escondidinho de Frango,Escondidinho de Frango,98.0,10.0,1.0,109.0,9.458715596330276
+P1,2026-08-14,Jantar,134.0,PV,Suíno ao Molho Barbecue,Suíno ao Molho Barbecue,24.0,0.0,0.0,24.0,10.0
+B,2026-08-14,Jantar,134.0,PV,Suíno ao Molho Barbecue,Suíno ao Molho Barbecue,8.0,1.0,2.0,11.0,7.909090909090909
+P1,2026-08-14,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,2.0,1.0,3.0,6.0,4.666666666666667
+B,2026-08-14,Jantar,184.0,VEG,Escondidinho de Legumes,Escondidinho de Legumes,4.0,0.0,3.0,7.0,6.142857142857143
+P1,2026-08-17,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,,,,,
+B,2026-08-17,Jantar,86.0,PB,Sobrecoxa Desossada ao M.Ervas,Sobrecoxa Desossada ao M.Ervas,36.0,4.0,3.0,43.0,8.906976744186046
+P1,2026-08-17,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,,,,,
+B,2026-08-17,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,31.0,4.0,8.0,43.0,7.8604651162790695
+P1,2026-08-17,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,,,,,
+B,2026-08-17,Jantar,180.0,VEG,Bolinho de Ervilha com Aveia,Bolinho de Ervilha com Aveia,14.0,2.0,8.0,24.0,6.583333333333333
+P1,2026-08-18,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,77.0,9.0,7.0,93.0,8.838709677419354
+B,2026-08-18,Jantar,64.0,PB,Estrogonofe de Frango,Estrogonofe de Frango,78.0,8.0,2.0,88.0,9.340909090909092
+P1,2026-08-18,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,45.0,4.0,5.0,54.0,8.796296296296296
+B,2026-08-18,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,56.0,12.0,4.0,72.0,8.666666666666666
+P1,2026-08-18,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,4.0,1.0,13.0,18.0,3.2222222222222223
+B,2026-08-18,Jantar,192.0,VEG,Jardineira de Soja,Jardineira de Soja,8.0,1.0,2.0,11.0,7.909090909090909
+P1,2026-08-19,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,30.0,2.0,0.0,32.0,9.6875
+B,2026-08-19,Jantar,81.0,PB,Sobrecoxa Assada,Sobrecoxa Assada,26.0,9.0,1.0,36.0,8.5
+P1,2026-08-19,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,75.0,3.0,2.0,80.0,9.5875
+B,2026-08-19,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,84.0,8.0,0.0,92.0,9.565217391304348
+P1,2026-08-19,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,20.0,8.0,7.0,35.0,7.057142857142857
+B,2026-08-19,Jantar,194.0,VEG,Lasanha de Batatas,Lasanha de Batatas,30.0,6.0,13.0,49.0,7.0
+P1,2026-08-20,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,38.0,11.0,25.0,74.0,6.216216216216216
+B,2026-08-20,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,49.0,7.0,6.0,62.0,8.564516129032258
+P1,2026-08-20,Jantar,106.0,PV,Cubo Suíno ao Molho Barbecue,Cubo Suíno ao Molho Barbecue,71.0,6.0,4.0,81.0,9.185185185185185
+B,2026-08-20,Jantar,106.0,PV,Cubo Suíno ao Molho Barbecue,Cubo Suíno ao Molho Barbecue,42.0,10.0,7.0,59.0,8.084745762711865
+P1,2026-08-20,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,40.0,2.0,7.0,49.0,8.510204081632653
+B,2026-08-20,Jantar,185.0,VEG,Escondidinho de Soja,Escondidinho de Soja,38.0,1.0,0.0,39.0,9.871794871794872
+P1,2026-08-21,Jantar,58.0,PB,Cubos de Frango ao M. de Tomate,Cubos de Frango ao M. de Tomate,63.0,6.0,2.0,71.0,9.32394366197183
+B,2026-08-21,Jantar,58.0,PB,Cubos de Frango ao M. de Tomate,Cubos de Frango ao M. de Tomate,61.0,10.0,8.0,79.0,8.455696202531646
+P1,2026-08-21,Jantar,95.0,PV,Calabresa Acebolada,Calabresa Acebolada,36.0,8.0,5.0,49.0,8.26530612244898
+B,2026-08-21,Jantar,95.0,PV,Calabresa Acebolada,Calabresa Acebolada,74.0,8.0,4.0,86.0,9.116279069767442
+P1,2026-08-21,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,15.0,4.0,3.0,22.0,7.863636363636363
+B,2026-08-21,Jantar,179.0,VEG,Bolinha de grão de bico,Bolinha de grão de bico,2.0,1.0,1.0,4.0,6.5
+P1,2026-08-24,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,76.0,22.0,19.0,117.0,7.598290598290598
+B,2026-08-24,Jantar,67.0,PB,Fricassê de Frango,Fricassê de Frango,58.0,17.0,5.0,80.0,8.375
+P1,2026-08-24,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,46.0,7.0,3.0,56.0,8.892857142857142
+B,2026-08-24,Jantar,108.0,PV,Cubo suíno acebolado,Cubo suíno acebolado,39.0,10.0,8.0,57.0,7.859649122807017
+P1,2026-08-24,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,7.0,0.0,6.0,13.0,5.846153846153846
+B,2026-08-24,Jantar,205.0,VEG,Salpicão vegano,Salpicão vegano,9.0,10.0,8.0,27.0,5.481481481481482
+P1,2026-08-25,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,48.0,6.0,8.0,62.0,8.35483870967742
+B,2026-08-25,Jantar,84.0,PB,Sobrecoxa Desossada,Sobrecoxa Desossada,87.0,10.0,4.0,101.0,9.148514851485148
+P1,2026-08-25,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,64.0,7.0,1.0,72.0,9.38888888888889
+B,2026-08-25,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,49.0,3.0,2.0,54.0,9.38888888888889
+P1,2026-08-25,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,18.0,2.0,6.0,26.0,7.538461538461538
+B,2026-08-25,Jantar,190.0,VEG,Hambúrguer de Soja,Hambúrguer de Soja,7.0,2.0,3.0,12.0,6.916666666666667
+P1,2026-08-26,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,33.0,11.0,2.0,46.0,8.41304347826087
+B,2026-08-26,Jantar,52.0,PB,Cubos de Frango Acebolado,Cubos de Frango Acebolado,18.0,0.0,1.0,19.0,9.526315789473685
+P1,2026-08-26,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,56.0,13.0,2.0,71.0,8.830985915492958
+B,2026-08-26,Jantar,123.0,PV,Isca de Carne ao M. Tomate,Isca de Carne ao M. Tomate,78.0,10.0,8.0,96.0,8.729166666666666
+P1,2026-08-26,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,29.0,1.0,1.0,31.0,9.548387096774194
+B,2026-08-26,Jantar,199.0,VEG,Panqueca Vegana ao Molho Branco,Panqueca Vegana ao Molho Branco,41.0,7.0,0.0,48.0,9.270833333333334
+P1,2026-08-27,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,72.0,12.0,2.0,86.0,9.093023255813954
+B,2026-08-27,Jantar,79.0,PB,Peixe à Delícia,Peixe à Delícia,99.0,7.0,2.0,108.0,9.50925925925926
+P1,2026-08-27,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,56.0,11.0,17.0,84.0,7.523809523809524
+B,2026-08-27,Jantar,113.0,PV,Cubos de Carne ao M. Madeira,Cubos de Carne ao M. Madeira,58.0,10.0,10.0,78.0,8.205128205128204
+P1,2026-08-27,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,11.0,0.0,1.0,12.0,9.25
+B,2026-08-27,Jantar,210.0,VEG,Suflê de Legumes,Suflê de Legumes,10.0,1.0,1.0,12.0,8.833333333333334
+P1,2026-08-28,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,4.0,3.0,2.0,9.0,6.333333333333333
+B,2026-08-28,Jantar,53.0,PB,Cubos de Frango ao M. Escuro,Cubos de Frango ao M. Escuro,31.0,4.0,5.0,40.0,8.375
+P1,2026-08-28,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,17.0,4.0,2.0,23.0,8.347826086956522
+B,2026-08-28,Jantar,117.0,PV,Escondidinho de Carne,Escondidinho de Carne,118.0,10.0,8.0,136.0,9.102941176470589
+P1,2026-08-28,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,,,,,
+B,2026-08-28,Jantar,211.0,VEG,Torta de Legumes,Torta de Legumes,8.0,2.0,1.0,11.0,8.272727272727273
+P1,2026-08-31,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,49.0,18.0,2.0,69.0,8.434782608695652
+B,2026-08-31,Jantar,65.0,PB,Frango Xadrez,Frango Xadrez,39.0,8.0,5.0,52.0,8.365384615384615
+P1,2026-08-31,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,52.0,8.0,4.0,64.0,8.8125
+B,2026-08-31,Jantar,130.0,PV,Picadinho com Legumes,Picadinho com Legumes,32.0,10.0,4.0,46.0,8.130434782608695
+P1,2026-08-31,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,8.0,4.0,5.0,17.0,6.176470588235294
+B,2026-08-31,Jantar,203.0,VEG,Rocambole de Grão de Bico,Rocambole de Grão de Bico,9.0,2.0,1.0,12.0,8.416666666666666
+P1,2026-09-01,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,59.0,14.0,12.0,85.0,7.905882352941177
+B,2026-09-01,Jantar,89.0,PB,Sobrecoxa ao M. de Legumes,Sobrecoxa ao M. de Legumes,23.0,8.0,6.0,37.0,7.45945945945946
+P1,2026-09-01,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,,,,,
+B,2026-09-01,Jantar,97.0,PV,Carne Moída Refogada,Carne Moída Refogada,49.0,12.0,1.0,62.0,8.887096774193548
+P1,2026-09-01,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,35.0,8.0,16.0,59.0,6.88135593220339
+B,2026-09-01,Jantar,177.0,VEG,Bobó de Legumes,Bobó de Legumes,5.0,4.0,1.0,10.0,7.1
+P1,2026-09-02,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,,,,,
+B,2026-09-02,Jantar,92.0,PB,Vatapá de Frango,Vatapá de Frango,,,,,
+P1,2026-09-02,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,,,,,
+B,2026-09-02,Jantar,121.0,PV,Isca de Carne Acebolada,Isca de Carne Acebolada,,,,,
+P1,2026-09-02,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,,,,,
+B,2026-09-02,Jantar,182.0,VEG,Bolo Salgado Vegano,Bolo Salgado Vegano,,,,,
+P1,2026-09-03,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,,,,,
+B,2026-09-03,Jantar,91.0,PB,Sobrecoxa com Gergelim,Sobrecoxa com Gergelim,,,,,
+P1,2026-09-03,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,,,,,
+B,2026-09-03,Jantar,132.0,PV,Suíno Acebolado,Suíno Acebolado,,,,,
+P1,2026-09-03,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,,,,,
+B,2026-09-03,Jantar,212.0,VEG,Vatapá Vegano,Vatapá Vegano,,,,,
+P1,2026-09-04,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,,,,,
+B,2026-09-04,Jantar,62.0,PB,Cubos de Frango à Chinesa,Cubos de Frango à Chinesa,,,,,
+P1,2026-09-04,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,,,,,
+B,2026-09-04,Jantar,136.0,PV,Torta de Calabresa,Torta de Calabresa,,,,,
+P1,2026-09-04,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,,,,,
+B,2026-09-04,Jantar,195.0,VEG,Lasanha de Brócolis,Lasanha de Brócolis,,,,,
+B,2026-01-05,Café,,Especial,NAO_IDENTIFICADA,Café46027Especial,136.0,8.0,0.0,144.0,9.722222222
+P2,2026-01-05,Café,,Especial,NAO_IDENTIFICADA,Café46027Especial,163.0,9.0,2.0,174.0,9.637931034
+B,2026-01-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46027Especial Veg,136.0,1.0,0.0,137.0,9.963503649635037
+P2,2026-01-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46027Especial Veg,163.0,0.0,0.0,163.0,10.0
+B,2026-01-06,Café,,Especial,NAO_IDENTIFICADA,Café46028Especial,185.0,25.0,1.0,211.0,9.364928909952607
+P2,2026-01-06,Café,,Especial,NAO_IDENTIFICADA,Café46028Especial,197.0,32.0,3.0,232.0,9.193965517241379
+B,2026-01-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46028Especial Veg,185.0,0.0,0.0,185.0,10.0
+P2,2026-01-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46028Especial Veg,197.0,4.0,0.0,201.0,9.900497512437811
+B,2026-01-07,Café,,Especial,NAO_IDENTIFICADA,Café46029Especial,168.0,8.0,0.0,176.0,9.772727272727273
+P2,2026-01-07,Café,,Especial,NAO_IDENTIFICADA,Café46029Especial,205.0,22.0,3.0,230.0,9.404347826086957
+B,2026-01-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46029Especial Veg,168.0,0.0,0.0,168.0,10.0
+P2,2026-01-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46029Especial Veg,205.0,1.0,0.0,206.0,9.975728155339805
+B,2026-01-08,Café,,Especial,NAO_IDENTIFICADA,Café46030Especial,169.0,17.0,2.0,188.0,9.452127659574469
+P2,2026-01-08,Café,,Especial,NAO_IDENTIFICADA,Café46030Especial,209.0,10.0,7.0,226.0,9.5
+B,2026-01-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46030Especial Veg,169.0,0.0,0.0,169.0,10.0
+P2,2026-01-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46030Especial Veg,209.0,2.0,0.0,211.0,9.95260663507109
+B,2026-01-09,Café,,Especial,NAO_IDENTIFICADA,Café46031Especial,202.0,,,,10.0
+P2,2026-01-09,Café,,Especial,NAO_IDENTIFICADA,Café46031Especial,186.0,27.0,1.0,214.0,9.327102803738319
+B,2026-01-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46031Especial Veg,202.0,,,,10.0
+P2,2026-01-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46031Especial Veg,186.0,3.0,0.0,189.0,9.920634920634921
+B,2026-01-12,Café,,Especial,NAO_IDENTIFICADA,Café46034Especial,132.0,7.0,2.0,141.0,9.624113475177305
+P2,2026-01-12,Café,,Especial,NAO_IDENTIFICADA,Café46034Especial,179.0,10.0,1.0,190.0,9.689473684210526
+B,2026-01-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46034Especial Veg,132.0,1.0,1.0,134.0,9.895522388059701
+P2,2026-01-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46034Especial Veg,179.0,2.0,0.0,181.0,9.94475138121547
+B,2026-01-13,Café,,Especial,NAO_IDENTIFICADA,Café46035Especial,222.0,15.0,2.0,239.0,9.610878661087867
+P2,2026-01-13,Café,,Especial,NAO_IDENTIFICADA,Café46035Especial,181.0,63.0,0.0,244.0,8.709016393442623
+B,2026-01-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46035Especial Veg,222.0,0.0,0.0,222.0,10.0
+P2,2026-01-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46035Especial Veg,181.0,0.0,2.0,183.0,9.901639344262295
+B,2026-01-14,Café,,Especial,NAO_IDENTIFICADA,Café46036Especial,226.0,18.0,1.0,245.0,9.595918367346938
+P2,2026-01-14,Café,,Especial,NAO_IDENTIFICADA,Café46036Especial,193.0,26.0,4.0,223.0,9.25560538116592
+B,2026-01-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46036Especial Veg,226.0,2.0,0.0,228.0,9.956140350877194
+P2,2026-01-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46036Especial Veg,193.0,0.0,0.0,193.0,10.0
+B,2026-01-15,Café,,Especial,NAO_IDENTIFICADA,Café46037Especial,206.0,5.0,1.0,212.0,9.839622641509434
+P2,2026-01-15,Café,,Especial,NAO_IDENTIFICADA,Café46037Especial,170.0,24.0,3.0,197.0,9.253807106598984
+B,2026-01-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46037Especial Veg,206.0,1.0,1.0,208.0,9.932692307692308
+P2,2026-01-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46037Especial Veg,170.0,3.0,0.0,173.0,9.913294797687861
+B,2026-01-16,Café,,Especial,NAO_IDENTIFICADA,Café46038Especial,207.0,32.0,0.0,239.0,9.330543933054393
+P2,2026-01-16,Café,,Especial,NAO_IDENTIFICADA,Café46038Especial,189.0,72.0,0.0,261.0,8.620689655172415
+B,2026-01-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46038Especial Veg,207.0,1.0,0.0,208.0,9.975961538461538
+P2,2026-01-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46038Especial Veg,189.0,0.0,0.0,189.0,10.0
+B,2026-01-19,Café,,Especial,NAO_IDENTIFICADA,Café46041Especial,133.0,4.0,0.0,137.0,9.854014598540147
+P2,2026-01-19,Café,,Especial,NAO_IDENTIFICADA,Café46041Especial,180.0,11.0,0.0,191.0,9.712041884816754
+B,2026-01-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46041Especial Veg,133.0,0.0,0.0,133.0,10.0
+P2,2026-01-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46041Especial Veg,180.0,1.0,0.0,181.0,9.972375690607734
+B,2026-01-20,Café,,Especial,NAO_IDENTIFICADA,Café46042Especial,150.0,7.0,0.0,157.0,9.777070063694268
+P2,2026-01-20,Café,,Especial,NAO_IDENTIFICADA,Café46042Especial,186.0,20.0,0.0,206.0,9.514563106796116
+B,2026-01-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46042Especial Veg,150.0,0.0,2.0,152.0,9.881578947368421
+P2,2026-01-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46042Especial Veg,186.0,1.0,0.0,187.0,9.973262032085561
+B,2026-01-21,Café,,Especial,NAO_IDENTIFICADA,Café46043Especial,141.0,,,,10.0
+P2,2026-01-21,Café,,Especial,NAO_IDENTIFICADA,Café46043Especial,176.0,21.0,2.0,199.0,9.381909547738694
+B,2026-01-21,Café,,Especial Veg,NAO_IDENTIFICADA,Café46043Especial Veg,141.0,,,,10.0
+P2,2026-01-21,Café,,Especial Veg,NAO_IDENTIFICADA,Café46043Especial Veg,176.0,2.0,0.0,178.0,9.9438202247191
+B,2026-01-22,Café,,Especial,NAO_IDENTIFICADA,Café46044Especial,124.0,4.0,0.0,128.0,9.84375
+P2,2026-01-22,Café,,Especial,NAO_IDENTIFICADA,Café46044Especial,151.0,11.0,3.0,165.0,9.503030303030304
+B,2026-01-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46044Especial Veg,124.0,1.0,0.0,125.0,9.96
+P2,2026-01-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46044Especial Veg,151.0,17.0,0.0,168.0,9.494047619047619
+B,2026-01-23,Café,,Especial,NAO_IDENTIFICADA,Café46045Especial,95.0,7.0,0.0,102.0,9.656862745098039
+P2,2026-01-23,Café,,Especial,NAO_IDENTIFICADA,Café46045Especial,124.0,36.0,2.0,162.0,8.777777777777779
+B,2026-01-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46045Especial Veg,95.0,0.0,0.0,95.0,10.0
+P2,2026-01-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46045Especial Veg,124.0,0.0,0.0,124.0,10.0
+B,2026-01-26,Café,,Especial,NAO_IDENTIFICADA,Café46048Especial,75.0,0.0,0.0,75.0,10.0
+P2,2026-01-26,Café,,Especial,NAO_IDENTIFICADA,Café46048Especial,92.0,12.0,0.0,104.0,9.423076923076923
+B,2026-01-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46048Especial Veg,75.0,0.0,0.0,75.0,10.0
+P2,2026-01-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46048Especial Veg,92.0,0.0,0.0,92.0,10.0
+B,2026-01-27,Café,,Especial,NAO_IDENTIFICADA,Café46049Especial,55.0,0.0,0.0,55.0,10.0
+P2,2026-01-27,Café,,Especial,NAO_IDENTIFICADA,Café46049Especial,71.0,4.0,0.0,75.0,9.733333333333333
+B,2026-01-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46049Especial Veg,55.0,0.0,0.0,55.0,10.0
+P2,2026-01-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46049Especial Veg,71.0,0.0,0.0,71.0,10.0
+B,2026-01-28,Café,,Especial,NAO_IDENTIFICADA,Café46050Especial,86.0,0.0,0.0,86.0,10.0
+P2,2026-01-28,Café,,Especial,NAO_IDENTIFICADA,Café46050Especial,87.0,14.0,2.0,103.0,9.145631067961165
+B,2026-01-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46050Especial Veg,86.0,0.0,0.0,86.0,10.0
+P2,2026-01-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46050Especial Veg,87.0,0.0,0.0,87.0,10.0
+B,2026-01-29,Café,,Especial,NAO_IDENTIFICADA,Café46051Especial,84.0,0.0,0.0,84.0,10.0
+P2,2026-01-29,Café,,Especial,NAO_IDENTIFICADA,Café46051Especial,91.0,3.0,4.0,98.0,9.479591836734693
+B,2026-01-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46051Especial Veg,84.0,0.0,0.0,84.0,10.0
+P2,2026-01-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46051Especial Veg,91.0,1.0,0.0,92.0,9.945652173913043
+B,2026-01-30,Café,,Especial,NAO_IDENTIFICADA,Café46052Especial,86.0,4.0,0.0,90.0,9.777777777777779
+P2,2026-01-30,Café,,Especial,NAO_IDENTIFICADA,Café46052Especial,80.0,18.0,0.0,98.0,9.081632653061224
+B,2026-01-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46052Especial Veg,86.0,0.0,0.0,86.0,10.0
+P2,2026-01-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46052Especial Veg,80.0,0.0,0.0,80.0,10.0
+B,2026-02-02,Café,,Especial,NAO_IDENTIFICADA,Café46055Especial,58.0,0.0,0.0,58.0,10.0
+P2,2026-02-02,Café,,Especial,NAO_IDENTIFICADA,Café46055Especial,48.0,5.0,0.0,53.0,9.528301886792454
+B,2026-02-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46055Especial Veg,58.0,0.0,0.0,58.0,10.0
+P2,2026-02-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46055Especial Veg,48.0,0.0,0.0,48.0,10.0
+B,2026-02-03,Café,,Especial,NAO_IDENTIFICADA,Café46056Especial,78.0,0.0,0.0,78.0,10.0
+P2,2026-02-03,Café,,Especial,NAO_IDENTIFICADA,Café46056Especial,59.0,11.0,0.0,70.0,9.214285714285714
+B,2026-02-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46056Especial Veg,78.0,0.0,0.0,78.0,10.0
+P2,2026-02-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46056Especial Veg,59.0,0.0,0.0,59.0,10.0
+B,2026-02-04,Café,,Especial,NAO_IDENTIFICADA,Café46057Especial,81.0,0.0,0.0,81.0,10.0
+P2,2026-02-04,Café,,Especial,NAO_IDENTIFICADA,Café46057Especial,66.0,7.0,3.0,76.0,9.18421052631579
+B,2026-02-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46057Especial Veg,81.0,0.0,0.0,81.0,10.0
+P2,2026-02-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46057Especial Veg,66.0,0.0,0.0,66.0,10.0
+B,2026-02-05,Café,,Especial,NAO_IDENTIFICADA,Café46058Especial,71.0,0.0,0.0,71.0,10.0
+P2,2026-02-05,Café,,Especial,NAO_IDENTIFICADA,Café46058Especial,56.0,5.0,1.0,62.0,9.451612903225806
+B,2026-02-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46058Especial Veg,71.0,0.0,0.0,71.0,10.0
+P2,2026-02-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46058Especial Veg,56.0,0.0,0.0,56.0,10.0
+B,2026-02-06,Café,,Especial,NAO_IDENTIFICADA,Café46059Especial,104.0,0.0,0.0,104.0,10.0
+P2,2026-02-06,Café,,Especial,NAO_IDENTIFICADA,Café46059Especial,48.0,9.0,0.0,57.0,9.210526315789474
+B,2026-02-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46059Especial Veg,104.0,0.0,0.0,104.0,10.0
+P2,2026-02-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46059Especial Veg,48.0,0.0,0.0,48.0,10.0
+B,2026-02-09,Café,,Especial,NAO_IDENTIFICADA,Café46062Especial,75.0,2.0,0.0,77.0,9.87012987012987
+P2,2026-02-09,Café,,Especial,NAO_IDENTIFICADA,Café46062Especial,48.0,4.0,2.0,54.0,9.296296296296296
+B,2026-02-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46062Especial Veg,75.0,0.0,0.0,75.0,10.0
+P2,2026-02-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46062Especial Veg,48.0,0.0,0.0,48.0,10.0
+B,2026-02-10,Café,,Especial,NAO_IDENTIFICADA,Café46063Especial,93.0,0.0,0.0,93.0,10.0
+P2,2026-02-10,Café,,Especial,NAO_IDENTIFICADA,Café46063Especial,53.0,12.0,0.0,65.0,9.076923076923077
+B,2026-02-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46063Especial Veg,93.0,0.0,0.0,93.0,10.0
+P2,2026-02-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46063Especial Veg,53.0,0.0,0.0,53.0,10.0
+B,2026-02-11,Café,,Especial,NAO_IDENTIFICADA,Café46064Especial,94.0,0.0,0.0,94.0,10.0
+P2,2026-02-11,Café,,Especial,NAO_IDENTIFICADA,Café46064Especial,67.0,14.0,1.0,82.0,9.036585365853659
+B,2026-02-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46064Especial Veg,94.0,0.0,0.0,94.0,10.0
+P2,2026-02-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46064Especial Veg,67.0,1.0,0.0,68.0,9.926470588235293
+B,2026-02-12,Café,,Especial,NAO_IDENTIFICADA,Café46065Especial,91.0,2.0,0.0,93.0,9.89247311827957
+P2,2026-02-12,Café,,Especial,NAO_IDENTIFICADA,Café46065Especial,54.0,7.0,1.0,62.0,9.290322580645162
+B,2026-02-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46065Especial Veg,91.0,0.0,0.0,91.0,10.0
+P2,2026-02-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46065Especial Veg,54.0,2.0,0.0,56.0,9.821428571428571
+B,2026-02-13,Café,,Especial,NAO_IDENTIFICADA,Café46066Especial,69.0,5.0,0.0,74.0,9.662162162162161
+P2,2026-02-13,Café,,Especial,NAO_IDENTIFICADA,Café46066Especial,55.0,17.0,2.0,74.0,8.608108108108109
+B,2026-02-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46066Especial Veg,69.0,0.0,0.0,69.0,10.0
+P2,2026-02-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46066Especial Veg,55.0,0.0,1.0,56.0,9.839285714285714
+B,2026-02-19,Café,,Especial,NAO_IDENTIFICADA,Café46072Especial,60.0,0.0,0.0,60.0,10.0
+P2,2026-02-19,Café,,Especial,NAO_IDENTIFICADA,Café46072Especial,43.0,6.0,0.0,49.0,9.387755102040817
+B,2026-02-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46072Especial Veg,60.0,0.0,0.0,60.0,10.0
+P2,2026-02-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46072Especial Veg,43.0,0.0,0.0,43.0,10.0
+B,2026-02-20,Café,,Especial,NAO_IDENTIFICADA,Café46073Especial,81.0,2.0,0.0,83.0,9.879518072289157
+P2,2026-02-20,Café,,Especial,NAO_IDENTIFICADA,Café46073Especial,54.0,16.0,0.0,70.0,8.857142857142858
+B,2026-02-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46073Especial Veg,81.0,2.0,0.0,83.0,9.879518072289157
+P2,2026-02-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46073Especial Veg,54.0,0.0,0.0,54.0,10.0
+B,2026-02-23,Café,,Especial,NAO_IDENTIFICADA,Café46076Especial,82.0,1.0,0.0,83.0,9.939759036144578
+P2,2026-02-23,Café,,Especial,NAO_IDENTIFICADA,Café46076Especial,45.0,5.0,1.0,51.0,9.333333333333334
+B,2026-02-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46076Especial Veg,82.0,0.0,0.0,82.0,10.0
+P2,2026-02-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46076Especial Veg,45.0,1.0,0.0,46.0,9.891304347826088
+B,2026-02-24,Café,,Especial,NAO_IDENTIFICADA,Café46077Especial,113.0,2.0,0.0,115.0,9.91304347826087
+P2,2026-02-24,Café,,Especial,NAO_IDENTIFICADA,Café46077Especial,60.0,12.0,0.0,72.0,9.166666666666666
+B,2026-02-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46077Especial Veg,113.0,1.0,0.0,114.0,9.956140350877194
+P2,2026-02-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46077Especial Veg,60.0,2.0,0.0,62.0,9.838709677419354
+B,2026-02-25,Café,,Especial,NAO_IDENTIFICADA,Café46078Especial,109.0,,,,10.0
+P2,2026-02-25,Café,,Especial,NAO_IDENTIFICADA,Café46078Especial,73.0,12.0,3.0,88.0,9.011363636363637
+B,2026-02-25,Café,,Especial Veg,NAO_IDENTIFICADA,Café46078Especial Veg,109.0,,,,10.0
+P2,2026-02-25,Café,,Especial Veg,NAO_IDENTIFICADA,Café46078Especial Veg,73.0,2.0,0.0,75.0,9.866666666666667
+B,2026-02-26,Café,,Especial,NAO_IDENTIFICADA,Café46079Especial,116.0,4.0,0.0,120.0,9.833333333333334
+P2,2026-02-26,Café,,Especial,NAO_IDENTIFICADA,Café46079Especial,67.0,11.0,0.0,78.0,9.294871794871796
+B,2026-02-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46079Especial Veg,116.0,0.0,0.0,116.0,10.0
+P2,2026-02-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46079Especial Veg,67.0,0.0,0.0,67.0,10.0
+B,2026-02-27,Café,,Especial,NAO_IDENTIFICADA,Café46080Especial,107.0,12.0,1.0,120.0,9.425
+P2,2026-02-27,Café,,Especial,NAO_IDENTIFICADA,Café46080Especial,73.0,19.0,0.0,92.0,8.967391304347826
+B,2026-02-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46080Especial Veg,107.0,1.0,0.0,108.0,9.953703703703704
+P2,2026-02-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46080Especial Veg,73.0,0.0,0.0,73.0,10.0
+B,2026-03-02,Café,,Especial,NAO_IDENTIFICADA,Café46083Especial,141.0,0.0,0.0,141.0,10.0
+P2,2026-03-02,Café,,Especial,NAO_IDENTIFICADA,Café46083Especial,168.0,14.0,2.0,184.0,9.521739130434783
+B,2026-03-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46083Especial Veg,141.0,0.0,0.0,141.0,10.0
+P2,2026-03-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46083Especial Veg,168.0,4.0,0.0,172.0,9.883720930232558
+B,2026-03-03,Café,,Especial,NAO_IDENTIFICADA,Café46084Especial,156.0,6.0,0.0,162.0,9.814814814814815
+P2,2026-03-03,Café,,Especial,NAO_IDENTIFICADA,Café46084Especial,181.0,41.0,0.0,222.0,9.076576576576576
+B,2026-03-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46084Especial Veg,156.0,0.0,0.0,156.0,10.0
+P2,2026-03-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46084Especial Veg,181.0,0.0,1.0,182.0,9.95054945054945
+B,2026-03-04,Café,,Especial,NAO_IDENTIFICADA,Café46085Especial,173.0,,,,10.0
+P2,2026-03-04,Café,,Especial,NAO_IDENTIFICADA,Café46085Especial,180.0,20.0,1.0,201.0,9.457711442786069
+B,2026-03-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46085Especial Veg,173.0,,,,10.0
+P2,2026-03-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46085Especial Veg,180.0,3.0,1.0,184.0,9.869565217391305
+B,2026-03-05,Café,,Especial,NAO_IDENTIFICADA,Café46086Especial,154.0,1.0,7.0,162.0,9.580246913580247
+P2,2026-03-05,Café,,Especial,NAO_IDENTIFICADA,Café46086Especial,192.0,13.0,5.0,210.0,9.476190476190476
+B,2026-03-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46086Especial Veg,154.0,2.0,4.0,160.0,9.7125
+P2,2026-03-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46086Especial Veg,192.0,0.0,0.0,192.0,10.0
+B,2026-03-06,Café,,Especial,NAO_IDENTIFICADA,Café46087Especial,175.0,,,,10.0
+P2,2026-03-06,Café,,Especial,NAO_IDENTIFICADA,Café46087Especial,166.0,20.0,4.0,190.0,9.284210526315789
+B,2026-03-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46087Especial Veg,175.0,,,,10.0
+P2,2026-03-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46087Especial Veg,166.0,2.0,0.0,168.0,9.94047619047619
+B,2026-03-09,Café,,Especial,NAO_IDENTIFICADA,Café46090Especial,186.0,5.0,5.0,196.0,9.642857142857142
+P2,2026-03-09,Café,,Especial,NAO_IDENTIFICADA,Café46090Especial,182.0,13.0,3.0,198.0,9.535353535353535
+B,2026-03-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46090Especial Veg,186.0,1.0,0.0,187.0,9.973262032085561
+P2,2026-03-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46090Especial Veg,182.0,1.0,0.0,183.0,9.972677595628415
+B,2026-03-10,Café,,Especial,NAO_IDENTIFICADA,Café46091Especial,226.0,16.0,2.0,244.0,9.598360655737705
+P2,2026-03-10,Café,,Especial,NAO_IDENTIFICADA,Café46091Especial,207.0,32.0,0.0,239.0,9.330543933054393
+B,2026-03-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46091Especial Veg,226.0,3.0,0.0,229.0,9.934497816593886
+P2,2026-03-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46091Especial Veg,207.0,0.0,1.0,208.0,9.95673076923077
+B,2026-03-11,Café,,Especial,NAO_IDENTIFICADA,Café46092Especial,220.0,35.0,1.0,256.0,9.28125
+P2,2026-03-11,Café,,Especial,NAO_IDENTIFICADA,Café46092Especial,195.0,28.0,1.0,224.0,9.334821428571429
+B,2026-03-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46092Especial Veg,220.0,0.0,2.0,222.0,9.91891891891892
+P2,2026-03-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46092Especial Veg,195.0,3.0,1.0,199.0,9.879396984924623
+B,2026-03-12,Café,,Especial,NAO_IDENTIFICADA,Café46093Especial,218.0,14.0,1.0,233.0,9.660944206008583
+P2,2026-03-12,Café,,Especial,NAO_IDENTIFICADA,Café46093Especial,198.0,25.0,2.0,225.0,9.364444444444445
+B,2026-03-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46093Especial Veg,218.0,0.0,0.0,218.0,10.0
+P2,2026-03-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46093Especial Veg,198.0,0.0,1.0,199.0,9.954773869346734
+B,2026-03-13,Café,,Especial,NAO_IDENTIFICADA,Café46094Especial,207.0,43.0,0.0,250.0,9.14
+P2,2026-03-13,Café,,Especial,NAO_IDENTIFICADA,Café46094Especial,190.0,45.0,18.0,253.0,8.470355731225297
+B,2026-03-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46094Especial Veg,207.0,0.0,0.0,207.0,10.0
+P2,2026-03-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46094Especial Veg,190.0,5.0,0.0,195.0,9.871794871794872
+B,2026-03-16,Café,,Especial,NAO_IDENTIFICADA,Café46097Especial,164.0,10.0,0.0,174.0,9.71264367816092
+P2,2026-03-16,Café,,Especial,NAO_IDENTIFICADA,Café46097Especial,185.0,10.0,1.0,196.0,9.698979591836734
+B,2026-03-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46097Especial Veg,164.0,2.0,0.0,166.0,9.939759036144578
+P2,2026-03-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46097Especial Veg,185.0,2.0,0.0,187.0,9.946524064171124
+B,2026-03-17,Café,,Especial,NAO_IDENTIFICADA,Café46098Especial,220.0,14.0,0.0,234.0,9.7008547008547
+P2,2026-03-17,Café,,Especial,NAO_IDENTIFICADA,Café46098Especial,196.0,25.0,1.0,222.0,9.396396396396396
+B,2026-03-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46098Especial Veg,220.0,1.0,0.0,221.0,9.97737556561086
+P2,2026-03-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46098Especial Veg,196.0,0.0,0.0,196.0,10.0
+B,2026-03-18,Café,,Especial,NAO_IDENTIFICADA,Café46099Especial,143.0,18.0,1.0,162.0,9.38888888888889
+P2,2026-03-18,Café,,Especial,NAO_IDENTIFICADA,Café46099Especial,181.0,22.0,3.0,206.0,9.33495145631068
+B,2026-03-18,Café,,Especial Veg,NAO_IDENTIFICADA,Café46099Especial Veg,143.0,2.0,0.0,145.0,9.931034482758621
+P2,2026-03-18,Café,,Especial Veg,NAO_IDENTIFICADA,Café46099Especial Veg,181.0,1.0,1.0,183.0,9.923497267759563
+B,2026-03-23,Café,,Especial,NAO_IDENTIFICADA,Café46104Especial,174.0,11.0,3.0,188.0,9.563829787234043
+P2,2026-03-23,Café,,Especial,NAO_IDENTIFICADA,Café46104Especial,205.0,40.0,0.0,245.0,9.183673469387756
+B,2026-03-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46104Especial Veg,174.0,1.0,0.0,175.0,9.971428571428572
+P2,2026-03-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46104Especial Veg,205.0,0.0,0.0,205.0,10.0
+B,2026-03-24,Café,,Especial,NAO_IDENTIFICADA,Café46105Especial,231.0,20.0,5.0,256.0,9.43359375
+P2,2026-03-24,Café,,Especial,NAO_IDENTIFICADA,Café46105Especial,202.0,46.0,1.0,249.0,9.040160642570282
+B,2026-03-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46105Especial Veg,231.0,0.0,0.0,231.0,10.0
+P2,2026-03-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46105Especial Veg,202.0,0.0,1.0,203.0,9.955665024630543
+B,2026-03-26,Café,,Especial,NAO_IDENTIFICADA,Café46107Especial,198.0,42.0,1.0,241.0,9.091286307053942
+P2,2026-03-26,Café,,Especial,NAO_IDENTIFICADA,Café46107Especial,216.0,27.0,4.0,247.0,9.307692307692308
+B,2026-03-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46107Especial Veg,198.0,2.0,0.0,200.0,9.95
+P2,2026-03-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46107Especial Veg,216.0,3.0,1.0,220.0,9.89090909090909
+B,2026-03-27,Café,,Especial,NAO_IDENTIFICADA,Café46108Especial,215.0,24.0,2.0,241.0,9.427385892116183
+P2,2026-03-27,Café,,Especial,NAO_IDENTIFICADA,Café46108Especial,212.0,57.0,1.0,270.0,8.911111111111111
+B,2026-03-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46108Especial Veg,215.0,4.0,0.0,219.0,9.908675799086758
+P2,2026-03-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46108Especial Veg,212.0,4.0,0.0,216.0,9.907407407407407
+B,2026-03-30,Café,,Especial,NAO_IDENTIFICADA,Café46111Especial,190.0,14.0,1.0,205.0,9.614634146341464
+P2,2026-03-30,Café,,Especial,NAO_IDENTIFICADA,Café46111Especial,197.0,16.0,0.0,213.0,9.624413145539906
+B,2026-03-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46111Especial Veg,190.0,3.0,0.0,193.0,9.922279792746114
+P2,2026-03-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46111Especial Veg,197.0,1.0,0.0,198.0,9.974747474747474
+B,2026-03-31,Café,,Especial,NAO_IDENTIFICADA,Café46112Especial,203.0,26.0,2.0,231.0,9.35930735930736
+P2,2026-03-31,Café,,Especial,NAO_IDENTIFICADA,Café46112Especial,209.0,33.0,1.0,243.0,9.283950617283951
+B,2026-03-31,Café,,Especial Veg,NAO_IDENTIFICADA,Café46112Especial Veg,203.0,1.0,0.0,204.0,9.97549019607843
+P2,2026-03-31,Café,,Especial Veg,NAO_IDENTIFICADA,Café46112Especial Veg,209.0,0.0,0.0,209.0,10.0
+B,2026-04-01,Café,,Especial,NAO_IDENTIFICADA,Café46113Especial,201.0,24.0,0.0,225.0,9.466666666666667
+P2,2026-04-01,Café,,Especial,NAO_IDENTIFICADA,Café46113Especial,182.0,23.0,5.0,210.0,9.238095238095237
+B,2026-04-01,Café,,Especial Veg,NAO_IDENTIFICADA,Café46113Especial Veg,201.0,0.0,0.0,201.0,10.0
+P2,2026-04-01,Café,,Especial Veg,NAO_IDENTIFICADA,Café46113Especial Veg,182.0,3.0,1.0,186.0,9.870967741935484
+B,2026-04-06,Café,,Especial,NAO_IDENTIFICADA,Café46118Especial,128.0,4.0,0.0,132.0,9.848484848484848
+P2,2026-04-06,Café,,Especial,NAO_IDENTIFICADA,Café46118Especial,178.0,10.0,0.0,188.0,9.73404255319149
+B,2026-04-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46118Especial Veg,128.0,2.0,0.0,130.0,9.923076923076923
+P2,2026-04-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46118Especial Veg,178.0,0.0,0.0,178.0,10.0
+B,2026-04-07,Café,,Especial,NAO_IDENTIFICADA,Café46119Especial,200.0,33.0,0.0,233.0,9.291845493562231
+P2,2026-04-07,Café,,Especial,NAO_IDENTIFICADA,Café46119Especial,209.0,36.0,2.0,247.0,9.19838056680162
+B,2026-04-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46119Especial Veg,200.0,2.0,0.0,202.0,9.950495049504951
+P2,2026-04-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46119Especial Veg,209.0,1.0,0.0,210.0,9.976190476190476
+B,2026-04-08,Café,,Especial,NAO_IDENTIFICADA,Café46120Especial,190.0,18.0,3.0,211.0,9.445497630331754
+P2,2026-04-08,Café,,Especial,NAO_IDENTIFICADA,Café46120Especial,214.0,20.0,1.0,235.0,9.536170212765958
+B,2026-04-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46120Especial Veg,190.0,0.0,0.0,190.0,10.0
+P2,2026-04-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46120Especial Veg,214.0,3.0,0.0,217.0,9.930875576036867
+B,2026-04-09,Café,,Especial,NAO_IDENTIFICADA,Café46121Especial,190.0,13.0,1.0,204.0,9.637254901960784
+P2,2026-04-09,Café,,Especial,NAO_IDENTIFICADA,Café46121Especial,212.0,36.0,1.0,249.0,9.240963855421686
+B,2026-04-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46121Especial Veg,190.0,1.0,0.0,191.0,9.973821989528796
+P2,2026-04-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46121Especial Veg,212.0,4.0,0.0,216.0,9.907407407407407
+B,2026-04-10,Café,,Especial,NAO_IDENTIFICADA,Café46122Especial,192.0,23.0,0.0,215.0,9.465116279069768
+P2,2026-04-10,Café,,Especial,NAO_IDENTIFICADA,Café46122Especial,210.0,,,,10.0
+B,2026-04-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46122Especial Veg,192.0,0.0,0.0,192.0,10.0
+P2,2026-04-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46122Especial Veg,210.0,,,,10.0
+B,2026-04-14,Café,,Especial,NAO_IDENTIFICADA,Café46126Especial,183.0,27.0,3.0,213.0,9.23943661971831
+P2,2026-04-14,Café,,Especial,NAO_IDENTIFICADA,Café46126Especial,181.0,30.0,1.0,212.0,9.25
+B,2026-04-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46126Especial Veg,183.0,1.0,0.0,184.0,9.972826086956522
+P2,2026-04-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46126Especial Veg,181.0,0.0,0.0,181.0,10.0
+B,2026-04-15,Café,,Especial,NAO_IDENTIFICADA,Café46127Especial,200.0,15.0,2.0,217.0,9.571428571428571
+P2,2026-04-15,Café,,Especial,NAO_IDENTIFICADA,Café46127Especial,211.0,22.0,1.0,234.0,9.491452991452991
+B,2026-04-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46127Especial Veg,200.0,5.0,0.0,205.0,9.878048780487806
+P2,2026-04-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46127Especial Veg,211.0,3.0,0.0,214.0,9.929906542056075
+B,2026-04-16,Café,,Especial,NAO_IDENTIFICADA,Café46128Especial,186.0,18.0,2.0,206.0,9.475728155339805
+P2,2026-04-16,Café,,Especial,NAO_IDENTIFICADA,Café46128Especial,213.0,15.0,4.0,232.0,9.52155172413793
+B,2026-04-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46128Especial Veg,186.0,2.0,0.0,188.0,9.946808510638299
+P2,2026-04-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46128Especial Veg,213.0,2.0,0.0,215.0,9.953488372093023
+B,2026-04-17,Café,,Especial,NAO_IDENTIFICADA,Café46129Especial,185.0,23.0,0.0,208.0,9.447115384615385
+P2,2026-04-17,Café,,Especial,NAO_IDENTIFICADA,Café46129Especial,230.0,40.0,2.0,272.0,9.198529411764707
+B,2026-04-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46129Especial Veg,185.0,0.0,0.0,185.0,10.0
+P2,2026-04-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46129Especial Veg,230.0,4.0,0.0,234.0,9.914529914529915
+B,2026-04-22,Café,,Especial,NAO_IDENTIFICADA,Café46134Especial,175.0,17.0,2.0,194.0,9.469072164948454
+P2,2026-04-22,Café,,Especial,NAO_IDENTIFICADA,Café46134Especial,202.0,27.0,4.0,233.0,9.266094420600858
+B,2026-04-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46134Especial Veg,175.0,1.0,0.0,176.0,9.971590909090908
+P2,2026-04-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46134Especial Veg,202.0,5.0,0.0,207.0,9.879227053140097
+B,2026-04-23,Café,,Especial,NAO_IDENTIFICADA,Café46135Especial,207.0,7.0,3.0,217.0,9.714285714285714
+P2,2026-04-23,Café,,Especial,NAO_IDENTIFICADA,Café46135Especial,206.0,9.0,2.0,217.0,9.709677419354838
+B,2026-04-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46135Especial Veg,207.0,1.0,0.0,208.0,9.975961538461538
+P2,2026-04-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46135Especial Veg,206.0,1.0,1.0,208.0,9.932692307692308
+B,2026-04-24,Café,,Especial,NAO_IDENTIFICADA,Café46136Especial,207.0,13.0,0.0,220.0,9.704545454545455
+P2,2026-04-24,Café,,Especial,NAO_IDENTIFICADA,Café46136Especial,221.0,47.0,1.0,269.0,9.092936802973977
+B,2026-04-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46136Especial Veg,207.0,3.0,0.0,210.0,9.928571428571429
+P2,2026-04-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46136Especial Veg,221.0,1.0,0.0,222.0,9.977477477477477
+B,2026-04-27,Café,,Especial,NAO_IDENTIFICADA,Café46139Especial,168.0,4.0,0.0,172.0,9.883720930232558
+P2,2026-04-27,Café,,Especial,NAO_IDENTIFICADA,Café46139Especial,170.0,6.0,9.0,185.0,9.4
+B,2026-04-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46139Especial Veg,168.0,0.0,0.0,168.0,10.0
+P2,2026-04-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46139Especial Veg,170.0,1.0,0.0,171.0,9.970760233918128
+B,2026-04-28,Café,,Especial,NAO_IDENTIFICADA,Café46140Especial,222.0,28.0,2.0,252.0,9.373015873015873
+P2,2026-04-28,Café,,Especial,NAO_IDENTIFICADA,Café46140Especial,224.0,24.0,1.0,249.0,9.481927710843374
+B,2026-04-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46140Especial Veg,222.0,3.0,6.0,231.0,9.7012987012987
+P2,2026-04-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46140Especial Veg,224.0,0.0,0.0,224.0,10.0
+B,2026-04-29,Café,,Especial,NAO_IDENTIFICADA,Café46141Especial,197.0,30.0,0.0,227.0,9.33920704845815
+P2,2026-04-29,Café,,Especial,NAO_IDENTIFICADA,Café46141Especial,204.0,24.0,5.0,233.0,9.291845493562231
+B,2026-04-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46141Especial Veg,197.0,0.0,0.0,197.0,10.0
+P2,2026-04-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46141Especial Veg,204.0,6.0,0.0,210.0,9.857142857142858
+B,2026-04-30,Café,,Especial,NAO_IDENTIFICADA,Café46142Especial,224.0,24.0,2.0,250.0,9.448
+P2,2026-04-30,Café,,Especial,NAO_IDENTIFICADA,Café46142Especial,199.0,31.0,0.0,230.0,9.326086956521738
+B,2026-04-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46142Especial Veg,224.0,3.0,0.0,227.0,9.933920704845814
+P2,2026-04-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46142Especial Veg,199.0,1.0,0.0,200.0,9.975
+B,2026-05-04,Café,,Especial,NAO_IDENTIFICADA,Café46146Especial,161.0,17.0,0.0,178.0,9.52247191011236
+P2,2026-05-04,Café,,Especial,NAO_IDENTIFICADA,Café46146Especial,158.0,11.0,1.0,170.0,9.623529411764705
+B,2026-05-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46146Especial Veg,161.0,4.0,0.0,165.0,9.878787878787879
+P2,2026-05-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46146Especial Veg,158.0,0.0,0.0,158.0,10.0
+B,2026-05-05,Café,,Especial,NAO_IDENTIFICADA,Café46147Especial,228.0,10.0,1.0,239.0,9.753138075313808
+P2,2026-05-05,Café,,Especial,NAO_IDENTIFICADA,Café46147Especial,215.0,42.0,2.0,259.0,9.11969111969112
+B,2026-05-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46147Especial Veg,228.0,2.0,0.0,230.0,9.956521739130435
+P2,2026-05-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46147Especial Veg,215.0,0.0,0.0,215.0,10.0
+B,2026-05-06,Café,,Especial,NAO_IDENTIFICADA,Café46148Especial,221.0,14.0,5.0,240.0,9.520833333333334
+P2,2026-05-06,Café,,Especial,NAO_IDENTIFICADA,Café46148Especial,221.0,19.0,2.0,242.0,9.53305785123967
+B,2026-05-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46148Especial Veg,221.0,0.0,0.0,221.0,10.0
+P2,2026-05-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46148Especial Veg,221.0,5.0,0.0,226.0,9.889380530973451
+B,2026-05-07,Café,,Especial,NAO_IDENTIFICADA,Café46149Especial,221.0,14.0,0.0,235.0,9.702127659574469
+P2,2026-05-07,Café,,Especial,NAO_IDENTIFICADA,Café46149Especial,218.0,16.0,2.0,236.0,9.584745762711865
+B,2026-05-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46149Especial Veg,221.0,2.0,0.0,223.0,9.955156950672645
+P2,2026-05-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46149Especial Veg,218.0,4.0,0.0,222.0,9.90990990990991
+B,2026-05-08,Café,,Especial,NAO_IDENTIFICADA,Café46150Especial,207.0,26.0,0.0,233.0,9.44206008583691
+P2,2026-05-08,Café,,Especial,NAO_IDENTIFICADA,Café46150Especial,216.0,63.0,3.0,282.0,8.787234042553191
+B,2026-05-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46150Especial Veg,207.0,4.0,1.0,212.0,9.86320754716981
+P2,2026-05-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46150Especial Veg,216.0,3.0,0.0,219.0,9.931506849315069
+B,2026-05-11,Café,,Especial,NAO_IDENTIFICADA,Café46153Especial,148.0,13.0,2.0,163.0,9.49079754601227
+P2,2026-05-11,Café,,Especial,NAO_IDENTIFICADA,Café46153Especial,188.0,19.0,0.0,207.0,9.541062801932368
+B,2026-05-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46153Especial Veg,148.0,0.0,1.0,149.0,9.939597315436242
+P2,2026-05-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46153Especial Veg,188.0,0.0,0.0,188.0,10.0
+B,2026-05-12,Café,,Especial,NAO_IDENTIFICADA,Café46154Especial,211.0,18.0,0.0,229.0,9.606986899563319
+P2,2026-05-12,Café,,Especial,NAO_IDENTIFICADA,Café46154Especial,203.0,31.0,2.0,236.0,9.266949152542374
+B,2026-05-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46154Especial Veg,211.0,4.0,0.0,215.0,9.906976744186046
+P2,2026-05-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46154Especial Veg,203.0,1.0,0.0,204.0,9.97549019607843
+B,2026-05-13,Café,,Especial,NAO_IDENTIFICADA,Café46155Especial,202.0,10.0,2.0,214.0,9.682242990654206
+P2,2026-05-13,Café,,Especial,NAO_IDENTIFICADA,Café46155Especial,206.0,34.0,0.0,240.0,9.291666666666666
+B,2026-05-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46155Especial Veg,202.0,2.0,0.0,204.0,9.950980392156863
+P2,2026-05-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46155Especial Veg,206.0,4.0,0.0,210.0,9.904761904761905
+B,2026-05-14,Café,,Especial,NAO_IDENTIFICADA,Café46156Especial,214.0,6.0,3.0,223.0,9.74439461883408
+P2,2026-05-14,Café,,Especial,NAO_IDENTIFICADA,Café46156Especial,210.0,19.0,4.0,233.0,9.437768240343347
+B,2026-05-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46156Especial Veg,214.0,3.0,0.0,217.0,9.930875576036867
+P2,2026-05-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46156Especial Veg,210.0,1.0,0.0,211.0,9.976303317535544
+B,2026-05-15,Café,,Especial,NAO_IDENTIFICADA,Café46157Especial,200.0,32.0,1.0,233.0,9.274678111587983
+P2,2026-05-15,Café,,Especial,NAO_IDENTIFICADA,Café46157Especial,235.0,39.0,7.0,281.0,9.08185053380783
+B,2026-05-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46157Especial Veg,200.0,2.0,0.0,202.0,9.950495049504951
+P2,2026-05-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46157Especial Veg,235.0,13.0,0.0,248.0,9.737903225806452
+B,2026-05-18,Café,,Especial,NAO_IDENTIFICADA,Café46160Especial,167.0,6.0,0.0,173.0,9.826589595375722
+P2,2026-05-18,Café,,Especial,NAO_IDENTIFICADA,Café46160Especial,180.0,11.0,2.0,193.0,9.621761658031089
+B,2026-05-18,Café,,Especial Veg,NAO_IDENTIFICADA,Café46160Especial Veg,167.0,0.0,0.0,167.0,10.0
+P2,2026-05-18,Café,,Especial Veg,NAO_IDENTIFICADA,Café46160Especial Veg,180.0,4.0,0.0,184.0,9.891304347826088
+B,2026-05-19,Café,,Especial,NAO_IDENTIFICADA,Café46161Especial,205.0,15.0,4.0,224.0,9.504464285714286
+P2,2026-05-19,Café,,Especial,NAO_IDENTIFICADA,Café46161Especial,213.0,34.0,2.0,249.0,9.244979919678714
+B,2026-05-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46161Especial Veg,205.0,2.0,0.0,207.0,9.951690821256038
+P2,2026-05-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46161Especial Veg,213.0,1.0,0.0,214.0,9.976635514018692
+B,2026-05-20,Café,,Especial,NAO_IDENTIFICADA,Café46162Especial,195.0,12.0,4.0,211.0,9.545023696682465
+P2,2026-05-20,Café,,Especial,NAO_IDENTIFICADA,Café46162Especial,221.0,25.0,3.0,249.0,9.389558232931726
+B,2026-05-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46162Especial Veg,195.0,4.0,0.0,199.0,9.899497487437186
+P2,2026-05-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46162Especial Veg,221.0,4.0,0.0,225.0,9.911111111111111
+B,2026-05-21,Café,,Especial,NAO_IDENTIFICADA,Café46163Especial,190.0,22.0,0.0,212.0,9.481132075471699
+P2,2026-05-21,Café,,Especial,NAO_IDENTIFICADA,Café46163Especial,242.0,34.0,2.0,278.0,9.323741007194245
+B,2026-05-21,Café,,Especial Veg,NAO_IDENTIFICADA,Café46163Especial Veg,190.0,3.0,1.0,194.0,9.876288659793815
+P2,2026-05-21,Café,,Especial Veg,NAO_IDENTIFICADA,Café46163Especial Veg,242.0,1.0,0.0,243.0,9.979423868312757
+B,2026-05-22,Café,,Especial,NAO_IDENTIFICADA,Café46164Especial,190.0,10.0,0.0,200.0,9.75
+P2,2026-05-22,Café,,Especial,NAO_IDENTIFICADA,Café46164Especial,228.0,33.0,1.0,262.0,9.335877862595419
+B,2026-05-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46164Especial Veg,190.0,2.0,0.0,192.0,9.947916666666666
+P2,2026-05-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46164Especial Veg,228.0,8.0,0.0,236.0,9.830508474576272
+B,2026-05-25,Café,,Especial,NAO_IDENTIFICADA,Café46167Especial,187.0,32.0,4.0,223.0,9.121076233183857
+P2,2026-05-25,Café,,Especial,NAO_IDENTIFICADA,Café46167Especial,185.0,9.0,1.0,195.0,9.723076923076922
+B,2026-05-25,Café,,Especial Veg,NAO_IDENTIFICADA,Café46167Especial Veg,187.0,0.0,4.0,191.0,9.811518324607329
+P2,2026-05-25,Café,,Especial Veg,NAO_IDENTIFICADA,Café46167Especial Veg,185.0,1.0,0.0,186.0,9.973118279569892
+B,2026-05-26,Café,,Especial,NAO_IDENTIFICADA,Café46168Especial,251.0,16.0,0.0,267.0,9.700374531835205
+P2,2026-05-26,Café,,Especial,NAO_IDENTIFICADA,Café46168Especial,196.0,35.0,0.0,231.0,9.242424242424242
+B,2026-05-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46168Especial Veg,251.0,2.0,0.0,253.0,9.960474308300395
+P2,2026-05-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46168Especial Veg,196.0,0.0,0.0,196.0,10.0
+B,2026-05-27,Café,,Especial,NAO_IDENTIFICADA,Café46169Especial,233.0,21.0,0.0,254.0,9.586614173228346
+P2,2026-05-27,Café,,Especial,NAO_IDENTIFICADA,Café46169Especial,213.0,17.0,1.0,231.0,9.593073593073592
+B,2026-05-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46169Especial Veg,233.0,1.0,0.0,234.0,9.978632478632479
+P2,2026-05-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46169Especial Veg,213.0,5.0,0.0,218.0,9.885321100917432
+B,2026-05-28,Café,,Especial,NAO_IDENTIFICADA,Café46170Especial,240.0,12.0,5.0,257.0,9.591439688715953
+P2,2026-05-28,Café,,Especial,NAO_IDENTIFICADA,Café46170Especial,222.0,13.0,4.0,239.0,9.577405857740585
+B,2026-05-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46170Especial Veg,240.0,5.0,0.0,245.0,9.89795918367347
+P2,2026-05-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46170Especial Veg,222.0,3.0,1.0,226.0,9.893805309734514
+B,2026-05-29,Café,,Especial,NAO_IDENTIFICADA,Café46171Especial,229.0,19.0,1.0,249.0,9.582329317269076
+P2,2026-05-29,Café,,Especial,NAO_IDENTIFICADA,Café46171Especial,207.0,25.0,3.0,235.0,9.353191489361702
+B,2026-05-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46171Especial Veg,229.0,5.0,0.0,234.0,9.893162393162394
+P2,2026-05-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46171Especial Veg,207.0,3.0,1.0,211.0,9.886255924170616
+B,2026-06-01,Café,,Especial,NAO_IDENTIFICADA,Café46174Especial,190.0,8.0,3.0,201.0,9.666666666666666
+P2,2026-06-01,Café,,Especial,NAO_IDENTIFICADA,Café46174Especial,194.0,12.0,5.0,211.0,9.502369668246445
+B,2026-06-01,Café,,Especial Veg,NAO_IDENTIFICADA,Café46174Especial Veg,190.0,4.0,2.0,196.0,9.806122448979592
+P2,2026-06-01,Café,,Especial Veg,NAO_IDENTIFICADA,Café46174Especial Veg,194.0,0.0,0.0,194.0,10.0
+B,2026-06-02,Café,,Especial,NAO_IDENTIFICADA,Café46175Especial,220.0,10.0,0.0,230.0,9.782608695652174
+P2,2026-06-02,Café,,Especial,NAO_IDENTIFICADA,Café46175Especial,203.0,33.0,1.0,237.0,9.265822784810126
+B,2026-06-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46175Especial Veg,220.0,0.0,0.0,220.0,10.0
+P2,2026-06-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46175Especial Veg,203.0,1.0,0.0,204.0,9.97549019607843
+B,2026-06-03,Café,,Especial,NAO_IDENTIFICADA,Café46176Especial,203.0,25.0,0.0,228.0,9.451754385964913
+P2,2026-06-03,Café,,Especial,NAO_IDENTIFICADA,Café46176Especial,212.0,26.0,2.0,240.0,9.383333333333333
+B,2026-06-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46176Especial Veg,203.0,2.0,0.0,205.0,9.951219512195122
+P2,2026-06-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46176Especial Veg,212.0,4.0,1.0,217.0,9.866359447004609
+B,2026-06-08,Café,,Especial,NAO_IDENTIFICADA,Café46181Especial,186.0,23.0,1.0,210.0,9.40952380952381
+P2,2026-06-08,Café,,Especial,NAO_IDENTIFICADA,Café46181Especial,167.0,12.0,1.0,180.0,9.616666666666667
+B,2026-06-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46181Especial Veg,186.0,1.0,0.0,187.0,9.973262032085561
+P2,2026-06-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46181Especial Veg,167.0,2.0,0.0,169.0,9.940828402366863
+B,2026-06-09,Café,,Especial,NAO_IDENTIFICADA,Café46182Especial,236.0,16.0,0.0,252.0,9.682539682539682
+P2,2026-06-09,Café,,Especial,NAO_IDENTIFICADA,Café46182Especial,214.0,35.0,1.0,250.0,9.264
+B,2026-06-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46182Especial Veg,236.0,3.0,0.0,239.0,9.93723849372385
+P2,2026-06-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46182Especial Veg,214.0,0.0,0.0,214.0,10.0
+B,2026-06-10,Café,,Especial,NAO_IDENTIFICADA,Café46183Especial,219.0,22.0,1.0,242.0,9.508264462809917
+P2,2026-06-10,Café,,Especial,NAO_IDENTIFICADA,Café46183Especial,207.0,24.0,5.0,236.0,9.30084745762712
+B,2026-06-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46183Especial Veg,219.0,1.0,1.0,221.0,9.936651583710407
+P2,2026-06-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46183Especial Veg,207.0,3.0,0.0,210.0,9.928571428571429
+B,2026-06-11,Café,,Especial,NAO_IDENTIFICADA,Café46184Especial,213.0,23.0,0.0,236.0,9.51271186440678
+P2,2026-06-11,Café,,Especial,NAO_IDENTIFICADA,Café46184Especial,214.0,21.0,4.0,239.0,9.410041841004183
+B,2026-06-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46184Especial Veg,213.0,5.0,0.0,218.0,9.885321100917432
+P2,2026-06-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46184Especial Veg,214.0,2.0,3.0,219.0,9.831050228310502
+B,2026-06-12,Café,,Especial,NAO_IDENTIFICADA,Café46185Especial,207.0,20.0,1.0,228.0,9.521929824561404
+P2,2026-06-12,Café,,Especial,NAO_IDENTIFICADA,Café46185Especial,206.0,35.0,26.0,267.0,8.46816479400749
+B,2026-06-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46185Especial Veg,207.0,3.0,0.0,210.0,9.928571428571429
+P2,2026-06-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46185Especial Veg,206.0,3.0,0.0,209.0,9.92822966507177
+B,2026-06-15,Café,,Especial,NAO_IDENTIFICADA,Café46188Especial,183.0,4.0,0.0,187.0,9.893048128342246
+P2,2026-06-15,Café,,Especial,NAO_IDENTIFICADA,Café46188Especial,171.0,14.0,1.0,186.0,9.575268817204302
+B,2026-06-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46188Especial Veg,183.0,2.0,0.0,185.0,9.945945945945946
+P2,2026-06-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46188Especial Veg,171.0,0.0,0.0,171.0,10.0
+B,2026-06-16,Café,,Especial,NAO_IDENTIFICADA,Café46189Especial,250.0,27.0,1.0,278.0,9.482014388489208
+P2,2026-06-16,Café,,Especial,NAO_IDENTIFICADA,Café46189Especial,210.0,37.0,2.0,249.0,9.184738955823294
+B,2026-06-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46189Especial Veg,250.0,2.0,0.0,252.0,9.96031746031746
+P2,2026-06-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46189Especial Veg,210.0,1.0,0.0,211.0,9.976303317535544
+B,2026-06-17,Café,,Especial,NAO_IDENTIFICADA,Café46190Especial,231.0,14.0,1.0,246.0,9.678861788617887
+P2,2026-06-17,Café,,Especial,NAO_IDENTIFICADA,Café46190Especial,224.0,28.0,7.0,259.0,9.216216216216216
+B,2026-06-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46190Especial Veg,231.0,3.0,0.0,234.0,9.935897435897436
+P2,2026-06-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46190Especial Veg,224.0,3.0,0.0,227.0,9.933920704845814
+B,2026-06-18,Café,,Especial,NAO_IDENTIFICADA,Café46191Especial,226.0,16.0,1.0,243.0,9.633744855967079
+P2,2026-06-18,Café,,Especial,NAO_IDENTIFICADA,Café46191Especial,209.0,33.0,7.0,249.0,9.08433734939759
+B,2026-06-18,Café,,Especial Veg,NAO_IDENTIFICADA,Café46191Especial Veg,226.0,3.0,0.0,229.0,9.934497816593886
+P2,2026-06-18,Café,,Especial Veg,NAO_IDENTIFICADA,Café46191Especial Veg,209.0,4.0,1.0,214.0,9.86448598130841
+B,2026-06-19,Café,,Especial,NAO_IDENTIFICADA,Café46192Especial,204.0,9.0,5.0,218.0,9.587155963302752
+P2,2026-06-19,Café,,Especial,NAO_IDENTIFICADA,Café46192Especial,209.0,42.0,1.0,252.0,9.130952380952381
+B,2026-06-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46192Especial Veg,204.0,4.0,0.0,208.0,9.903846153846153
+P2,2026-06-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46192Especial Veg,209.0,4.0,0.0,213.0,9.906103286384976
+B,2026-06-22,Café,,Especial,NAO_IDENTIFICADA,Café46195Especial,173.0,16.0,0.0,189.0,9.576719576719576
+P2,2026-06-22,Café,,Especial,NAO_IDENTIFICADA,Café46195Especial,194.0,16.0,4.0,214.0,9.457943925233645
+B,2026-06-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46195Especial Veg,173.0,0.0,0.0,173.0,10.0
+P2,2026-06-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46195Especial Veg,194.0,1.0,2.0,197.0,9.883248730964468
+B,2026-06-23,Café,,Especial,NAO_IDENTIFICADA,Café46196Especial,215.0,30.0,1.0,246.0,9.353658536585366
+P2,2026-06-23,Café,,Especial,NAO_IDENTIFICADA,Café46196Especial,199.0,23.0,2.0,224.0,9.40625
+B,2026-06-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46196Especial Veg,215.0,4.0,0.0,219.0,9.908675799086758
+P2,2026-06-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46196Especial Veg,199.0,0.0,1.0,200.0,9.955
+B,2026-06-24,Café,,Especial,NAO_IDENTIFICADA,Café46197Especial,212.0,21.0,1.0,234.0,9.512820512820513
+P2,2026-06-24,Café,,Especial,NAO_IDENTIFICADA,Café46197Especial,200.0,25.0,2.0,227.0,9.370044052863436
+B,2026-06-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46197Especial Veg,212.0,1.0,0.0,213.0,9.976525821596244
+P2,2026-06-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46197Especial Veg,200.0,3.0,2.0,205.0,9.839024390243903
+B,2026-06-25,Café,,Especial,NAO_IDENTIFICADA,Café46198Especial,177.0,11.0,3.0,191.0,9.570680628272251
+P2,2026-06-25,Café,,Especial,NAO_IDENTIFICADA,Café46198Especial,182.0,5.0,6.0,193.0,9.590673575129534
+B,2026-06-25,Café,,Especial Veg,NAO_IDENTIFICADA,Café46198Especial Veg,177.0,4.0,9.0,190.0,9.468421052631578
+P2,2026-06-25,Café,,Especial Veg,NAO_IDENTIFICADA,Café46198Especial Veg,182.0,0.0,0.0,182.0,10.0
+B,2026-06-26,Café,,Especial,NAO_IDENTIFICADA,Café46199Especial,177.0,0.0,0.0,177.0,10.0
+P2,2026-06-26,Café,,Especial,NAO_IDENTIFICADA,Café46199Especial,203.0,23.0,1.0,227.0,9.45374449339207
+B,2026-06-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46199Especial Veg,177.0,0.0,0.0,177.0,10.0
+P2,2026-06-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46199Especial Veg,203.0,3.0,0.0,206.0,9.927184466019417
+B,2026-06-29,Café,,Especial,NAO_IDENTIFICADA,Café46202Especial,,,,,
+P2,2026-06-29,Café,,Especial,NAO_IDENTIFICADA,Café46202Especial,,,,,
+B,2026-06-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46202Especial Veg,,,,,
+P2,2026-06-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46202Especial Veg,,,,,
+B,2026-06-30,Café,,Especial,NAO_IDENTIFICADA,Café46203Especial,180.0,10.0,0.0,190.0,9.736842105263158
+P2,2026-06-30,Café,,Especial,NAO_IDENTIFICADA,Café46203Especial,174.0,33.0,1.0,208.0,9.163461538461538
+B,2026-06-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46203Especial Veg,180.0,0.0,0.0,180.0,10.0
+P2,2026-06-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46203Especial Veg,174.0,0.0,0.0,174.0,10.0
+B,2026-07-01,Café,,Especial,NAO_IDENTIFICADA,Café46204Especial,133.0,7.0,0.0,140.0,9.75
+P2,2026-07-01,Café,,Especial,NAO_IDENTIFICADA,Café46204Especial,184.0,15.0,1.0,200.0,9.58
+B,2026-07-01,Café,,Especial Veg,NAO_IDENTIFICADA,Café46204Especial Veg,133.0,3.0,0.0,136.0,9.889705882352942
+P2,2026-07-01,Café,,Especial Veg,NAO_IDENTIFICADA,Café46204Especial Veg,184.0,5.0,0.0,189.0,9.867724867724867
+B,2026-07-02,Café,,Especial,NAO_IDENTIFICADA,Café46205Especial,139.0,7.0,0.0,146.0,9.76027397260274
+P2,2026-07-02,Café,,Especial,NAO_IDENTIFICADA,Café46205Especial,190.0,11.0,3.0,204.0,9.598039215686274
+B,2026-07-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46205Especial Veg,139.0,3.0,0.0,142.0,9.894366197183098
+P2,2026-07-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46205Especial Veg,190.0,4.0,0.0,194.0,9.896907216494846
+B,2026-07-03,Café,,Especial,NAO_IDENTIFICADA,Café46206Especial,156.0,15.0,0.0,171.0,9.56140350877193
+P2,2026-07-03,Café,,Especial,NAO_IDENTIFICADA,Café46206Especial,170.0,40.0,3.0,213.0,8.934272300469484
+B,2026-07-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46206Especial Veg,156.0,2.0,1.0,159.0,9.880503144654089
+P2,2026-07-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46206Especial Veg,170.0,6.0,0.0,176.0,9.829545454545455
+B,2026-07-06,Café,,Especial,NAO_IDENTIFICADA,Café46209Especial,97.0,4.0,0.0,101.0,9.801980198019802
+P2,2026-07-06,Café,,Especial,NAO_IDENTIFICADA,Café46209Especial,110.0,9.0,1.0,120.0,9.55
+B,2026-07-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46209Especial Veg,97.0,2.0,0.0,99.0,9.8989898989899
+P2,2026-07-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46209Especial Veg,110.0,0.0,0.0,110.0,10.0
+B,2026-07-07,Café,,Especial,NAO_IDENTIFICADA,Café46210Especial,138.0,4.0,0.0,142.0,9.859154929577464
+P2,2026-07-07,Café,,Especial,NAO_IDENTIFICADA,Café46210Especial,112.0,24.0,1.0,137.0,9.058394160583942
+B,2026-07-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46210Especial Veg,138.0,0.0,0.0,138.0,10.0
+P2,2026-07-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46210Especial Veg,112.0,0.0,0.0,112.0,10.0
+B,2026-07-08,Café,,Especial,NAO_IDENTIFICADA,Café46211Especial,131.0,4.0,0.0,135.0,9.851851851851851
+P2,2026-07-08,Café,,Especial,NAO_IDENTIFICADA,Café46211Especial,93.0,12.0,0.0,105.0,9.428571428571429
+B,2026-07-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46211Especial Veg,131.0,1.0,0.0,132.0,9.962121212121213
+P2,2026-07-08,Café,,Especial Veg,NAO_IDENTIFICADA,Café46211Especial Veg,93.0,2.0,0.0,95.0,9.894736842105264
+B,2026-07-09,Café,,Especial,NAO_IDENTIFICADA,Café46212Especial,123.0,3.0,1.0,127.0,9.811023622047244
+P2,2026-07-09,Café,,Especial,NAO_IDENTIFICADA,Café46212Especial,97.0,14.0,0.0,111.0,9.36936936936937
+B,2026-07-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46212Especial Veg,123.0,5.0,0.0,128.0,9.8046875
+P2,2026-07-09,Café,,Especial Veg,NAO_IDENTIFICADA,Café46212Especial Veg,97.0,1.0,0.0,98.0,9.948979591836734
+B,2026-07-10,Café,,Especial,NAO_IDENTIFICADA,Café46213Especial,124.0,3.0,0.0,127.0,9.881889763779528
+P2,2026-07-10,Café,,Especial,NAO_IDENTIFICADA,Café46213Especial,83.0,14.0,1.0,98.0,9.193877551020408
+B,2026-07-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46213Especial Veg,124.0,1.0,0.0,125.0,9.96
+P2,2026-07-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46213Especial Veg,83.0,1.0,0.0,84.0,9.94047619047619
+B,2026-07-13,Café,,Especial,NAO_IDENTIFICADA,Café46216Especial,64.0,0.0,0.0,64.0,10.0
+P2,2026-07-13,Café,,Especial,NAO_IDENTIFICADA,Café46216Especial,60.0,5.0,0.0,65.0,9.615384615384615
+B,2026-07-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46216Especial Veg,64.0,0.0,0.0,64.0,10.0
+P2,2026-07-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46216Especial Veg,60.0,0.0,0.0,60.0,10.0
+B,2026-07-14,Café,,Especial,NAO_IDENTIFICADA,Café46217Especial,100.0,4.0,0.0,104.0,9.807692307692308
+P2,2026-07-14,Café,,Especial,NAO_IDENTIFICADA,Café46217Especial,48.0,8.0,0.0,56.0,9.285714285714286
+B,2026-07-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46217Especial Veg,100.0,3.0,0.0,103.0,9.854368932038835
+P2,2026-07-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46217Especial Veg,48.0,0.0,0.0,48.0,10.0
+B,2026-07-15,Café,,Especial,NAO_IDENTIFICADA,Café46218Especial,107.0,1.0,0.0,108.0,9.953703703703704
+P2,2026-07-15,Café,,Especial,NAO_IDENTIFICADA,Café46218Especial,44.0,6.0,1.0,51.0,9.235294117647058
+B,2026-07-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46218Especial Veg,107.0,0.0,1.0,108.0,9.916666666666666
+P2,2026-07-15,Café,,Especial Veg,NAO_IDENTIFICADA,Café46218Especial Veg,44.0,0.0,0.0,44.0,10.0
+B,2026-07-16,Café,,Especial,NAO_IDENTIFICADA,Café46219Especial,104.0,6.0,1.0,111.0,9.64864864864865
+P2,2026-07-16,Café,,Especial,NAO_IDENTIFICADA,Café46219Especial,43.0,1.0,0.0,44.0,9.886363636363637
+B,2026-07-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46219Especial Veg,104.0,2.0,0.0,106.0,9.90566037735849
+P2,2026-07-16,Café,,Especial Veg,NAO_IDENTIFICADA,Café46219Especial Veg,43.0,1.0,0.0,44.0,9.886363636363637
+B,2026-07-17,Café,,Especial,NAO_IDENTIFICADA,Café46220Especial,84.0,4.0,0.0,88.0,9.772727272727273
+P2,2026-07-17,Café,,Especial,NAO_IDENTIFICADA,Café46220Especial,35.0,8.0,0.0,43.0,9.069767441860465
+B,2026-07-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46220Especial Veg,84.0,0.0,0.0,84.0,10.0
+P2,2026-07-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46220Especial Veg,35.0,0.0,0.0,35.0,10.0
+B,2026-07-20,Café,,Especial,NAO_IDENTIFICADA,Café46223Especial,70.0,0.0,0.0,70.0,10.0
+P2,2026-07-20,Café,,Especial,NAO_IDENTIFICADA,Café46223Especial,30.0,3.0,0.0,33.0,9.545454545454545
+B,2026-07-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46223Especial Veg,70.0,0.0,0.0,70.0,10.0
+P2,2026-07-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46223Especial Veg,30.0,0.0,0.0,30.0,10.0
+B,2026-07-21,Café,,Especial,NAO_IDENTIFICADA,Café46224Especial,91.0,3.0,0.0,94.0,9.840425531914894
+P2,2026-07-21,Café,,Especial,NAO_IDENTIFICADA,Café46224Especial,38.0,6.0,0.0,44.0,9.318181818181818
+B,2026-07-21,Café,,Especial Veg,NAO_IDENTIFICADA,Café46224Especial Veg,91.0,2.0,0.0,93.0,9.89247311827957
+P2,2026-07-21,Café,,Especial Veg,NAO_IDENTIFICADA,Café46224Especial Veg,38.0,0.0,0.0,38.0,10.0
+B,2026-07-22,Café,,Especial,NAO_IDENTIFICADA,Café46225Especial,104.0,6.0,0.0,110.0,9.727272727272727
+P2,2026-07-22,Café,,Especial,NAO_IDENTIFICADA,Café46225Especial,43.0,4.0,0.0,47.0,9.574468085106384
+B,2026-07-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46225Especial Veg,104.0,1.0,0.0,105.0,9.952380952380953
+P2,2026-07-22,Café,,Especial Veg,NAO_IDENTIFICADA,Café46225Especial Veg,43.0,0.0,0.0,43.0,10.0
+B,2026-07-23,Café,,Especial,NAO_IDENTIFICADA,Café46226Especial,89.0,3.0,0.0,92.0,9.83695652173913
+P2,2026-07-23,Café,,Especial,NAO_IDENTIFICADA,Café46226Especial,46.0,3.0,0.0,49.0,9.693877551020408
+B,2026-07-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46226Especial Veg,89.0,2.0,1.0,92.0,9.793478260869565
+P2,2026-07-23,Café,,Especial Veg,NAO_IDENTIFICADA,Café46226Especial Veg,46.0,0.0,0.0,46.0,10.0
+B,2026-07-24,Café,,Especial,NAO_IDENTIFICADA,Café46227Especial,95.0,1.0,0.0,96.0,9.947916666666666
+P2,2026-07-24,Café,,Especial,NAO_IDENTIFICADA,Café46227Especial,36.0,2.0,0.0,38.0,9.736842105263158
+B,2026-07-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46227Especial Veg,95.0,0.0,0.0,95.0,10.0
+P2,2026-07-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46227Especial Veg,36.0,0.0,0.0,36.0,10.0
+B,2026-07-27,Café,,Especial,NAO_IDENTIFICADA,Café46230Especial,61.0,2.0,1.0,64.0,9.703125
+P2,2026-07-27,Café,,Especial,NAO_IDENTIFICADA,Café46230Especial,37.0,2.0,0.0,39.0,9.743589743589743
+B,2026-07-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46230Especial Veg,61.0,1.0,1.0,63.0,9.777777777777779
+P2,2026-07-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46230Especial Veg,37.0,0.0,0.0,37.0,10.0
+B,2026-07-28,Café,,Especial,NAO_IDENTIFICADA,Café46231Especial,71.0,3.0,0.0,74.0,9.797297297297296
+P2,2026-07-28,Café,,Especial,NAO_IDENTIFICADA,Café46231Especial,44.0,7.0,0.0,51.0,9.313725490196079
+B,2026-07-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46231Especial Veg,71.0,0.0,0.0,71.0,10.0
+P2,2026-07-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46231Especial Veg,44.0,0.0,0.0,44.0,10.0
+B,2026-07-29,Café,,Especial,NAO_IDENTIFICADA,Café46232Especial,77.0,4.0,0.0,81.0,9.753086419753087
+P2,2026-07-29,Café,,Especial,NAO_IDENTIFICADA,Café46232Especial,46.0,2.0,0.0,48.0,9.791666666666666
+B,2026-07-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46232Especial Veg,77.0,1.0,0.0,78.0,9.935897435897436
+P2,2026-07-29,Café,,Especial Veg,NAO_IDENTIFICADA,Café46232Especial Veg,46.0,1.0,0.0,47.0,9.893617021276595
+B,2026-07-30,Café,,Especial,NAO_IDENTIFICADA,Café46233Especial,80.0,2.0,0.0,82.0,9.878048780487806
+P2,2026-07-30,Café,,Especial,NAO_IDENTIFICADA,Café46233Especial,46.0,,,,10.0
+B,2026-07-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46233Especial Veg,80.0,0.0,0.0,80.0,10.0
+P2,2026-07-30,Café,,Especial Veg,NAO_IDENTIFICADA,Café46233Especial Veg,46.0,,,,10.0
+B,2026-07-31,Café,,Especial,NAO_IDENTIFICADA,Café46234Especial,78.0,2.0,0.0,80.0,9.875
+P2,2026-07-31,Café,,Especial,NAO_IDENTIFICADA,Café46234Especial,47.0,9.0,1.0,57.0,9.052631578947368
+B,2026-07-31,Café,,Especial Veg,NAO_IDENTIFICADA,Café46234Especial Veg,78.0,0.0,0.0,78.0,10.0
+P2,2026-07-31,Café,,Especial Veg,NAO_IDENTIFICADA,Café46234Especial Veg,47.0,0.0,0.0,47.0,10.0
+B,2026-08-03,Café,,Especial,NAO_IDENTIFICADA,Café46237Especial,68.0,0.0,0.0,68.0,10.0
+P2,2026-08-03,Café,,Especial,NAO_IDENTIFICADA,Café46237Especial,36.0,3.0,0.0,39.0,9.615384615384615
+B,2026-08-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46237Especial Veg,68.0,0.0,0.0,68.0,10.0
+P2,2026-08-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46237Especial Veg,36.0,0.0,0.0,36.0,10.0
+B,2026-08-04,Café,,Especial,NAO_IDENTIFICADA,Café46238Especial,81.0,3.0,0.0,84.0,9.821428571428571
+P2,2026-08-04,Café,,Especial,NAO_IDENTIFICADA,Café46238Especial,57.0,12.0,0.0,69.0,9.130434782608695
+B,2026-08-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46238Especial Veg,81.0,3.0,0.0,84.0,9.821428571428571
+P2,2026-08-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46238Especial Veg,57.0,0.0,0.0,57.0,10.0
+B,2026-08-05,Café,,Especial,NAO_IDENTIFICADA,Café46239Especial,92.0,3.0,0.0,95.0,9.842105263157896
+P2,2026-08-05,Café,,Especial,NAO_IDENTIFICADA,Café46239Especial,53.0,10.0,0.0,63.0,9.206349206349206
+B,2026-08-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46239Especial Veg,92.0,1.0,0.0,93.0,9.946236559139784
+P2,2026-08-05,Café,,Especial Veg,NAO_IDENTIFICADA,Café46239Especial Veg,53.0,1.0,0.0,54.0,9.907407407407407
+B,2026-08-06,Café,,Especial,NAO_IDENTIFICADA,Café46240Especial,83.0,3.0,1.0,87.0,9.724137931034482
+P2,2026-08-06,Café,,Especial,NAO_IDENTIFICADA,Café46240Especial,52.0,8.0,1.0,61.0,9.19672131147541
+B,2026-08-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46240Especial Veg,83.0,0.0,0.0,83.0,10.0
+P2,2026-08-06,Café,,Especial Veg,NAO_IDENTIFICADA,Café46240Especial Veg,52.0,1.0,0.0,53.0,9.90566037735849
+B,2026-08-07,Café,,Especial,NAO_IDENTIFICADA,Café46241Especial,93.0,4.0,0.0,97.0,9.793814432989691
+P2,2026-08-07,Café,,Especial,NAO_IDENTIFICADA,Café46241Especial,61.0,10.0,1.0,72.0,9.180555555555555
+B,2026-08-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46241Especial Veg,93.0,1.0,0.0,94.0,9.946808510638299
+P2,2026-08-07,Café,,Especial Veg,NAO_IDENTIFICADA,Café46241Especial Veg,61.0,0.0,0.0,61.0,10.0
+B,2026-08-10,Café,,Especial,NAO_IDENTIFICADA,Café46244Especial,158.0,9.0,1.0,168.0,9.678571428571429
+P2,2026-08-10,Café,,Especial,NAO_IDENTIFICADA,Café46244Especial,133.0,8.0,0.0,141.0,9.71631205673759
+B,2026-08-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46244Especial Veg,158.0,0.0,1.0,159.0,9.943396226415095
+P2,2026-08-10,Café,,Especial Veg,NAO_IDENTIFICADA,Café46244Especial Veg,133.0,0.0,0.0,133.0,10.0
+B,2026-08-11,Café,,Especial,NAO_IDENTIFICADA,Café46245Especial,219.0,23.0,0.0,242.0,9.524793388429751
+P2,2026-08-11,Café,,Especial,NAO_IDENTIFICADA,Café46245Especial,185.0,21.0,0.0,206.0,9.490291262135923
+B,2026-08-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46245Especial Veg,219.0,3.0,1.0,223.0,9.89237668161435
+P2,2026-08-11,Café,,Especial Veg,NAO_IDENTIFICADA,Café46245Especial Veg,185.0,0.0,0.0,185.0,10.0
+B,2026-08-12,Café,,Especial,NAO_IDENTIFICADA,Café46246Especial,196.0,14.0,2.0,212.0,9.584905660377359
+P2,2026-08-12,Café,,Especial,NAO_IDENTIFICADA,Café46246Especial,186.0,21.0,2.0,209.0,9.411483253588516
+B,2026-08-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46246Especial Veg,196.0,2.0,0.0,198.0,9.94949494949495
+P2,2026-08-12,Café,,Especial Veg,NAO_IDENTIFICADA,Café46246Especial Veg,186.0,0.0,0.0,186.0,10.0
+B,2026-08-13,Café,,Especial,NAO_IDENTIFICADA,Café46247Especial,197.0,13.0,0.0,210.0,9.69047619047619
+P2,2026-08-13,Café,,Especial,NAO_IDENTIFICADA,Café46247Especial,181.0,41.0,0.0,222.0,9.076576576576576
+B,2026-08-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46247Especial Veg,197.0,2.0,0.0,199.0,9.949748743718592
+P2,2026-08-13,Café,,Especial Veg,NAO_IDENTIFICADA,Café46247Especial Veg,181.0,4.0,0.0,185.0,9.891891891891891
+B,2026-08-14,Café,,Especial,NAO_IDENTIFICADA,Café46248Especial,180.0,,,,10.0
+P2,2026-08-14,Café,,Especial,NAO_IDENTIFICADA,Café46248Especial,179.0,37.0,0.0,216.0,9.143518518518519
+B,2026-08-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46248Especial Veg,180.0,,,,10.0
+P2,2026-08-14,Café,,Especial Veg,NAO_IDENTIFICADA,Café46248Especial Veg,179.0,3.0,0.0,182.0,9.917582417582418
+B,2026-08-17,Café,,Especial,NAO_IDENTIFICADA,Café46251Especial,188.0,6.0,0.0,194.0,9.845360824742269
+P2,2026-08-17,Café,,Especial,NAO_IDENTIFICADA,Café46251Especial,179.0,11.0,4.0,194.0,9.530927835051546
+B,2026-08-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46251Especial Veg,188.0,3.0,0.0,191.0,9.921465968586388
+P2,2026-08-17,Café,,Especial Veg,NAO_IDENTIFICADA,Café46251Especial Veg,179.0,1.0,0.0,180.0,9.972222222222221
+B,2026-08-18,Café,,Especial,NAO_IDENTIFICADA,Café46252Especial,214.0,13.0,0.0,227.0,9.713656387665198
+P2,2026-08-18,Café,,Especial,NAO_IDENTIFICADA,Café46252Especial,197.0,30.0,0.0,227.0,9.33920704845815
+B,2026-08-18,Café,,Especial Veg,NAO_IDENTIFICADA,Café46252Especial Veg,214.0,4.0,0.0,218.0,9.908256880733944
+P2,2026-08-18,Café,,Especial Veg,NAO_IDENTIFICADA,Café46252Especial Veg,197.0,0.0,0.0,197.0,10.0
+B,2026-08-19,Café,,Especial,NAO_IDENTIFICADA,Café46253Especial,241.0,16.0,1.0,258.0,9.655038759689923
+P2,2026-08-19,Café,,Especial,NAO_IDENTIFICADA,Café46253Especial,188.0,35.0,2.0,225.0,9.142222222222221
+B,2026-08-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46253Especial Veg,241.0,2.0,0.0,243.0,9.958847736625515
+P2,2026-08-19,Café,,Especial Veg,NAO_IDENTIFICADA,Café46253Especial Veg,188.0,3.0,0.0,191.0,9.921465968586388
+B,2026-08-20,Café,,Especial,NAO_IDENTIFICADA,Café46254Especial,212.0,,,,10.0
+P2,2026-08-20,Café,,Especial,NAO_IDENTIFICADA,Café46254Especial,203.0,12.0,3.0,218.0,9.600917431192661
+B,2026-08-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46254Especial Veg,212.0,,,,10.0
+P2,2026-08-20,Café,,Especial Veg,NAO_IDENTIFICADA,Café46254Especial Veg,203.0,1.0,1.0,205.0,9.93170731707317
+B,2026-08-21,Café,,Especial,NAO_IDENTIFICADA,Café46255Especial,,33.0,2.0,,4.771428571428571
+P2,2026-08-21,Café,,Especial,NAO_IDENTIFICADA,Café46255Especial,203.0,90.0,5.0,298.0,8.338926174496644
+B,2026-08-21,Café,,Especial Veg,NAO_IDENTIFICADA,Café46255Especial Veg,,2.0,0.0,,5.0
+P2,2026-08-21,Café,,Especial Veg,NAO_IDENTIFICADA,Café46255Especial Veg,203.0,2.0,0.0,205.0,9.951219512195122
+B,2026-08-24,Café,,Especial,NAO_IDENTIFICADA,Café46258Especial,203.0,11.0,0.0,214.0,9.742990654205608
+P2,2026-08-24,Café,,Especial,NAO_IDENTIFICADA,Café46258Especial,187.0,16.0,2.0,205.0,9.521951219512195
+B,2026-08-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46258Especial Veg,203.0,2.0,0.0,205.0,9.951219512195122
+P2,2026-08-24,Café,,Especial Veg,NAO_IDENTIFICADA,Café46258Especial Veg,187.0,6.0,0.0,193.0,9.844559585492227
+B,2026-08-25,Café,,Especial,NAO_IDENTIFICADA,Café46259Especial,266.0,23.0,0.0,289.0,9.602076124567475
+P2,2026-08-25,Café,,Especial,NAO_IDENTIFICADA,Café46259Especial,222.0,34.0,0.0,256.0,9.3359375
+B,2026-08-25,Café,,Especial Veg,NAO_IDENTIFICADA,Café46259Especial Veg,266.0,2.0,0.0,268.0,9.962686567164178
+P2,2026-08-25,Café,,Especial Veg,NAO_IDENTIFICADA,Café46259Especial Veg,222.0,0.0,0.0,222.0,10.0
+B,2026-08-26,Café,,Especial,NAO_IDENTIFICADA,Café46260Especial,254.0,6.0,2.0,262.0,9.816793893129772
+P2,2026-08-26,Café,,Especial,NAO_IDENTIFICADA,Café46260Especial,221.0,20.0,6.0,247.0,9.376518218623481
+B,2026-08-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46260Especial Veg,254.0,2.0,2.0,258.0,9.891472868217054
+P2,2026-08-26,Café,,Especial Veg,NAO_IDENTIFICADA,Café46260Especial Veg,221.0,3.0,0.0,224.0,9.933035714285714
+B,2026-08-27,Café,,Especial,NAO_IDENTIFICADA,Café46261Especial,241.0,,,,10.0
+P2,2026-08-27,Café,,Especial,NAO_IDENTIFICADA,Café46261Especial,194.0,30.0,1.0,225.0,9.293333333333333
+B,2026-08-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46261Especial Veg,241.0,,,,10.0
+P2,2026-08-27,Café,,Especial Veg,NAO_IDENTIFICADA,Café46261Especial Veg,194.0,2.0,0.0,196.0,9.948979591836734
+B,2026-08-28,Café,,Especial,NAO_IDENTIFICADA,Café46262Especial,228.0,,,,10.0
+P2,2026-08-28,Café,,Especial,NAO_IDENTIFICADA,Café46262Especial,202.0,35.0,1.0,238.0,9.22689075630252
+B,2026-08-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46262Especial Veg,228.0,,,,10.0
+P2,2026-08-28,Café,,Especial Veg,NAO_IDENTIFICADA,Café46262Especial Veg,202.0,1.0,0.0,203.0,9.975369458128078
+B,2026-08-31,Café,,Especial,NAO_IDENTIFICADA,Café46265Especial,189.0,4.0,0.0,193.0,9.896373056994818
+P2,2026-08-31,Café,,Especial,NAO_IDENTIFICADA,Café46265Especial,195.0,19.0,1.0,215.0,9.516279069767442
+B,2026-08-31,Café,,Especial Veg,NAO_IDENTIFICADA,Café46265Especial Veg,189.0,1.0,0.0,190.0,9.973684210526315
+P2,2026-08-31,Café,,Especial Veg,NAO_IDENTIFICADA,Café46265Especial Veg,195.0,0.0,0.0,195.0,10.0
+B,2026-09-01,Café,,Especial,NAO_IDENTIFICADA,Café46266Especial,,,,,
+P2,2026-09-01,Café,,Especial,NAO_IDENTIFICADA,Café46266Especial,227.0,30.0,0.0,257.0,9.416342412451362
+B,2026-09-01,Café,,Especial Veg,NAO_IDENTIFICADA,Café46266Especial Veg,,,,,
+P2,2026-09-01,Café,,Especial Veg,NAO_IDENTIFICADA,Café46266Especial Veg,227.0,0.0,0.0,227.0,10.0
+B,2026-09-02,Café,,Especial,NAO_IDENTIFICADA,Café46267Especial,,,,,
+P2,2026-09-02,Café,,Especial,NAO_IDENTIFICADA,Café46267Especial,214.0,17.0,5.0,236.0,9.44915254237288
+B,2026-09-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46267Especial Veg,,,,,
+P2,2026-09-02,Café,,Especial Veg,NAO_IDENTIFICADA,Café46267Especial Veg,214.0,5.0,0.0,219.0,9.885844748858448
+B,2026-09-03,Café,,Especial,NAO_IDENTIFICADA,Café46268Especial,,,,,
+P2,2026-09-03,Café,,Especial,NAO_IDENTIFICADA,Café46268Especial,,,,,
+B,2026-09-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46268Especial Veg,,,,,
+P2,2026-09-03,Café,,Especial Veg,NAO_IDENTIFICADA,Café46268Especial Veg,,,,,
+B,2026-09-04,Café,,Especial,NAO_IDENTIFICADA,Café46269Especial,,,,,
+P2,2026-09-04,Café,,Especial,NAO_IDENTIFICADA,Café46269Especial,,,,,
+B,2026-09-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46269Especial Veg,,,,,
+P2,2026-09-04,Café,,Especial Veg,NAO_IDENTIFICADA,Café46269Especial Veg,,,,,

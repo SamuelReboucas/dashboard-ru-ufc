@@ -186,9 +186,34 @@ def check_gestao(df_raw: pd.DataFrame, ru_col: str, fonte: str) -> list[dict]:
     return rows
 
 
+def check_temperatura(df_raw: pd.DataFrame, fonte="detalhe (P1D/P2D/BD/LD/PO2)") -> list[dict]:
+    """Achado desta etapa: 4 leituras de `Temp (°C)` fisicamente
+    implausíveis (fora de -5°C a 100°C, ex.: "614°C"), quase certamente
+    erro de digitação. Critério técnico: mesma faixa usada em
+    `src/powerbi_export.TEMPERATURA_FISICA_MIN/MAX` — reaproveitada aqui,
+    não duplicada, para que as duas checagens nunca divirjam."""
+    from src.powerbi_export import clean_temperatura, is_temperatura_plausivel
+
+    rows = []
+    if "temp_c" not in df_raw.columns:
+        return rows
+    df = df_raw.copy()
+    temp_limpa = df["temp_c"].map(clean_temperatura)
+    implausivel_mask = temp_limpa.notna() & ~is_temperatura_plausivel(temp_limpa)
+    exemplo = None
+    if implausivel_mask.any():
+        idx = df.loc[implausivel_mask].index[0]
+        exemplo = (f"ru={df.at[idx,'ru']} data={df.at[idx,'data']} "
+                   f"prep={df.at[idx,'prep']} valor_bruto={df.at[idx,'temp_c']} "
+                   f"valor_limpo={temp_limpa.at[idx]}")
+    rows.append(_row("temperatura_fora_da_faixa_fisica", implausivel_mask.sum(), "media", fonte, exemplo))
+    return rows
+
+
 def build_quality_report(raw: dict[str, pd.DataFrame]) -> pd.DataFrame:
     rows: list[dict] = []
     rows += check_detalhe(raw["detalhe"])
+    rows += check_temperatura(raw["detalhe"])
     rows += check_isc(raw["isc"])
     rows += check_sensorial(raw["sensorial"])
     rows += check_gestao(raw["atendimentos"], ru_col="ru", fonte="Atendimentos Especializado")

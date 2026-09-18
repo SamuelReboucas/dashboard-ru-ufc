@@ -1,13 +1,17 @@
 # Dashboard RU
 
-Painel executivo do Restaurante Universitário (RU) — **MVP v1.0.0-mvp**.
+Painel executivo do Restaurante Universitário (RU) — **v1.0.0-mvp + camada
+analítica Power BI**.
 
-**Repositório GitHub:** _preparado localmente, aguardando publicação (ver
-seção "GitHub" abaixo) — atualize esta linha com a URL assim que o
-repositório existir._
-**Dashboard online:** _ainda não publicado — preparado para deploy no
-Streamlit Community Cloud (ver seção "Deploy"). Atualize esta linha com a
-URL assim que o deploy for realizado._
+**Repositório GitHub:** https://github.com/SamuelReboucas/dashboard-ru-ufc
+(branch `main` — o MVP Streamlit v1.0.0-mvp está publicado e no ar; o
+trabalho de Power BI/identidade visual desta etapa está na branch
+`feature/alinhamento-painel-gestao`, ainda não mesclada em `main`).
+**Dashboard online (Streamlit, MVP):** https://dashboard-ru-ufc-25gfxvetmeah4rev4x44cj.streamlit.app/
+**Painel Power BI:** modelo de dados, medidas e layout **concluídos e
+testados** (ver seção "Power BI" abaixo) — o arquivo `.pbix` em si ainda
+**não foi construído** (`MODELO PRONTO PARA CONSTRUÇÃO`), pois o ambiente
+de desenvolvimento não tem Power BI Desktop disponível.
 
 ## Objetivo
 
@@ -217,6 +221,40 @@ filtros, tratamento de ausentes e limitações de cada indicador estão em
 `docs/indicadores.md` — a documentação foi escrita para responder "de onde
 saiu esse número?" para qualquer KPI exibido.
 
+## Power BI
+
+Além do MVP em Streamlit, o projeto tem uma **camada analítica dedicada ao
+Power BI** (`src/powerbi_export.py`), atendendo às orientações da gestão
+para um Painel Estratégico da Nutrição em Power BI. Esse trabalho está na
+branch `feature/alinhamento-painel-gestao` (ainda não mesclada em `main`).
+
+**Status: modelo de dados, medidas e layout concluídos e testados —
+`.pbix` ainda NÃO construído** (`MODELO PRONTO PARA CONSTRUÇÃO`; o
+ambiente de desenvolvimento não tem Power BI Desktop disponível).
+
+- **Modelo estrela:** `python -m src.pipeline` gera automaticamente 5
+  dimensões e 4 fatos em `data/powerbi/` (`dim_data`, `dim_ru`,
+  `dim_refeicao`, `dim_preparacao`, `dim_tipo_preparacao`,
+  `fact_refeicoes`, `fact_producao`, `fact_satisfacao`,
+  `fact_temperatura`), incluindo Resto-Ingesta, Per Capita, ISC agregado e
+  conformidade de temperatura (regra oficial da Nutrição, confirmada:
+  quente >60°C/≤60°C, fria <10°C/≥10°C). Detalhe completo em
+  `docs/modelo_dados_powerbi.md`.
+- **Medidas DAX:** todas documentadas e prontas para colar, com a lógica
+  de agregação correta (razão de somas, nunca média de percentuais) —
+  `docs/medidas_powerbi.md`.
+- **Layout:** 3 páginas (Visão Geral, Qualidade, Produção e Eficiência),
+  com a identidade visual oficial do RU/UFC incorporada (paleta, tipografia,
+  regras de logo) — `docs/especificacao_visual_powerbi.md` e
+  `docs/identidade_visual_ru_powerbi.md`.
+- **Guia de construção:** passo a passo completo para montar o `.pbix` no
+  Power BI Desktop — `docs/guia_construcao_powerbi.md`.
+- **Testes:** 57 testes automatizados (`tests/test_powerbi_export.py`)
+  cobrem as fórmulas de negócio (Resto-Ingesta, Per Capita, ISC,
+  conformidade térmica) e a recuperação determinística de dados
+  inconsistentes na fonte de satisfação — parte da suíte completa de 98
+  testes do projeto.
+
 ## Qualidade dos dados
 
 `outputs/relatorio_qualidade.csv` é gerado a cada execução do pipeline, com
@@ -260,7 +298,8 @@ diretamente.
 python -m pytest tests/ -v
 ```
 
-41 testes em `tests/test_transform.py` e `tests/test_metrics.py`, usando
+41 testes em `tests/test_transform.py` e `tests/test_metrics.py`, mais 57
+em `tests/test_powerbi_export.py` (98 no total) — todos usando
 dados sintéticos (não dependem do Excel real, então rodam em qualquer
 máquina). Cobrem especificamente as regressões reais encontradas durante a
 implementação (ver `docs/implementacao_mvp.md`): alias `LAB`→Labomar, datas
@@ -269,6 +308,13 @@ brasileiras com `dayfirst`, a inflação de "refeições realizadas" por
 sem PII (`build_public_layer`).
 
 ## GitHub
+
+O repositório já está publicado em
+https://github.com/SamuelReboucas/dashboard-ru-ufc (branch `main`, MVP
+v1.0.0-mvp). Os comandos abaixo continuam válidos como referência — tanto
+para reproduzir o setup em outro ambiente quanto para o fluxo de trabalho
+com branches (ex.: a branch `feature/alinhamento-painel-gestao`, usada
+para a camada Power BI e a identidade visual, ainda não mesclada em `main`).
 
 Para versionar o projeto sem incluir dados brutos nem a camada privada:
 
@@ -290,24 +336,21 @@ nada de `data/processed/*.csv` (privado) — o `.gitignore` já impede os dois.
 
 ## Deploy
 
-**Status atual: preparado para deploy, ainda não publicado online.** O
-repositório Git foi inicializado e validado (branch `main`, primeiro commit
-pronto — ver `docs/implementacao_mvp.md`, adendo de publicação), mas a
-criação do repositório remoto no GitHub e o deploy no Streamlit Community
-Cloud exigem autenticação da conta da pessoa responsável, que não foi
-executada nesta etapa.
+**Status atual (MVP Streamlit): publicado e online.**
+- Repositório: https://github.com/SamuelReboucas/dashboard-ru-ufc (branch `main`)
+- Dashboard: https://dashboard-ru-ufc-25gfxvetmeah4rev4x44cj.streamlit.app/
 
-Passos para publicar (ver comandos exatos no adendo de publicação em
-`docs/implementacao_mvp.md`):
+O deploy foi feito seguindo exatamente o roteiro abaixo, que continua
+válido como referência para reproduzir em outro ambiente ou para o
+próximo redeploy após atualização de dados:
 
 1. Rode `python -m src.pipeline` localmente (com o Excel em `data/raw/`)
    para garantir que `data/processed_public/` esteja atualizado.
-2. Crie o repositório no GitHub (sugestão de nome: `dashboard-ru-ufc`) e
-   dê `git push` (comandos prontos no adendo citado acima) — **o Excel
-   original nunca deve ser enviado ao GitHub**.
+2. Repositório no GitHub com `git push` — **o Excel original nunca deve
+   ser enviado ao GitHub**.
 3. Em https://share.streamlit.io, conecte o repositório, selecione a
    branch `main` e aponte o arquivo principal para `app/streamlit_app.py`.
-4. O dashboard publicado vai rodar sem `data/raw/` e sem `data/processed/`
+4. O dashboard publicado roda sem `data/raw/` e sem `data/processed/`
    (a camada privada) — ele detecta essa ausência automaticamente e lê
    `data/processed_public/`, que é a única camada presente no repositório.
    Isso foi validado com um smoke test em ambiente simulado sem acesso ao

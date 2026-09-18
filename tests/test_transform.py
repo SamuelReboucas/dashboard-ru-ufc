@@ -18,6 +18,9 @@ from src.transform import (
     build_fact_gestao_manutencao,
     build_public_layer,
     PII_COLUMNS_BY_FACT,
+    is_realizado_detalhe,
+    is_realizado_isc,
+    max_data_realizada,
     _within_valid_range,
 )
 
@@ -283,3 +286,78 @@ def test_pii_columns_by_fact_so_lista_sensorial():
     coluna de PII (nome de avaliador) — ver docs/auditoria_dados.md."""
     assert set(PII_COLUMNS_BY_FACT.keys()) == {"sensorial"}
     assert PII_COLUMNS_BY_FACT["sensorial"] == ["avaliador"]
+
+
+# ---------------------------------------------------------------------------
+# max_data_realizada — "dados atualizados até" ignora linhas de calendário
+# futuro pré-preenchidas (achado desta revisão)
+# ---------------------------------------------------------------------------
+
+
+def test_is_realizado_detalhe_marca_peso_liq_zero_como_nao_realizado():
+    df = pd.DataFrame({"peso_liq": [50.0, 0.0, None, 10.5]})
+    assert list(is_realizado_detalhe(df)) == [True, False, False, True]
+
+
+def test_is_realizado_isc_marca_todas_contagens_nulas_como_nao_realizado():
+    df = pd.DataFrame({
+        "otimo": [10, None, None],
+        "regular": [2, None, 5],
+        "ruim": [1, None, None],
+    })
+    assert list(is_realizado_isc(df)) == [True, False, True]
+
+
+def test_max_data_realizada_ignora_linhas_de_planejamento_futuro_em_detalhe():
+    """Reproduz o achado real: linhas com data futura e peso_liq=0 (template
+    de calendário) não devem definir 'dados atualizados até'."""
+    fact = {
+        "detalhe": pd.DataFrame([
+            {"data": pd.Timestamp("2026-09-02"), "peso_liq": 50.0},
+            {"data": pd.Timestamp("2026-09-04"), "peso_liq": 0.0},  # placeholder futuro
+            {"data": pd.Timestamp("2026-09-07"), "peso_liq": 0.0},  # placeholder futuro
+        ]),
+    }
+    resultado = max_data_realizada(fact)
+    assert resultado == pd.Timestamp("2026-09-02")
+
+
+def test_max_data_realizada_ignora_linhas_de_planejamento_futuro_em_isc():
+    fact = {
+        "isc": pd.DataFrame([
+            {"data": pd.Timestamp("2026-09-01"), "otimo": 20, "regular": 5, "ruim": 1},
+            {"data": pd.Timestamp("2026-09-04"), "otimo": None, "regular": None, "ruim": None},  # placeholder
+        ]),
+    }
+    resultado = max_data_realizada(fact)
+    assert resultado == pd.Timestamp("2026-09-01")
+
+
+def test_max_data_realizada_usa_max_simples_para_tabelas_sem_criterio_especial():
+    fact = {
+        "sensorial": pd.DataFrame([
+            {"data": pd.Timestamp("2026-09-01"), "global": 4.0},
+            {"data": pd.Timestamp("2026-09-02"), "global": None},  # sem criterio: entra no MAX mesmo assim
+        ]),
+    }
+    resultado = max_data_realizada(fact)
+    assert resultado == pd.Timestamp("2026-09-02")
+
+
+def test_max_data_realizada_combina_o_maximo_entre_varias_tabelas():
+    fact = {
+        "detalhe": pd.DataFrame([
+            {"data": pd.Timestamp("2026-09-02"), "peso_liq": 50.0},
+            {"data": pd.Timestamp("2026-09-04"), "peso_liq": 0.0},
+        ]),
+        "isc": pd.DataFrame([
+            {"data": pd.Timestamp("2026-09-03"), "otimo": 10, "regular": 1, "ruim": 0},
+        ]),
+    }
+    resultado = max_data_realizada(fact)
+    assert resultado == pd.Timestamp("2026-09-03")  # isc realizado supera detalhe realizado
+
+
+def test_max_data_realizada_retorna_none_sem_nenhum_dado():
+    resultado = max_data_realizada({"detalhe": pd.DataFrame(columns=["data", "peso_liq"])})
+    assert resultado is None

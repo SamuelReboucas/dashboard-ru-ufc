@@ -223,6 +223,64 @@ def build_fact_gestao_manutencao(df_raw: pd.DataFrame) -> pd.DataFrame:
     return df.reset_index(drop=True)
 
 
+# ---------------------------------------------------------------------------
+# "Última atualização" — critério de dado efetivamente realizado
+#
+# Achado: as abas de detalhe e de ISC vêm pré-preenchidas com linhas de
+# calendário para datas futuras (planejamento), sem produção/votação real
+# ainda lançada. Essas linhas têm todas as colunas de medição zeradas/nulas
+# (ex.: `peso_liq = 0.00` e `comensais_real` nulo em `fact_detalhe`;
+# `otimo`/`regular`/`ruim` todos nulos em `fact_isc`), diferente de um dia
+# real sem produção pontual (que teria só parte das colunas zeradas, não
+# o bloco inteiro de RU/refeição). Usar `MAX(data)` sem esse filtro conta
+# essas linhas de planejamento como se fossem atualização real — por isso
+# `MAX(data)` simples não é a definição correta de "dados atualizados até".
+# ---------------------------------------------------------------------------
+
+
+def is_realizado_detalhe(df: pd.DataFrame) -> pd.Series:
+    """Uma linha de `fact_detalhe` representa produção efetivamente
+    realizada (não um placeholder de planejamento futuro) quando
+    `peso_liq > 0`. Critério escolhido por ser a medida física mais direta
+    de "algo foi de fato preparado" — linhas de calendário futuro vêm com
+    `peso_liq = 0.00` de forma sistemática em todas as preparações do
+    RU/refeição, não como um zero pontual isolado."""
+    return df["peso_liq"].fillna(0) > 0
+
+
+def is_realizado_isc(df: pd.DataFrame) -> pd.Series:
+    """Uma linha de `fact_isc` representa votação efetivamente registrada
+    quando ao menos uma das contagens (`otimo`/`regular`/`ruim`) não é
+    nula — linhas de calendário futuro vêm com as 4 colunas
+    (`otimo`/`regular`/`ruim`/`isc`) totalmente nulas."""
+    return df[["otimo", "regular", "ruim"]].notna().any(axis=1)
+
+
+def max_data_realizada(fact: dict[str, pd.DataFrame]) -> pd.Timestamp | None:
+    """Calcula a data mais recente com dado efetivamente realizado, entre
+    todas as tabelas fato. Para `detalhe` e `isc`, aplica o critério de
+    realizado documentado acima (evita contar linhas de planejamento
+    futuro); para as demais tabelas (`sensorial`, `atendimentos`,
+    `manutencao`), usa `MAX(data)` direto — auditado nesta revisão e
+    confirmado que não apresentam o mesmo padrão de linhas de calendário
+    futuro pré-preenchidas com zero."""
+    criterios = {
+        "detalhe": is_realizado_detalhe,
+        "isc": is_realizado_isc,
+    }
+    datas_max = []
+    for key, df in fact.items():
+        if "data" not in df.columns or df.empty:
+            continue
+        dt = pd.to_datetime(df["data"])
+        mask = dt.notna()
+        if key in criterios:
+            mask &= criterios[key](df)
+        if mask.any():
+            datas_max.append(dt[mask].max())
+    return max(datas_max) if datas_max else None
+
+
 def transform_all(raw: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
     return {
         "detalhe": build_fact_detalhe(raw["detalhe"]),

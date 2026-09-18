@@ -181,3 +181,33 @@ valores_erro: ["#REF!", "#DIV/0!", "#N/A", "#VALUE!", "#NAME?", "#NULL!", "#NUM!
 # Faixa de datas plausível para os dados de 2026 (usada nas validações)
 data_min_valida: "2025-01-01"
 data_max_valida: "2026-12-31"
+
+# ---------------------------------------------------------------------------
+# Conformidade de temperatura — regra oficial confirmada pela Nutrição.
+# Preservar exatamente os operadores (note a assimetria proposital: quente
+# usa > / <=, fria usa < / >= — confirmado, não é erro de digitação):
+#   Quente: > 60°C = CONFORME · <= 60°C = NÃO CONFORME
+#   Fria:   < 10°C = CONFORME · >= 10°C = NÃO CONFORME
+# ---------------------------------------------------------------------------
+limite_conformidade_quente_c: 60
+limite_conformidade_fria_c: 10
+
+# Classificação de cada tipo_preparacao (coluna "Prep" da fonte) em
+# quente/fria — SÓ para categorias inequivocamente classificáveis pela
+# própria nomenclatura do RU. Qualquer tipo_preparacao não listado aqui
+# recebe SEM_CLASSIFICACAO (nunca inferido a partir da temperatura
+# observada). Ver docs/aderencia_orientacoes_gestao.md para a justificativa
+# de cada escolha e para a lista dos tipos deixados propositalmente de fora
+# (VEG, Guarnição, Sobremesa, Café, Café SA, Leite, Leite Veg, Pão Francês,
+# Pão Opção, Especial — todos ambíguos sem confirmação da Nutrição).
+classe_termica_por_tipo_preparacao:
+  "PB": quente
+  "PV": quente
+  "Arroz/Baião": quente
+  "Arroz Integral": quente
+  "Feijão": quente
+  "Salada": fria
+  "Suco": fria
+  "Suco SA": fria
+  "Fruta 1": fria
+  "Fruta 2": fria

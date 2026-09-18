@@ -1,0 +1,214 @@
+﻿id_preparacao,tipo_preparacao,preparacao
+1,Arroz Integral,(sem cardápio informado)
+2,Arroz Integral,Arroz Integral
+3,Arroz/Baião,(sem cardápio informado)
+4,Arroz/Baião,Arroz Branco
+5,Arroz/Baião,Baião
+6,Café,Café 
+7,Café SA,Café 
+8,Café SA,Café sem Açúcar
+9,Especial,Achocolatado
+10,Especial,Carne Moída ao Molho
+11,Especial,Frango Desfiado
+12,Especial,Iogurte 
+13,Especial,Mingau 
+14,Especial,Ovos Mexidos
+15,Especial,Queijo 
+16,Especial Veg,Achocolatado vegano 
+17,Especial Veg,Geleia
+18,Especial Veg,Granola
+19,Especial Veg,Pasta de Amendoim
+20,Especial Veg,Similar a Iogurte Vegano
+21,Feijão,(sem cardápio informado)
+22,Feijão,Feijão Carioca
+23,Feijão,Feijão de Corda
+24,Fruta 1,Banana
+25,Fruta 1,Laranja
+26,Fruta 1,Maçã
+27,Fruta 1,Tangerina
+28,Fruta 2,Abacaxi
+29,Fruta 2,Mamão
+30,Fruta 2,Melancia
+31,Fruta 2,Melão Espanhol
+32,Fruta 2,Melão Japonês
+33,Guarnição,(sem cardápio informado)
+34,Guarnição,Batata Rústica
+35,Guarnição,Batata Souté
+36,Guarnição,Cuscuz
+37,Guarnição,Farofa
+38,Guarnição,Farofa Branca com Soja
+39,Guarnição,Farofa com Cenoura
+40,Guarnição,Macarrão
+41,Guarnição,Macarrão Parafuso
+42,Guarnição,Macaxeira
+43,Guarnição,Macaxeira Refogada
+44,Guarnição,Purê
+45,Leite,Leite 
+46,Leite Veg,Leite de Soja 
+47,Leite Veg,Leite sem Lactose 
+48,Manteiga,Manteiga 
+49,PB, Frango ao M. Tropical
+50,PB,(sem cardápio informado)
+51,PB,Creme de Frango
+52,PB,Cubos de Frango Acebolado
+53,PB,Cubos de Frango ao M. Escuro
+54,PB,Cubos de Frango ao M. Tropical 
+55,PB,Cubos de Frango ao M. Vermelho
+56,PB,Cubos de Frango ao M. de Ervas
+57,PB,Cubos de Frango ao M. de Legumes
+58,PB,Cubos de Frango ao M. de Tomate
+59,PB,Cubos de Frango ao Molho Mostarda
+60,PB,Cubos de Frango com Batata Rústica
+61,PB,Cubos de Frango com Ervas
+62,PB,Cubos de Frango à Chinesa
+63,PB,Escondidinho de Frango
+64,PB,Estrogonofe de Frango
+65,PB,Frango Xadrez
+66,PB,Frango ao Molho de Ervas
+67,PB,Fricassê de Frango
+68,PB,Isca de Frango Acebolado
+69,PB,Isca de Frango ao M. Ervas
+70,PB,Isca de Frango ao M. Tropical
+71,PB,Isca de Frango ao M. de Legumes
+72,PB,Isca de Frango ao Molho
+73,PB,Isca de Frango ao Molho Vermelho
+74,PB,Isca de Frango com Ervas
+75,PB,Moqueca de Peixe
+76,PB,Peixe Assado
+77,PB,Peixe ao M. Branco
+78,PB,Peixe ao M. de Peixada
+79,PB,Peixe à Delícia
+80,PB,Sobrecoxa  ao M.Ervas
+81,PB,Sobrecoxa Assada
+82,PB,Sobrecoxa Assada/ ao Forno
+83,PB,Sobrecoxa Crocante
+84,PB,Sobrecoxa Desossada
+85,PB,Sobrecoxa Desossada ao M.
+86,PB,Sobrecoxa Desossada ao M.Ervas
+87,PB,Sobrecoxa Desosssada Crocante
+88,PB,Sobrecoxa ao M. de Ervas
+89,PB,Sobrecoxa ao M. de Legumes
+90,PB,Sobrecoxa ao Molho
+91,PB,Sobrecoxa com Gergelim
+92,PB,Vatapá de Frango
+93,PV,(sem cardápio informado)
+94,PV,Assado de Panela
+95,PV,Calabresa Acebolada
+96,PV,Calabresa à Carioca
+97,PV,Carne Moída Refogada
+98,PV,Carne Moída ao M. Tomate
+99,PV,Carne Moída ao Molho
+100,PV,Carne Moída à Bolonhesa
+101,PV,Carne de Sol Acebolada
+102,PV,Carne do Sol
+103,PV,Cozido Bovino à Calabresa
+104,PV,Cozido Nordestino
+105,PV,Cubo Suíno ao M. Escuro
+106,PV,Cubo Suíno ao Molho Barbecue
+107,PV,Cubo Suíno à Carioca
+108,PV,Cubo suíno acebolado
+109,PV,Cubos Carne ao M. Madeira
+110,PV,Cubos Suíno Acebolado
+111,PV,Cubos Suíno ao molho barbecue
+112,PV,Cubos de Carne ao M. Escuro
+113,PV,Cubos de Carne ao M. Madeira
+114,PV,Cubos de Carne à Chinesa
+115,PV,Dobradinha
+116,PV,Escondidinho de Calabresa
+117,PV,Escondidinho de Carne
+118,PV,Estrogonofe de Carne
+119,PV,Feijoada
+120,PV,Isca Carne ao M. Tomate
+121,PV,Isca de Carne Acebolada
+122,PV,Isca de Carne Chinesa
+123,PV,Isca de Carne ao M. Tomate
+124,PV,Isca de Carne ao Molho Escuro
+125,PV,Isca de Fígado ao Molho
+126,PV,Jardineira de Carne Moída
+127,PV,Lasanha de Calabresa
+128,PV,Lasanha de Carne Moída
+129,PV,Paçoca de Carne
+130,PV,Picadinho com Legumes
+131,PV,Picadinho de Carne com Legumes
+132,PV,Suíno Acebolado
+133,PV,Suíno ao M. Escuro
+134,PV,Suíno ao Molho Barbecue
+135,PV,Suíno à Carioca
+136,PV,Torta de Calabresa
+137,Pão Francês,Pão Francês 
+138,Pão Opção,Pão Sovado 
+139,Pão Opção,Pão de Forma
+140,Salada,(sem cardápio informado)
+141,Salada,Salada Cozida
+142,Salada,Salada Crua
+143,Salada,Vinagrete
+144,Sobremesa,(sem cardápio informado)
+145,Sobremesa,Abacaxi
+146,Sobremesa,Banana
+147,Sobremesa,Laranja
+148,Sobremesa,Maçã
+149,Sobremesa,Melancia
+150,Sobremesa,Melão Espanhol
+151,Sobremesa,Melão Japonês
+152,Sobremesa,Tangerina
+153,Suco,(sem cardápio informado)
+154,Suco,Acerola
+155,Suco,Caju
+156,Suco,Cajá
+157,Suco,Goiaba
+158,Suco,Graviola
+159,Suco,Manga
+160,Suco,Seriguela
+161,Suco,Tamarindo
+162,Suco SA,(sem cardápio informado)
+163,Suco SA,Acerola
+164,Suco SA,Caju
+165,Suco SA,Cajá
+166,Suco SA,Goiaba
+167,Suco SA,Graviola
+168,Suco SA,Manga
+169,Suco SA,Seriguela
+170,Suco SA,Tamarindo
+171,VEG,(sem cardápio informado)
+172,VEG,Almôndegas de Lentilha
+173,VEG,Arroz Cremoso de Lentilha
+174,VEG,Assado de Grão de Bico
+175,VEG,Assado de Grão de Bico com Legumes
+176,VEG,Assado de Lentilha
+177,VEG,Bobó de Legumes
+178,VEG,Bolinha de Ervilha c/ Aveia
+179,VEG,Bolinha de grão de bico
+180,VEG,Bolinho de Ervilha com Aveia
+181,VEG,Bolinho de grão de bico
+182,VEG,Bolo Salgado Vegano
+183,VEG,Curry de lentilha
+184,VEG,Escondidinho de Legumes
+185,VEG,Escondidinho de Soja
+186,VEG,Estrogonofe de Grão de Bico
+187,VEG,Estrogonofe de Legumes
+188,VEG,Feijoada Vegetariana
+189,VEG,Guisado de Lentilha
+190,VEG,Hambúrguer de Soja
+191,VEG,Jardineira de Lentilha
+192,VEG,Jardineira de Soja
+193,VEG,Lasanha Vegetaraiana
+194,VEG,Lasanha de Batatas
+195,VEG,Lasanha de Brócolis
+196,VEG,Macarronada Vegetariana
+197,VEG,Maria Isabel Vegana
+198,VEG,Moqueca Vegetariana
+199,VEG,Panqueca Vegana ao Molho Branco
+200,VEG,Refogado  de Soja
+201,VEG,Refogado de Lentilha
+202,VEG,Risoto de Lentilha
+203,VEG,Rocambole de Grão de Bico
+204,VEG,Rocombole Grão de Bico
+205,VEG,Salpicão vegano
+206,VEG,Soja Nordestina
+207,VEG,Soja Tropical
+208,VEG,Soja à Bolonhesa
+209,VEG,Soja á Bolonhesa
+210,VEG,Suflê de Legumes
+211,VEG,Torta de Legumes
+212,VEG,Vatapá Vegano
+213,VEG,Yakissoba Vegetariano
