@@ -1,1 +1,345 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel Estratégico da Nutrição — RU/UFC</title>
+<meta name="description" content="Pipeline de dados, dashboard Streamlit e modelo Power BI para o Restaurante Universitário da UFC.">
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --azul:#06668A;
+    --ciano:#09A0C7;
+    --dourado:#FDC903;
+    --creme:#FFFBF2;
+    --vermelho:#D41614;
+    --tinta:#1B1B18;
+    --linha:#06668A;
+    --max: 880px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--creme);
+    color:var(--tinta);
+    font-family:'Public Sans', -apple-system, Segoe UI, sans-serif;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--azul);}
+  .wrap{max-width:var(--max); margin:0 auto; padding:0 24px;}
 
+  /* ---------- Topbar ---------- */
+  .topbar{
+    background:var(--azul);
+    color:var(--creme);
+    padding:14px 0;
+    font-size:14px;
+    letter-spacing:.01em;
+  }
+  .topbar .wrap{display:flex; justify-content:space-between; align-items:center; gap:16px; flex-wrap:wrap;}
+  .topbar a{color:var(--creme); text-decoration:none; border-bottom:1px solid rgba(255,251,242,.4);}
+  .topbar a:hover{border-bottom-color:var(--creme);}
+
+  /* ---------- Hero ---------- */
+  .hero{padding:64px 0 40px;}
+  .hero .kicker{
+    font-family:'Archivo Black', sans-serif;
+    font-size:13px;
+    letter-spacing:.06em;
+    color:var(--vermelho);
+    margin:0 0 18px;
+  }
+  .hero h1{
+    font-family:'Archivo Black', sans-serif;
+    font-weight:400;
+    font-size:clamp(32px, 5.4vw, 54px);
+    line-height:1.05;
+    margin:0 0 20px;
+    color:var(--azul);
+    max-width:14ch;
+  }
+  .hero p.lede{
+    font-size:18px;
+    max-width:56ch;
+    color:#3a3a35;
+    margin:0 0 28px;
+  }
+  .cta-row{display:flex; gap:14px; flex-wrap:wrap;}
+  .btn{
+    display:inline-block;
+    padding:13px 22px;
+    border-radius:6px;
+    font-weight:600;
+    font-size:15px;
+    text-decoration:none;
+    border:2px solid var(--azul);
+  }
+  .btn.primary{background:var(--azul); color:var(--creme);}
+  .btn.primary:hover{background:#054f6d;}
+  .btn.ghost{background:transparent; color:var(--azul);}
+  .btn.ghost:hover{background:rgba(6,102,138,.08);}
+
+  /* ---------- O achado (callout vermelho) ---------- */
+  .achado{
+    background:#fff;
+    border-left:6px solid var(--vermelho);
+    padding:22px 26px;
+    margin:44px 0;
+    border-radius:2px;
+  }
+  .achado .tag{
+    font-size:12px;
+    font-weight:700;
+    letter-spacing:.06em;
+    color:var(--vermelho);
+    display:block;
+    margin-bottom:8px;
+  }
+  .achado p{margin:0; font-size:16px;}
+  .achado strong{color:var(--vermelho);}
+
+  /* ---------- Seção genérica ---------- */
+  section{padding:36px 0;}
+  h2{
+    font-family:'Archivo Black', sans-serif;
+    font-weight:400;
+    font-size:24px;
+    color:var(--azul);
+    margin:0 0 22px;
+  }
+
+  /* ---------- Rótulo Nutricional (peça central) ---------- */
+  .rotulo{
+    background:#fff;
+    border:3px solid var(--tinta);
+    max-width:420px;
+    margin:0 auto;
+    font-family:'Public Sans', sans-serif;
+  }
+  .rotulo-top{
+    padding:14px 18px 10px;
+    border-bottom:10px solid var(--tinta);
+  }
+  .rotulo-top h3{
+    font-family:'Archivo Black', sans-serif;
+    font-weight:400;
+    font-size:30px;
+    margin:0 0 2px;
+    line-height:1.05;
+  }
+  .rotulo-top .sub{font-size:14px; color:#555;}
+  .rotulo-serving{
+    padding:8px 18px;
+    border-bottom:6px solid var(--tinta);
+    font-size:14px;
+    display:flex;
+    justify-content:space-between;
+  }
+  .rotulo-body{padding:10px 18px 4px;}
+  .linha-nutri{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    padding:7px 0;
+    border-bottom:1px solid #ddd;
+    font-size:15px;
+  }
+  .linha-nutri.thick{border-bottom:4px solid var(--tinta); font-weight:700; font-size:17px; padding-top:10px;}
+  .linha-nutri .nome{display:flex; align-items:baseline; gap:6px;}
+  .linha-nutri .valor{font-weight:700; color:var(--azul);}
+  .rotulo-foot{
+    padding:12px 18px 18px;
+    font-size:11.5px;
+    color:#555;
+    border-top:6px solid var(--tinta);
+  }
+
+  /* ---------- Ingredientes (stack técnico) ---------- */
+  .ingredientes{
+    display:flex; flex-wrap:wrap; gap:10px;
+  }
+  .ingrediente{
+    background:#fff;
+    border:1px solid #ddd6c4;
+    border-radius:20px;
+    padding:8px 16px;
+    font-size:14px;
+    font-weight:600;
+    color:var(--azul);
+  }
+
+  /* ---------- Estrutura (3 páginas) ---------- */
+  .paginas{display:grid; grid-template-columns:repeat(3,1fr); gap:16px;}
+  .pagina{background:#fff; border-top:4px solid var(--ciano); padding:18px 18px 20px; border-radius:2px;}
+  .pagina .num{
+    font-family:'Archivo Black', sans-serif;
+    font-size:13px;
+    color:var(--ciano);
+    display:block;
+    margin-bottom:6px;
+  }
+  .pagina h4{margin:0 0 8px; font-size:17px; color:var(--tinta);}
+  .pagina ul{margin:0; padding-left:18px; font-size:14px; color:#4a4a44;}
+  .pagina li{margin-bottom:4px;}
+
+  /* ---------- Footer ---------- */
+  footer{
+    background:var(--azul);
+    color:var(--creme);
+    padding:34px 0;
+    margin-top:50px;
+    font-size:14px;
+  }
+  footer a{color:var(--dourado);}
+  footer .wrap{display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px;}
+
+  @media (max-width:640px){
+    .paginas{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+
+  <div class="topbar">
+    <div class="wrap">
+      <span>Restaurante Universitário — Universidade Federal do Ceará</span>
+      <a href="https://dashboard-ru-ufc-25gfxvetmeah4rev4x44cj.streamlit.app/">Abrir o dashboard →</a>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <section class="hero">
+      <p class="kicker">PROJETO DE DADOS · NUTRIÇÃO INSTITUCIONAL</p>
+      <h1>Um indicador de desperdício mostrava 1.957%.</h1>
+      <p class="lede">
+        Fisicamente impossível — e quase passou despercebido. Este projeto trata,
+        modela e apresenta os dados de produção, satisfação e temperatura do RU/UFC,
+        com cada fórmula validada contra a base real antes de virar número na tela.
+      </p>
+      <div class="cta-row">
+        <a class="btn primary" href="https://dashboard-ru-ufc-25gfxvetmeah4rev4x44cj.streamlit.app/">Ver o dashboard ao vivo</a>
+        <a class="btn ghost" href="#estrutura">Como foi construído</a>
+      </div>
+    </section>
+
+    <div class="achado">
+      <span class="tag">O QUE ESTAVA POR TRÁS DO 1.957%</span>
+      <p>
+        Uma coluna de "sobra limpa" chegava em branco — não zero, em branco —
+        em 98,5% das linhas de uma das unidades. <strong>Vazio menos alguma coisa
+        vira vazio</strong>; a soma agregada descartava essas linhas do
+        denominador enquanto o numerador continuava contando normalmente.
+        Corrigido: tratar ausência como zero, não como desconhecido. O
+        indicador caiu para 22,6% — alto, mas real.
+      </p>
+    </div>
+
+    <section>
+      <h2>A tabela nutricional do projeto</h2>
+      <div class="rotulo">
+        <div class="rotulo-top">
+          <h3>Informação do Projeto</h3>
+          <div class="sub">Pipeline de dados · RU/UFC</div>
+        </div>
+        <div class="rotulo-serving">
+          <span>Porção: 1 pipeline</span>
+          <span>Execução: ~2,5 min</span>
+        </div>
+        <div class="rotulo-body">
+          <div class="linha-nutri thick">
+            <span class="nome">Indicadores oficiais</span>
+            <span class="valor">5</span>
+          </div>
+          <div class="linha-nutri">
+            <span class="nome">Testes automatizados</span>
+            <span class="valor">120</span>
+          </div>
+          <div class="linha-nutri">
+            <span class="nome">Linhas de dado processadas</span>
+            <span class="valor">~18.000</span>
+          </div>
+          <div class="linha-nutri">
+            <span class="nome">Tabelas do modelo Power BI</span>
+            <span class="valor">9</span>
+          </div>
+          <div class="linha-nutri">
+            <span class="nome">Relacionamentos no modelo</span>
+            <span class="valor">17</span>
+          </div>
+          <div class="linha-nutri">
+            <span class="nome">Bugs reais encontrados e corrigidos</span>
+            <span class="valor">4</span>
+          </div>
+        </div>
+        <div class="rotulo-foot">
+          Valores calculados a partir do pipeline de tratamento (extração → validação
+          → transformação → modelo estrela). Não contém dado pessoal identificável.
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Ingredientes</h2>
+      <div class="ingredientes">
+        <span class="ingrediente">Python</span>
+        <span class="ingrediente">pandas</span>
+        <span class="ingrediente">pytest</span>
+        <span class="ingrediente">Streamlit</span>
+        <span class="ingrediente">Plotly</span>
+        <span class="ingrediente">Power BI</span>
+        <span class="ingrediente">DAX</span>
+        <span class="ingrediente">Modelagem dimensional</span>
+      </div>
+    </section>
+
+    <section id="estrutura">
+      <h2>Estrutura do painel</h2>
+      <div class="paginas">
+        <div class="pagina">
+          <span class="num">01</span>
+          <h4>Visão Geral</h4>
+          <ul>
+            <li>Total de refeições</li>
+            <li>Média mensal</li>
+            <li>Evolução temporal</li>
+            <li>Comparação entre unidades</li>
+          </ul>
+        </div>
+        <div class="pagina">
+          <span class="num">02</span>
+          <h4>Qualidade</h4>
+          <ul>
+            <li>Resto-ingesta oficial</li>
+            <li>Satisfação do cliente (ISC)</li>
+            <li>Conformidade de temperatura</li>
+            <li>Avaliação sensorial (QC interno)</li>
+          </ul>
+        </div>
+        <div class="pagina">
+          <span class="num">03</span>
+          <h4>Produção e Eficiência</h4>
+          <ul>
+            <li>Per capita por preparação</li>
+            <li>Desperdício por unidade</li>
+            <li>Índice de aceitabilidade</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <footer>
+    <div class="wrap">
+      <span>Restaurante Universitário — UFC</span>
+      <span><a href="https://dashboard-ru-ufc-25gfxvetmeah4rev4x44cj.streamlit.app/">Dashboard</a> · <a href="README.md">Documentação</a></span>
+    </div>
+  </footer>
+
+</body>
+</html>
