@@ -9,7 +9,7 @@ import streamlit as st
 from src.config import load_mappings
 
 
-def render_sidebar_filters(fact_detalhe: pd.DataFrame) -> dict:
+def render_sidebar_filters(fact_detalhe: pd.DataFrame, tipos_preparacao: list[str] | None = None) -> dict:
     mp = load_mappings()
     ru_labels = mp["ru_canonico"]  # {"P1": "Pici 1", ...}
     refeicoes = ["Café", "Almoço", "Jantar"]
@@ -45,9 +45,24 @@ def render_sidebar_filters(fact_detalhe: pd.DataFrame) -> dict:
         "Refeição", options=refeicoes, default=refeicoes
     ) or None
 
+    tipo_preparacao_selecionado = None
+    if tipos_preparacao:
+        tipo_preparacao_selecionado = st.sidebar.multiselect(
+            "Tipo de preparação",
+            options=sorted(tipos_preparacao),
+            default=[],
+            help=(
+                "Filtra a aba 'Indicadores Oficiais' e a página 'Produção e "
+                "Eficiência' (Resto-Ingesta, Per Capita, Conformidade). Não "
+                "afeta as abas do MVP original, que usam outra fonte de dado "
+                "sem essa dimensão. Vazio = todos os tipos."
+            ),
+        ) or None
+
     return {
         "ru": ru_selecionados,
         "refeicao": refeicao_selecionada,
         "data_ini": data_ini,
         "data_fim": data_fim,
+        "tipo_preparacao": tipo_preparacao_selecionado,
     }
