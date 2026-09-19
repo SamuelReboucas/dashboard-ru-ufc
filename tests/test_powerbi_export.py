@@ -84,6 +84,52 @@ def test_quantidade_distribuida_e_peso_liq_menos_sobra_limpa(fact_detalhe):
     assert linha["quantidade_distribuida"] == pytest.approx(90.0 - 5.0)
 
 
+def test_quantidade_distribuida_sobra_limpa_ausente_vira_zero_nao_nulo():
+    """Regressão de bug real em producao: no RU Labomar, sobra_limpa vem em
+    branco (NaN, nao zero) em 98,5% das linhas. Sem tratar isso como 0, a
+    subtracao propaga NaN pra linha inteira e o SUM() agregado descarta o
+    numerador dessas linhas do denominador, inflando %Resto-Ingesta para
+    valores fisicamente impossiveis (observado: 1.957% em vez de ~22,6%)."""
+    df = pd.DataFrame([
+        {"ru": "L", "data": pd.Timestamp("2026-01-05"), "refeicao": "Almoço", "prep": "PV",
+         "cardapio": "Cozido Bovino", "peso_bruto": 20.0, "peso_liq": 18.8, "sobra_limpa": None,
+         "sobra_suja": 8.6, "consumo_real": 10.2, "comensais": 50, "comensais_real": 200, "temp_c": None},
+    ])
+    dim = build_dim_preparacao(df)
+    fp = build_fact_producao(df, dim)
+    linha = fp.iloc[0]
+    # sobra_limpa ausente -> tratado como 0, quantidade_distribuida = 18.8 - 0 = 18.8 (nunca NaN)
+    assert linha["quantidade_distribuida"] == pytest.approx(18.8)
+    assert not pd.isna(linha["quantidade_distribuida"])
+    assert linha["pct_resto_ingesta"] == pytest.approx(8.6 / 18.8 * 100)
+
+
+def test_agregacao_nao_explode_quando_maioria_das_linhas_tem_sobra_limpa_ausente():
+    """Cenário real do Labomar reproduzido em miniatura: várias linhas sem
+    sobra_limpa (só uma com valor) — o SUM() agregado de quantidade_distribuida
+    precisa continuar refletindo a soma de peso_liq (ajustada pelas poucas
+    sobras limpas reais), nunca descartar a maioria das linhas do denominador."""
+    linhas = []
+    for i in range(10):
+        linhas.append({
+            "ru": "L", "data": pd.Timestamp("2026-01-05") + pd.Timedelta(days=i),
+            "refeicao": "Almoço", "prep": "PB", "cardapio": f"Prato {i}",
+            "peso_bruto": 20.0, "peso_liq": 20.0,
+            "sobra_limpa": 5.0 if i == 0 else None,  # só 1 de 10 linhas tem sobra_limpa registrada
+            "sobra_suja": 10.0, "consumo_real": 5.0, "comensais": 100, "comensais_real": 100,
+            "temp_c": None,
+        })
+    df = pd.DataFrame(linhas)
+    dim = build_dim_preparacao(df)
+    fp = build_fact_producao(df, dim)
+    # esperado: 9 linhas com quantidade_distribuida=20 (sobra_limpa=0) + 1 com 15 (20-5) = 195
+    assert fp["quantidade_distribuida"].sum() == pytest.approx(9 * 20.0 + 15.0)
+    # nunca deve haver NaN em quantidade_distribuida por causa de sobra_limpa ausente
+    assert fp["quantidade_distribuida"].isna().sum() == 0
+    pct_agregado = fp["resto_ingesta_kg"].sum() / fp["quantidade_distribuida"].sum() * 100
+    assert pct_agregado < 100  # sanidade física — nunca pode passar de 100%
+
+
 def test_resto_ingesta_kg_e_sobra_suja(fact_detalhe):
     dim = build_dim_preparacao(fact_detalhe)
     fp = build_fact_producao(fact_detalhe, dim)

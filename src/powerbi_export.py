@@ -350,7 +350,22 @@ def build_fact_producao(fact_detalhe: pd.DataFrame, dim_preparacao: pd.DataFrame
 
     Campos derivados, todos calculados a partir de fórmulas já validadas
     contra a base real (ver docstring do módulo):
-      - quantidade_distribuida = peso_liq - sobra_limpa
+      - quantidade_distribuida = peso_liq - sobra_limpa (fillna(0))
+                                 CORREÇÃO (achado real, uso em produção):
+                                 `sobra_limpa` vem em branco — não zero — em
+                                 98,5% das linhas do Labomar (a planilha
+                                 daquele RU praticamente não registra essa
+                                 coluna). Sem o fillna(0), `peso_liq - NaN`
+                                 vira NaN pra linha inteira, e o SUM()
+                                 agregado descarta essas linhas do
+                                 denominador enquanto o numerador
+                                 (resto_ingesta_kg, que não depende de
+                                 sobra_limpa) continua somando normalmente —
+                                 resultado observado: % Resto-Ingesta do
+                                 Labomar saindo como 1.957% (impossível)
+                                 em vez de ~22,6%. `sobra_limpa` ausente é
+                                 tratado como 0 (nenhuma sobra limpa
+                                 registrada), não como "desconhecido".
       - resto_ingesta_kg       = sobra_suja
       - pct_resto_ingesta      = resto_ingesta_kg / quantidade_distribuida
                                  (informativo, POR LINHA — para agregações
@@ -368,7 +383,7 @@ def build_fact_producao(fact_detalhe: pd.DataFrame, dim_preparacao: pd.DataFrame
     """
     df = fact_detalhe.copy()
 
-    df["quantidade_distribuida"] = df["peso_liq"] - df["sobra_limpa"]
+    df["quantidade_distribuida"] = df["peso_liq"] - df["sobra_limpa"].fillna(0)
     df["resto_ingesta_kg"] = df["sobra_suja"]
 
     qd_safe = df["quantidade_distribuida"].replace(0, np.nan)
